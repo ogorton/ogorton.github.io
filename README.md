@@ -36,6 +36,7 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 # Experience
 
 1. High Energy Density Physics Intern  
+   
    At [Lawrence Livermore National Laboratory](https://www.llnl.gov), during
    Summer 2018, 2019, and 2020
     - Developed Python code to do MCMC parameter estimation for statistical nuclear reaction codes in order to combine surrogate data and theory
