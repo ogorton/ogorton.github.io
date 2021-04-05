@@ -1,5 +1,5 @@
 # About Oliver Gorton
-![Oliver Gorton](ogorton.jpeg=100x) 
+![Oliver Gorton](ogorton.jpeg=100x100) 
 
 Doctoral student  
 
