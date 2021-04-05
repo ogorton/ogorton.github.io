@@ -1,4 +1,4 @@
-[Shell Reference Sheet](https://github.com/ogorton/ogorton.github.io/blob/f251fe037e43e4c9da30677f4b42bc9e5d8788b7/shellreference.md)
+
 # About Oliver Gorton
 ![Oliver Gorton](ogorton.jpeg) 
 
@@ -35,33 +35,33 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 
 # Experience
 
-### High Energy Density Physics Intern 
+#### High Energy Density Physics Intern 
 At [Lawrence Livermore National Laboratory](https://www.llnl.gov), during
 Summer 2018, 2019, and 2020
 - Developed Python code to do MCMC parameter estimation for statistical nuclear reaction codes in order to combine surrogate data and theory
 - Employed code for sensitivity studies assessing approximations in the surrogate reactions method
 - Modified and ran four Hauser-Feshbach model codes
 
-### Graduate Research Assistant
+#### Graduate Research Assistant
 At SDSU Research Foundation with [Calvin Johnson](http://sci.sdsu.edu/johnson/), during 2019 - present
 - Developed software and theory to describe atomic nuclei using the nuclear shell model and computaional science
 
-### Graduate Student
+#### Graduate Student
 At UC Irvine, Department of Chemistry with [Filipp Furche](https://ffgroup.chem.uci.edu/members/filipp/), during Fall 2019 and Spring 2020.
 - Collaborated to develop formalism for Nuclear-Electronic Orbital method using time-dependent density functional theory
 
-### Graduate Teaching Associate
+#### Graduate Teaching Associate
 At San Diego State Univeristy, Department of Physics, during 2016 - 2020.
 - Independently led lectures and exams for introductory-level physics lab courses
 - Modernized Intro Mechanics Physics Laboratory for online deployment in Spring 2020
 
 # Training
-### Technical Writing Workshop, 2019
+#### Technical Writing Workshop, 2019
 LLNL PLS Directorate sponsored two-part writing class
 - Session 1: ``Structuring your research paper"
 - Session 2: ``Clear, accurate, concise writing
 
-### Agile Development Practices and Tools: A Guided Tour, 2020
+#### Agile Development Practices and Tools: A Guided Tour, 2020
 Sustainable Horizons Institute introduction to agile software development
 - Collaborative source control using git, GitHub, and git workflows
 
