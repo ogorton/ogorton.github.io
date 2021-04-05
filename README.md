@@ -43,27 +43,27 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
     - Modified and ran four Hauser-Feshbach model codes
 
 2. Graduate Research Assistant
-At SDSU Research Foundation with [Calvin Johnson](http://sci.sdsu.edu/johnson/), during 2019 - present
-- Developed software and theory to describe atomic nuclei using the nuclear shell model and computaional science
+    At SDSU Research Foundation with [Calvin Johnson](http://sci.sdsu.edu/johnson/), during 2019 - present
+    - Developed software and theory to describe atomic nuclei using the nuclear shell model and computaional science
 
 3. Graduate Student
-At UC Irvine, Department of Chemistry with [Filipp Furche](https://ffgroup.chem.uci.edu/members/filipp/), during Fall 2019 and Spring 2020.
-- Collaborated to develop formalism for Nuclear-Electronic Orbital method using time-dependent density functional theory
+   At UC Irvine, Department of Chemistry with [Filipp Furche](https://ffgroup.chem.uci.edu/members/filipp/), during Fall 2019 and Spring 2020.
+   - Collaborated to develop formalism for Nuclear-Electronic Orbital method using time-dependent density functional theory
 
 4. Graduate Teaching Associate
-At San Diego State Univeristy, Department of Physics, during 2016 - 2020.
-- Independently led lectures and exams for introductory-level physics lab courses
-- Modernized Intro Mechanics Physics Laboratory for online deployment in Spring 2020
+   At San Diego State Univeristy, Department of Physics, during 2016 - 2020.
+   - Independently led lectures and exams for introductory-level physics lab courses
+   - Modernized Intro Mechanics Physics Laboratory for online deployment in Spring 2020
 
 # Training
-#### Technical Writing Workshop, 2019
-LLNL PLS Directorate sponsored two-part writing class
-- Session 1: ``Structuring your research paper"
-- Session 2: ``Clear, accurate, concise writing
+1. Technical Writing Workshop, 2019
+   LLNL PLS Directorate sponsored two-part writing class
+   - Session 1: ``Structuring your research paper"
+   - Session 2: ``Clear, accurate, concise writing
 
-#### Agile Development Practices and Tools: A Guided Tour, 2020
-Sustainable Horizons Institute introduction to agile software development
-- Collaborative source control using git, GitHub, and git workflows
+2. Agile Development Practices and Tools: A Guided Tour, 2020
+   Sustainable Horizons Institute introduction to agile software development
+   - Collaborative source control using git, GitHub, and git workflows
 
 # Skills and Technologies
 - Major projects: Modern Fortran, Python, Bash
