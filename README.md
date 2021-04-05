@@ -1,6 +1,7 @@
 # About Oliver Gorton
+![Oliver Gorton](ogorton.jpeg) 
 
-Doctoral student  ![Oliver Gorton](ogorton.jpeg) 
+Doctoral student  
 San Diego State University 
 University of California, Irvine 
 
