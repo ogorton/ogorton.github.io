@@ -2,7 +2,9 @@
 ![Oliver Gorton](ogorton.jpeg) 
 
 Doctoral student  
+
 San Diego State University 
+
 University of California, Irvine 
 
 ## Education
