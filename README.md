@@ -1,10 +1,8 @@
 # About Oliver Gorton
 
-Doctoral student
-
-San Diego State University
-
-University of California, Irvine
+Doctoral student  ![Oliver Gorton](ogorton.JPG) 
+San Diego State University 
+University of California, Irvine 
 
 ## Education
 
