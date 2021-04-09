@@ -1,14 +1,13 @@
-
+> ![Oliver Gorton](ogorton.jpeg) 
 # About Oliver Gorton
-![Oliver Gorton](ogorton.jpeg) 
 
-Doctoral student  
+Doctoral Student
 
 San Diego State University 
 
 University of California, Irvine 
 
-# Education
+## Education
 
 #### PhD Computational Science, expected 2023
 
@@ -22,7 +21,7 @@ from _San Diego State University, CA, USA_
 
 from _University of California, Berkeley, Berkeley, USA_
 
-# Pubications
+## Pubications
 
 1. Cross sections for neutron-induced reactions from surrogate data: revisiting the Weisskopf-Ewing approximation for (n,n') and (n,2n) reactions, _O. Gorton and J. E. Escher, submitted to Phys. Rev. C. Pre-print available [arXiv:2102.03452](https://arxiv.org/abs/2102.03452)_.
 
@@ -33,7 +32,7 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 
 4. Efficient Modeling of Nuclei Through Coupling of Proton and Neutron Wavefunctions, _O. Gorton, Advisor: C. Johnson, Masters Thesis (2018)_
 
-# Experience
+## Experience
 
 1. High Energy Density Physics Intern  
    
@@ -59,7 +58,7 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
    - Independently led lectures and exams for introductory-level physics lab courses
    - Modernized Intro Mechanics Physics Laboratory for online deployment in Spring 2020
 
-# Training
+## Training
 1. Technical Writing Workshop, 2019
    LLNL PLS Directorate sponsored two-part writing class
    - Session 1: ``Structuring your research paper"
@@ -69,11 +68,11 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
    Sustainable Horizons Institute introduction to agile software development
    - Collaborative source control using git, GitHub, and git workflows
 
-# Skills and Technologies
+## Skills and Technologies
 - Major projects: Modern Fortran, Python, Bash
 - Minor tasks: C++, openMP, MPI, Mathematica, MATLAB, R
 
-# Presentations
+## Presentations
 1. ``Cross subsections for neutron reactions from surrogate measurements:  Revisiting the Weisskopf-Ewing approximation'' O. Gorton and J. E. Escher, DNP20 APS Conference (October 2020).
 2. ``Can we get rid of the theorists?'' O. Gorton and J. E. Escher, LLNL Summer Slam talk (August 2020).
 3. ``Big Picture and Background for Nuclear-Electronic Orbital (NEO) Approach: Calculating Mixed Nucleon-Electron Wave Functions'' O. Gorton, progress talk presented for the Furche Group, Chemistry Department, UC Irvine (March 2020).
