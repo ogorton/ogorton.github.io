@@ -1,4 +1,3 @@
-> ![Oliver Gorton](ogorton.jpeg) 
 # About Oliver Gorton
 
 Doctoral Student
