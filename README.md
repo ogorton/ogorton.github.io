@@ -1,5 +1,3 @@
-# About Oliver Gorton
-
 Doctoral Student
 
 San Diego State University 
