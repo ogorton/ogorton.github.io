@@ -1,4 +1,9 @@
-Interested in the intersection of Nuclear Data and Theory, and High Performance Computing.
+## Currently
+Doctoral Student
+
+San Diego State University 
+
+University of California, Irvine
 
 ## Education
 
