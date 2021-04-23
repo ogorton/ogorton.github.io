@@ -19,7 +19,7 @@ from _San Diego State University, CA, USA_
 
 from _University of California, Berkeley, Berkeley, USA_
 
-## Pubications
+## Publications
 
 1. Cross sections for neutron-induced reactions from surrogate data: revisiting the Weisskopf-Ewing approximation for (n,n') and (n,2n) reactions, _O. Gorton and J. E. Escher, submitted to Phys. Rev. C. Pre-print available [arXiv:2102.03452](https://arxiv.org/abs/2102.03452)_.
 
