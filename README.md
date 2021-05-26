@@ -1,5 +1,5 @@
 ## Currently
-Doctoral Student
+Doctoral Student, Interning at the [LLNL Seaborg Institute](https://seaborg.llnl.gov)
 
 San Diego State University 
 
