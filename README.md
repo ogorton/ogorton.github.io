@@ -7,7 +7,7 @@ Doctoral Student at the [Computational Science Research Center](http://www.csrc.
 
 #### PhD Computational Science, expected 2023
 
-_University of California, Irvine, Irvine, USA_ and _San Diego State University, CA, USA_
+_University of California, Irvine, Irvine, USA_ & _San Diego State University, CA, USA_
 
 #### MS Physics, 2018
 
