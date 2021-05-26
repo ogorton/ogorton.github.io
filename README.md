@@ -3,9 +3,7 @@ Doctoral Student, Interning at the [LLNL Seaborg Institute](https://seaborg.llnl
 
 Computational Science Research Center,
 
-San Diego State University +
-
-University of California, Irvine
+San Diego State University & University of California, Irvine
 
 ## Education
 
