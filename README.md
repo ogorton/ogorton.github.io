@@ -1,5 +1,5 @@
 ## Currently
-Doctoral Student, Interning at the [LLNL Seaborg Institute](https://seaborg.llnl.gov)
+Doctoral Student, Intern at the [LLNL Seaborg Institute](https://seaborg.llnl.gov)
 
 [Computational Science Research Center](http://www.csrc.sdsu.edu/),
 
