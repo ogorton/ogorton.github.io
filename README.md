@@ -9,15 +9,15 @@ University of California, Irvine
 
 #### PhD Computational Science, expected 2023
 
-from _University of California, Irvine, Irvine, USA_ and _San Diego State University, CA, USA_
+_University of California, Irvine, Irvine, USA_ and _San Diego State University, CA, USA_
 
 #### MS Physics, 2018
 
-from _San Diego State University, CA, USA_
+_San Diego State University, CA, USA_
 
 #### BA Physics, 2016
 
-from _University of California, Berkeley, Berkeley, USA_
+_University of California, Berkeley, Berkeley, USA_
 
 ## Publications
 
