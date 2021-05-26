@@ -1,7 +1,7 @@
 ## Currently
 Doctoral Student, Interning at the [LLNL Seaborg Institute](https://seaborg.llnl.gov)
 
-[Computational Science Research Center] (http://www.csrc.sdsu.edu/),
+[Computational Science Research Center](http://www.csrc.sdsu.edu/),
 
 San Diego State University & University of California, Irvine
 
