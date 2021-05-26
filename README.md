@@ -28,7 +28,7 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 
 4. Efficient Modeling of Nuclei Through Coupling of Proton and Neutron Wavefunctions, _O. Gorton, Advisor: C. Johnson, Masters Thesis (2018)_
 
-## Experience
+## Research
 
 1. High Energy Density Physics Intern  
    
@@ -48,7 +48,8 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
    At UC Irvine, Department of Chemistry with [Filipp Furche](https://ffgroup.chem.uci.edu/members/filipp/), during Fall 2019 and Spring 2020.
    - Collaborated to develop formalism for Nuclear-Electronic Orbital method using time-dependent density functional theory
 
-4. Graduate Teaching Associate
+## Teaching
+1. Graduate Teaching Associate
 
    At San Diego State Univeristy, Department of Physics, during 2016 - 2020.
    - Independently led lectures and exams for introductory-level physics lab courses
