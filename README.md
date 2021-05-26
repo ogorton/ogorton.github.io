@@ -53,7 +53,7 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 
    At San Diego State Univeristy, Department of Physics, during 2016 - 2020.
    - Independently led lectures and exams for introductory-level physics lab courses
-   - Modernized Intro Mechanics Physics Laboratory for online deployment in Spring 2020
+   - Modernized [the manual](https://docs.google.com/document/d/1pejqikoYhlaIMhSzBzUzrnh2hDrC_q-bEcJCeflpX7w/edit?usp=sharing) for Physics 182A/195L Laboratory for online deployment in Spring 2020
 
 ## Training
 1. Technical Writing Workshop, 2019
