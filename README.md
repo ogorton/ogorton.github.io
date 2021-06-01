@@ -30,7 +30,11 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 
 ## Research
 
-1. High Energy Density Physics Intern  
+1. Glenn T. Seaborg Institute (GTSI) summer intern
+
+   At [Seaborg Institure, LLNL](https://seaborg.llnl.gov), Summer 2021
+
+2. High Energy Density Physics Intern  
    
    At [Lawrence Livermore National Laboratory](https://www.llnl.gov), during
    Summer 2018, 2019, and 2020
@@ -38,12 +42,12 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
     - Employed code for sensitivity studies assessing approximations in the surrogate reactions method
     - Modified and ran four Hauser-Feshbach model codes
 
-2. Graduate Research Assistant
+3. Graduate Research Assistant
 
    At SDSU Research Foundation with [Calvin Johnson](http://sci.sdsu.edu/johnson/), during 2019 - present
    - Developed software and theory to describe atomic nuclei using the nuclear shell model and computaional science
 
-3. Graduate Student
+4. Graduate Student
 
    At UC Irvine, Department of Chemistry with [Filipp Furche](https://ffgroup.chem.uci.edu/members/filipp/), during Fall 2019 and Spring 2020.
    - Collaborated to develop formalism for Nuclear-Electronic Orbital method using time-dependent density functional theory
