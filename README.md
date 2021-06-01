@@ -32,7 +32,7 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 
 1. Glenn T. Seaborg Institute (GTSI) Summer Intern
 
-   At [Seaborg Institure, LLNL](https://seaborg.llnl.gov), Summer 2021
+   At [Seaborg Institute, LLNL](https://seaborg.llnl.gov), Summer 2021
 
 2. High Energy Density Physics Intern  
    
