@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+remote_theme: samarsault/plainwhite-jekyll
 logo: oliver2.JPG
 title: "About Oliver Gorton"
 description: "Uses scientific computing to study the structure and properties of atomic nuclei for basic and applied science."
