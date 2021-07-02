@@ -24,7 +24,7 @@ _University of California, Berkeley, Berkeley, USA_
 2. Measurements of proton capture in the A=100-110 mass region: Constraints of the 111In(gamma,p)/(gamma,n) branching point relevant to the
 gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Published November 2020 [Phys. Rev. C, 102, 055806](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806)_
 
-3. Neutron capture cross sections from surrogate reaction data and theory: connecting the pieces with a Markov-Chain Monte Carlo approach, _O. Gorton and J. E. Escher, CNR*18 Proceedings, Springer 2019. Preprint available [arXiv:1905:03055](https://arxiv.org/abs/1905.03055)._
+3. Neutron capture cross sections from surrogate reaction data and theory: connecting the pieces with a Markov-Chain Monte Carlo approach, _O. Gorton and J. E. Escher, CNR*18 Proceedings, Springer 2019. Preprint available [arXiv:1905:03055](https://arxiv.org/abs/1905.03055). [Spring Proceedings in Physics](https://doi.org/10.1007/978-3-030-58082-7_28)_
 
 4. Efficient Modeling of Nuclei Through Coupling of Proton and Neutron Wavefunctions, _O. Gorton, Advisor: C. Johnson, Masters Thesis (2018)_ [PDF](https://drive.google.com/file/d/1qB2aaVi4H8Ix5q65qkbMMd-vciDtWo2f/view?usp=sharing)
 
