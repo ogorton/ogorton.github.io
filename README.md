@@ -26,8 +26,7 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 
 3. Neutron capture cross sections from surrogate reaction data and theory: connecting the pieces with a Markov-Chain Monte Carlo approach, _O. Gorton and J. E. Escher, CNR*18 Proceedings. Preprint available [arXiv:1905:03055](https://arxiv.org/abs/1905.03055). Published September 2020[Spring Proceedings in Physics](https://doi.org/10.1007/978-3-030-58082-7_28)_
 
-4. Efficient Modeling of Nuclei Through Coupling of Proton and Neutron Wavefunctions, _O. Gorton, Advisor: C. Johnson, Masters Thesis (2018)_ [PDF](https://drive.google.com/file/d/1qB2aaVi4H8Ix5q65qkbMMd-vciDtWo2f/view?usp=sharing)
-
+4. Efficient Modeling of Nuclei Through Coupling of Proton and Neutron Wavefunctions, _O. Gorton, Advisor: C. Johnson, Masters Thesis (2018)_ [San Diego State University, 2018](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917)
 ## Research
 
 1. Glenn T. Seaborg Institute (GTSI) Summer Intern
@@ -88,5 +87,5 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 7. _Sensitivity Study of the Surrogate Method_ O. Gorton and J. E. Escher, poster presented at LLNL Student Poster Symposium (August 2019).
 8. _Temperature and Entropy in the Nuclear Shell Model_ O. Gorton and C. W. Johnson, poster presented at SDSU ACCESS event (April 2019).
 9. _Proton Neutron Interacting Shell Model: Order of Magnitude Reduction for Medium Mass Nuclei_ O. Gorton and C. Johnson, poster presentated at SDSU annual research symposium (March 2019).
-10. _Neutron capture cross subsections from surrogate reaction data and theory: connecting the pieces with a Markov-Chain Monte Carlo approach_ {O. Gorton} and J. E. Escher, poster presented at [CNR*18](https://indico.bnl.gov/event/4158/),  September 2018.
+10. _Neutron capture cross subsections from surrogate reaction data and theory: connecting the pieces with a Markov-Chain Monte Carlo approach_ O. Gorton and J. E. Escher, poster presented at [CNR*18](https://indico.bnl.gov/event/4158/),  September 2018.
 11. _A Markov Chain Monte Carlo Tool for Hauser-Feshbach Codes_ O. Gorton and J.E. Escher, HEDP Exit Talk (August 2018).
