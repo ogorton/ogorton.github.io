@@ -29,7 +29,6 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 4. Efficient Modeling of Nuclei Through Coupling of Proton and Neutron Wavefunctions, _O. Gorton, Advisor: C. Johnson, Masters Thesis (2018)_ [San Diego State University, 2018](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917)
 
 ## Research
-
 1. Glenn T. Seaborg Institute (GTSI) Summer Intern
 
    At [Seaborg Institute, LLNL](https://seaborg.llnl.gov), Summer 2021
@@ -70,12 +69,15 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 
 3. Technical Writing Workshop, 2019
    LLNL PLS Directorate sponsored two-part writing class
-   - Session 1: ``Structuring your research paper"
-   - Session 2: ``Clear, accurate, concise writing
+   - Session 1: ``Structuring your research paper``
+   - Session 2: ``Clear, accurate, concise writing``
 
 ## Skills and Technologies
 - Major projects: Modern Fortran, Python, Bash
 - Minor tasks: C++, openMP, MPI, Mathematica, MATLAB, R
+
+## Awards
+- Graduate S-STEM Scholarship, 2018-2020
 
 ## Presentations
 1. _Better MCMC for Nuclear Data using emcee and B-DJINN_ O. C. Gorton, J. E. Escher, K. O. Bergstrom, M. K. Kruse, talk given at LLNL Summer Slam 2021.
