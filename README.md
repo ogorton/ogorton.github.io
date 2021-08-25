@@ -1,6 +1,6 @@
 ## C u r r e n t l y
 
-![Oliver](oliver2.JPG)
+<img src="oliver2.JPD" alt="Oliver" width="200"/>
 
 Intern at the [LLNL Seaborg Institute](https://seaborg.llnl.gov)
 
