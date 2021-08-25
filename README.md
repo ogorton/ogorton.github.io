@@ -1,9 +1,9 @@
-## Currently
+## C u r r e n t l y
 Intern at the [LLNL Seaborg Institute](https://seaborg.llnl.gov)
 
 Doctoral Student at the [Computational Science Research Center](http://www.csrc.sdsu.edu/), San Diego State University & University of California, Irvine
 
-## Education
+## E d u c a t i o n
 
 #### PhD Computational Science, expected 2023
 
