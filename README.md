@@ -5,17 +5,11 @@ Doctoral Student at the [Computational Science Research Center](http://www.csrc.
 
 ## E d u c a t i o n
 
-PhD Computational Science, expected 2023
+PhD Computational Science, expected 2023 - _University of California, Irvine, Irvine, USA_ & _San Diego State University, CA, USA_
 
-_University of California, Irvine, Irvine, USA_ & _San Diego State University, CA, USA_
+MS Physics, 2018 - _San Diego State University, CA, USA_
 
-MS Physics, 2018
-
-_San Diego State University, CA, USA_
-
-BA Physics, 2016
-
-_University of California, Berkeley, Berkeley, USA_
+BA Physics, 2016 - _University of California, Berkeley, Berkeley, USA_
 
 ## P u b l i c a t i o n s
 
