@@ -72,7 +72,7 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
    - Session 1: ``Structuring your research paper``
    - Session 2: ``Clear, accurate, concise writing``
 
-## S k i l l s   a n d   T e c h n o l o g i e s
+## S k i l l s   &   T e c h n o l o g i e s
 - Major projects: Modern Fortran, Python, Bash
 - Minor tasks: C++, openMP, MPI, Mathematica, MATLAB, R
 
