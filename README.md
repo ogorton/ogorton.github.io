@@ -17,7 +17,7 @@ _San Diego State University, CA, USA_
 
 _University of California, Berkeley, Berkeley, USA_
 
-## Publications
+## P u b l i c a t i o n s
 
 1. Cross sections for neutron-induced reactions from surrogate data: revisiting the Weisskopf-Ewing approximation for (n,n') and (n,2n) reactions, _O. Gorton and J. E. Escher, submitted to Phys. Rev. C. Pre-print available [arXiv:2102.03452](https://arxiv.org/abs/2102.03452)_.
 
@@ -28,7 +28,7 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 
 4. Efficient Modeling of Nuclei Through Coupling of Proton and Neutron Wavefunctions, _O. Gorton, Advisor: C. Johnson, Masters Thesis (2018)_ [San Diego State University, 2018](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917)
 
-## Research
+## R e s e a r c h
 1. Glenn T. Seaborg Institute (GTSI) Summer Intern
 
    At [Seaborg Institute, LLNL](https://seaborg.llnl.gov), Summer 2021
@@ -51,14 +51,14 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
    At UC Irvine, Department of Chemistry with [Filipp Furche](https://ffgroup.chem.uci.edu/members/filipp/), during Fall 2019 and Spring 2020.
    - Collaborated to develop formalism for Nuclear-Electronic Orbital method using time-dependent density functional theory
 
-## Teaching
+## T e a c h i n g
 1. Graduate Teaching Associate
 
    At San Diego State Univeristy, Department of Physics, during 2016 - 2020.
    - Independently led lectures and exams for introductory-level physics lab courses
    - Modernized [the manual](https://docs.google.com/document/d/1pejqikoYhlaIMhSzBzUzrnh2hDrC_q-bEcJCeflpX7w/edit?usp=sharing) for Physics 182A/195L Laboratory for online deployment in Spring 2020
 
-## Training
+## T r a i n i n g
 1. FRIB-TA Summer School: A practical walk through formal scattering theory, 2021
    - [Course resources](https://fribtascattering.github.io)
    -  Connecting bound states, resonances, and scattering states in exotic nuclei and beyond
@@ -72,14 +72,14 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
    - Session 1: ``Structuring your research paper``
    - Session 2: ``Clear, accurate, concise writing``
 
-## Skills and Technologies
+## S k i l l s   a n d   T e c h n o l o g i e s
 - Major projects: Modern Fortran, Python, Bash
 - Minor tasks: C++, openMP, MPI, Mathematica, MATLAB, R
 
-## Awards
+## A w a r d s
 - Graduate S-STEM Scholarship, 2018-2020
 
-## Presentations
+## P r e s e n t a t i o n s
 1. _Better MCMC for Nuclear Data using emcee and B-DJINN_ O. C. Gorton, J. E. Escher, K. O. Bergstrom, M. K. Kruse, talk given at LLNL Summer Slam 2021.
 2. _Nuclear Physics for WIMPs_ O. Gorton and C. W. Johnson, talk given at SDSU SIAM Student Chapter Summer Colloquium Series,
  Friday July 2, 2021.
