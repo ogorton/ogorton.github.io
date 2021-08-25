@@ -1,4 +1,7 @@
 ## C u r r e n t l y
+
+![Oliver](oliver.jpg)
+
 Intern at the [LLNL Seaborg Institute](https://seaborg.llnl.gov)
 
 Doctoral Student at the [Computational Science Research Center](http://www.csrc.sdsu.edu/), San Diego State University & University of California, Irvine
