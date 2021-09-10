@@ -6,11 +6,11 @@ Doctoral Student at the [Computational Science Research Center](http://www.csrc.
 
 ## E d u c a t i o n
 
-PhD Computational Science, expected 2023 - _University of California, Irvine, Irvine, USA_ & _San Diego State University, CA, USA_
+* PhD Computational Science, expected 2023 - _University of California, Irvine, Irvine, USA_ & _San Diego State University, CA, USA_
 
-MS Physics, 2018 - _San Diego State University, CA, USA_
+* MS Physics, 2018 - _San Diego State University, CA, USA_
 
-BA Physics, 2016 - _University of California, Berkeley, Berkeley, USA_
+* BA Physics, 2016 - _University of California, Berkeley, Berkeley, USA_
 
 ## P u b l i c a t i o n s
 
@@ -48,6 +48,7 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 
 ## P r o f e s s i o n a l
 * Served as a referee for Physical Review C
+* Experience writing proposals for DOE, NNSA, and other funding sources
 * Graduate Teaching Associate
 
    At San Diego State Univeristy, Department of Physics, during 2016 - 2020.
@@ -55,25 +56,25 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
    - Modernized [the manual](https://docs.google.com/document/d/1pejqikoYhlaIMhSzBzUzrnh2hDrC_q-bEcJCeflpX7w/edit?usp=sharing) for Physics 182A/195L Laboratory for online deployment in Spring 2020
 
 ## T r a i n i n g
-1. FRIB-TA Summer School: A practical walk through formal scattering theory, 2021
+* FRIB-TA Summer School: A practical walk through formal scattering theory, 2021
    - [Course resources](https://fribtascattering.github.io)
    -  Connecting bound states, resonances, and scattering states in exotic nuclei and beyond
 
-2. Agile Development Practices and Tools: A Guided Tour, 2020
+* Agile Development Practices and Tools: A Guided Tour, 2020
    Sustainable Horizons Institute introduction to agile software development
    - Collaborative source control using git, GitHub, and git workflows
 
-3. Technical Writing Workshop, 2019
+* Technical Writing Workshop, 2019
    LLNL PLS Directorate sponsored two-part writing class
    - Session 1: ``Structuring your research paper``
    - Session 2: ``Clear, accurate, concise writing``
 
 ## P r o g r a m m i n g
-- Major projects: Modern Fortran, Python, Bash
-- Minor tasks: C++, openMP, MPI, Mathematica, MATLAB, R
+* Major projects: Modern Fortran, Python, Bash
+* Minor tasks: C++, openMP, MPI, Mathematica, MATLAB, R
 
 ## A w a r d s
-- Graduate S-STEM Scholarship, 2018-2020
+* Graduate S-STEM Scholarship, 2018-2020
 
 ## P r e s e n t a t i o n s
 1. _Better MCMC for Nuclear Data using emcee and B-DJINN_ O. C. Gorton, J. E. Escher, K. O. Bergstrom, M. K. Kruse, talk given at LLNL Summer Slam 2021.
