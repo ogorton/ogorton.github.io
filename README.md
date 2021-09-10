@@ -46,8 +46,9 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
    At UC Irvine, Department of Chemistry with [Filipp Furche](https://ffgroup.chem.uci.edu/members/filipp/), during Fall 2019 and Spring 2020.
    - Collaborated to develop formalism for Nuclear-Electronic Orbital method using time-dependent density functional theory
 
-## T e a c h i n g
-1. Graduate Teaching Associate
+## P r o f e s s i o n a l
+* Served as a referee for Physical Review C
+* Graduate Teaching Associate
 
    At San Diego State Univeristy, Department of Physics, during 2016 - 2020.
    - Independently led lectures and exams for introductory-level physics lab courses
