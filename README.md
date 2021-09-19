@@ -50,6 +50,7 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 * Served as a referee for Physical Review C
 * Experience writing proposals for DOE, NNSA, and other funding sources
 * Graduate Teaching Associate
+
   At San Diego State Univeristy, Department of Physics, during 2016 - 2020.
    - Independently led lectures and exams for introductory-level physics lab courses
    - Modernized [the manual](https://docs.google.com/document/d/1pejqikoYhlaIMhSzBzUzrnh2hDrC_q-bEcJCeflpX7w/edit?usp=sharing) for Physics 182A/195L Laboratory for online deployment in Spring 2020
@@ -60,11 +61,13 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
    -  Connecting bound states, resonances, and scattering states in exotic nuclei and beyond
 
 * Agile Development Practices and Tools: A Guided Tour, 2020
-   Sustainable Horizons Institute introduction to agile software development
+  
+  Sustainable Horizons Institute introduction to agile software development
    - Collaborative source control using git, GitHub, and git workflows
 
 * Technical Writing Workshop, 2019
-   LLNL PLS Directorate sponsored two-part writing class
+  
+  LLNL PLS Directorate sponsored two-part writing class
    - Session 1: ``Structuring your research paper``
    - Session 2: ``Clear, accurate, concise writing``
 
