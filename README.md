@@ -25,9 +25,10 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
 
 ## Research
 1. **Graduate Research Assistant**, SDSU Research Foundation with [Calvin Johnson](http://sci.sdsu.edu/johnson/), 2019 - present
-   - Developed software and theory to describe atomic nuclei using the nuclear shell model and computaional science
-   - 
+    - Developed software and theory to describe atomic nuclei using the nuclear shell model and computaional science
+   
 2. **Glenn T. Seaborg Institute (GTSI) Summer Intern**, [Seaborg Institute, LLNL](https://seaborg.llnl.gov), Summer 2021
+    -  
 
 3. **High Energy Density Physics Intern**, [Lawrence Livermore National Laboratory](https://www.llnl.gov), Summer 2018, 2019, and 2020
     - Developed Python code to do MCMC parameter estimation for statistical nuclear reaction codes in order to combine surrogate data and theory
