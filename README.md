@@ -24,16 +24,16 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
 4. **Efficient Modeling of Nuclei Through Coupling of Proton and Neutron Wavefunctions**, O. Gorton, Advisor: C. Johnson, [Masters Thesis (2018) San Diego State University, 2018](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917).
 
 ## Research
-1. **Glenn T. Seaborg Institute (GTSI) Summer Intern**, [Seaborg Institute, LLNL](https://seaborg.llnl.gov), Summer 2021
+1. **Graduate Research Assistant**, SDSU Research Foundation with [Calvin Johnson](http://sci.sdsu.edu/johnson/), during 2019 - present
+   - Developed software and theory to describe atomic nuclei using the nuclear shell model and computaional science
+   - 
+2. **Glenn T. Seaborg Institute (GTSI) Summer Intern**, [Seaborg Institute, LLNL](https://seaborg.llnl.gov), Summer 2021
 
-2. **High Energy Density Physics Intern**, [Lawrence Livermore National Laboratory](https://www.llnl.gov), during
+3. **High Energy Density Physics Intern**, [Lawrence Livermore National Laboratory](https://www.llnl.gov), during
    Summer 2018, 2019, and 2020
     - Developed Python code to do MCMC parameter estimation for statistical nuclear reaction codes in order to combine surrogate data and theory
     - Employed code for sensitivity studies assessing approximations in the surrogate reactions method
     - Modified and ran four Hauser-Feshbach model codes
-
-3. **Graduate Research Assistant**, SDSU Research Foundation with [Calvin Johnson](http://sci.sdsu.edu/johnson/), during 2019 - present
-   - Developed software and theory to describe atomic nuclei using the nuclear shell model and computaional science
 
 4. **Graduate Student**, UC Irvine, Department of Chemistry with [Filipp Furche](https://ffgroup.chem.uci.edu/members/filipp/), during Fall 2019 and Spring 2020.
    - Collaborated to develop formalism for Nuclear-Electronic Orbital method using time-dependent density functional theory
