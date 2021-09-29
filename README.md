@@ -21,7 +21,7 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
 
 3. **Neutron capture cross sections from surrogate reaction data and theory: connecting the pieces with a Markov-Chain Monte Carlo approach**, O. Gorton and J. E. Escher, CNR*18 Proceedings. Preprint available [arXiv:1905:03055](https://arxiv.org/abs/1905.03055). Published September 2020 [Spring Proceedings in Physics](https://doi.org/10.1007/978-3-030-58082-7_28)
 
-4. **Efficient Modeling of Nuclei Through Coupling of Proton and Neutron Wavefunctions**, O. Gorton, Advisor: C. Johnson, Masters Thesis (2018) [San Diego State University, 2018](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917)
+4. **Efficient Modeling of Nuclei Through Coupling of Proton and Neutron Wavefunctions**, O. Gorton, Advisor: C. Johnson, [Masters Thesis (2018) San Diego State University, 2018](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917)
 
 ## Research
 1. **Glenn T. Seaborg Institute (GTSI) Summer Intern**, [Seaborg Institute, LLNL](https://seaborg.llnl.gov), Summer 2021
