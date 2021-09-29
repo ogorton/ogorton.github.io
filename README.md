@@ -61,13 +61,11 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
    -  Connecting bound states, resonances, and scattering states in exotic nuclei and beyond
 
 * Agile Development Practices and Tools: A Guided Tour, 2020
-  
-  Sustainable Horizons Institute introduction to agile software development
+   - Sustainable Horizons Institute introduction to agile software development
    - Collaborative source control using git, GitHub, and git workflows
 
 * Technical Writing Workshop, 2019
-  
-  LLNL PLS Directorate sponsored two-part writing class
+   - LLNL PLS Directorate sponsored two-part writing class
    - Session 1: Structuring your research paper
    - Session 2: Clear, accurate, concise writing
 
@@ -79,15 +77,15 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 * Graduate S-STEM Scholarship, 2018-2020
 
 ## Presentations
-1. _Better MCMC for Nuclear Data using emcee and B-DJINN_ O. C. Gorton, J. E. Escher, K. O. Bergstrom, M. K. Kruse, talk given at LLNL Summer Slam 2021.
-2. _Nuclear Physics for WIMPs_ O. Gorton and C. W. Johnson, talk given at SDSU SIAM Student Chapter Summer Colloquium Series,
+1. Better MCMC for Nuclear Data using emcee and B-DJINN. O. C. Gorton, J. E. Escher, K. O. Bergstrom, M. K. Kruse, talk given at LLNL Summer Slam 2021.
+2. Nuclear Physics for WIMPs O. Gorton and C. W. Johnson, talk given at SDSU SIAM Student Chapter Summer Colloquium Series,
  Friday July 2, 2021.
-3. _Cross subsections for neutron reactions from surrogate measurements:  Revisiting the Weisskopf-Ewing approximation_ O. Gorton and J. E. Escher, DNP20 APS Conference (October 2020).
-4. _Can we get rid of the theorists?_ O. Gorton and J. E. Escher, LLNL Summer Slam talk (August 2020).
-5. _Big Picture and Background for Nuclear-Electronic Orbital (NEO) Approach: Calculating Mixed Nucleon-Electron Wave Functions_ O. Gorton, progress talk presented for the Furche Group, Chemistry Department, UC Irvine (March 2020).
-6. _Indirect measurements of nuclear cross subsections: tempering experimental results with theory_ O. Gorton and J. E. Escher, HEDP Exit Talk (September 2019).
-7. _Sensitivity Study of the Surrogate Method_ O. Gorton and J. E. Escher, poster presented at LLNL Student Poster Symposium (August 2019).
-8. _Temperature and Entropy in the Nuclear Shell Model_ O. Gorton and C. W. Johnson, poster presented at SDSU ACCESS event (April 2019).
-9. _Proton Neutron Interacting Shell Model: Order of Magnitude Reduction for Medium Mass Nuclei_ O. Gorton and C. Johnson, poster presentated at SDSU annual research symposium (March 2019).
-10. _Neutron capture cross subsections from surrogate reaction data and theory: connecting the pieces with a Markov-Chain Monte Carlo approach_ O. Gorton and J. E. Escher, poster presented at [CNR*18](https://indico.bnl.gov/event/4158/),  September 2018.
-11. _A Markov Chain Monte Carlo Tool for Hauser-Feshbach Codes_ O. Gorton and J.E. Escher, HEDP Exit Talk (August 2018).
+3. Cross subsections for neutron reactions from surrogate measurements:  Revisiting the Weisskopf-Ewing approximation. O. Gorton and J. E. Escher, DNP20 APS Conference (October 2020).
+4. Can we get rid of the theorists? O. Gorton and J. E. Escher, LLNL Summer Slam talk (August 2020).
+5. Big Picture and Background for Nuclear-Electronic Orbital (NEO) Approach: Calculating Mixed Nucleon-Electron Wave Functions. O. Gorton, progress talk presented for the Furche Group, Chemistry Department, UC Irvine (March 2020).
+6. Indirect measurements of nuclear cross subsections: tempering experimental results with theory. O. Gorton and J. E. Escher, HEDP Exit Talk (September 2019).
+7. Sensitivity Study of the Surrogate Method O. Gorton and J. E. Escher, poster presented at LLNL Student Poster Symposium (August 2019).
+8. Temperature and Entropy in the Nuclear Shell Model_ O. Gorton and C. W. Johnson, poster presented at SDSU ACCESS event (April 2019).
+9. Proton Neutron Interacting Shell Model: Order of Magnitude Reduction for Medium Mass Nuclei O. Gorton and C. Johnson, poster presentated at SDSU annual research symposium (March 2019).
+10. Neutron capture cross subsections from surrogate reaction data and theory: connecting the pieces with a Markov-Chain Monte Carlo approach O. Gorton and J. E. Escher, poster presented at [CNR*18](https://indico.bnl.gov/event/4158/),  September 2018.
+11. A Markov Chain Monte Carlo Tool for Hauser-Feshbach Codes O. Gorton and J.E. Escher, HEDP Exit Talk (August 2018).
