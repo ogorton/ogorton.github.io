@@ -1,7 +1,5 @@
 <img src="oliver2.JPG" alt="Oliver" width="200"/>
 
-Intern at the [LLNL Seaborg Institute](https://seaborg.llnl.gov)
-
 Doctoral Student at the [Computational Science Research Center](http://www.csrc.sdsu.edu/), San Diego State University & University of California, Irvine
 
 ## E d u c a t i o n
