@@ -68,8 +68,8 @@ gamma-process, _O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publi
 * Technical Writing Workshop, 2019
   
   LLNL PLS Directorate sponsored two-part writing class
-   - Session 1: ``Structuring your research paper``
-   - Session 2: ``Clear, accurate, concise writing``
+   - Session 1: Structuring your research paper
+   - Session 2: Clear, accurate, concise writing
 
 ## Code
 * Major projects: Modern Fortran, Python, Bash
