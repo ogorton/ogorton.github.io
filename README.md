@@ -5,14 +5,9 @@
 Doctoral Student at the [Computational Science Research Center](http://www.csrc.sdsu.edu/), San Diego State University & University of California, Irvine
 
 Contents
-- [Education](#education)
-- [Publications](#publications)
-- [Research](#research)
-- [Professional](professional)
-- [Training](training)
-- [Code](code)
-- [Awards](#awards)
-- [Talks](#talks)
+[Education](#education)[Publications](#publications) [Research](#research)
+[Professional](#professional) [Training](#training) [Code](#code)
+[Awards](#awards) [Talks](#talks)
 
 ## Education 
 <a name="education"></a>
