@@ -9,11 +9,11 @@ Doctoral Student at the [Computational Science Research Center](http://www.csrc.
 ## Education 
 <a name="education"></a>
 
-* **PhD Computational Science**, expected 2023 - University of California, Irvine, Irvine, USA & San Diego State University, CA, USA
+* **PhD Computational Science**, expected 2023 - University of California, Irvine & San Diego State University
 
-* **MS Physics**, 2018 - San Diego State University, CA, USA
+* **MS Physics**, 2018 - San Diego State University
 
-* **BA Physics**, 2016 - University of California, Berkeley, Berkeley, USA
+* **BA Physics**, 2016 - University of California, Berkeley
 
 ## Publications
 <a name="publications"></a>
@@ -21,7 +21,7 @@ Doctoral Student at the [Computational Science Research Center](http://www.csrc.
 1. **Cross sections for neutron-induced reactions from surrogate data: revisiting the Weisskopf-Ewing approximation for (n,n') and (n,2n) reactions**, O. Gorton and J. E. Escher, submitted to Phys. Rev. C. Pre-print available [arXiv:2102.03452](https://arxiv.org/abs/2102.03452).
 
 2. **Measurements of proton capture in the A=100-110 mass region: Constraints of the 111In(gamma,p)/(gamma,n) branching point relevant to the
-gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Published November 2020 [Phys. Rev. C, 102, 055806](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806).
+gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Published November 2020 [Phys. Rev. C, 102, 055806](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806). 
 
 3. **Neutron capture cross sections from surrogate reaction data and theory: connecting the pieces with a Markov-Chain Monte Carlo approach**, O. Gorton and J. E. Escher, CNR*18 Proceedings. Preprint available [arXiv:1905:03055](https://arxiv.org/abs/1905.03055). Published September 2020 [Spring Proceedings in Physics](https://doi.org/10.1007/978-3-030-58082-7_28).
 
@@ -33,7 +33,6 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
     - Developed software and theory to describe atomic nuclei using the nuclear shell model and computaional science
    
 2. **Glenn T. Seaborg Institute (GTSI) Summer Intern**, [Seaborg Institute, LLNL](https://seaborg.llnl.gov), Summer 2021
-    -  
 
 3. **High Energy Density Physics Intern**, [Lawrence Livermore National Laboratory](https://www.llnl.gov), Summer 2018, 2019, and 2020
     - Developed Python code to do MCMC parameter estimation for statistical nuclear reaction codes in order to combine surrogate data and theory
