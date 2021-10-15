@@ -4,7 +4,15 @@
 
 Doctoral Student at the [Computational Science Research Center](http://www.csrc.sdsu.edu/), San Diego State University & University of California, Irvine
 
-[Education](#education)
+Contents
+- [Education](#education)
+- [Publications](#publications)
+- [Research](#research)
+- [Professional](professional)
+- [Training](training)
+- [Code](code)
+- [Awards](#awards)
+- [Talks](#talks)
 
 ## Education 
 <a name="education"></a>
@@ -16,6 +24,7 @@ Doctoral Student at the [Computational Science Research Center](http://www.csrc.
 * **BA Physics**, 2016 - University of California, Berkeley, Berkeley, USA
 
 ## Publications
+<a name="publications"></a>
 
 1. **Cross sections for neutron-induced reactions from surrogate data: revisiting the Weisskopf-Ewing approximation for (n,n') and (n,2n) reactions**, O. Gorton and J. E. Escher, submitted to Phys. Rev. C. Pre-print available [arXiv:2102.03452](https://arxiv.org/abs/2102.03452).
 
@@ -27,6 +36,7 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
 4. **Efficient Modeling of Nuclei Through Coupling of Proton and Neutron Wavefunctions**, O. Gorton, Advisor: C. Johnson, [Masters Thesis (2018) San Diego State University, 2018](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917).
 
 ## Research
+<a name="research"></a>
 1. **Graduate Research Assistant**, SDSU Research Foundation with [Calvin Johnson](http://sci.sdsu.edu/johnson/), 2019 - present
     - Developed software and theory to describe atomic nuclei using the nuclear shell model and computaional science
    
@@ -42,6 +52,7 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
    - Collaborated to develop formalism for Nuclear-Electronic Orbital method using time-dependent density functional theory
 
 ## Professional
+<a name="professional"></a>
 * Served as a referee for Physical Review C
 * Experience writing proposals for DOE, NNSA, and other funding sources
 * **Graduate Teaching Associate**, San Diego State Univeristy, Department of Physics, during 2016 - 2020.
@@ -49,6 +60,7 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
    - Modernized [the manual](https://docs.google.com/document/d/1pejqikoYhlaIMhSzBzUzrnh2hDrC_q-bEcJCeflpX7w/edit?usp=sharing) for Physics 182A/195L Laboratory for online deployment in Spring 2020
 
 ## Training
+<a name="training"></a>
 * FRIB-TA Summer School: A practical walk through formal scattering theory, 2021
    - [Course resources](https://fribtascattering.github.io)
    -  Connecting bound states, resonances, and scattering states in exotic nuclei and beyond
@@ -63,13 +75,16 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
    - Session 2: Clear, accurate, concise writing
 
 ## Code
+<a name="code"></a>
 * Major projects: Modern Fortran, Python, Bash
 * Minor tasks: C++, openMP, MPI, Mathematica, MATLAB, R
 
 ## Awards
+<a name="awards"></a>
 * Graduate S-STEM Scholarship, 2018-2020
 
-## Presentations
+## Talks
+<a name="talks"></a>
 1. **Better MCMC for Nuclear Data using emcee and B-DJINN**, O. C. Gorton, J. E. Escher, K. O. Bergstrom, M. K. Kruse, talk given at LLNL Summer Slam 2021.
 2. **Nuclear Physics for WIMPs**, O. Gorton and C. W. Johnson, talk given at SDSU SIAM Student Chapter Summer Colloquium Series,
  Friday July 2, 2021.
