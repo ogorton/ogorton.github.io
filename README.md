@@ -4,7 +4,10 @@
 
 Doctoral Student at the [Computational Science Research Center](http://www.csrc.sdsu.edu/), San Diego State University & University of California, Irvine
 
-## Education
+[Education](#education)
+
+## Education 
+<a name="education"></a>
 
 * **PhD Computational Science**, expected 2023 - University of California, Irvine, Irvine, USA & San Diego State University, CA, USA
 
