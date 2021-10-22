@@ -72,6 +72,7 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
 
 ## Awards
 <a name="awards"></a>
+* *Recently awarded 3-year proposal* LLNL, WCI, Academic Collaboration Team (ACT) University Program
 * Graduate S-STEM Scholarship, 2018-2020
 
 ## Talks
