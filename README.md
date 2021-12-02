@@ -1,11 +1,11 @@
-|[Education](#education)
-|[Publications](#publications)
-|[Research](#research)
-|[Professional](#professional)
-|[Training](#training)
-|[Code](#code)
-|[Awards](#awards)
-|[Talks](#talks)
+[Education](#education)
+[Publications](#publications)
+[Research](#research)
+[Professional](#professional)
+[Training](#training)
+[Code](#code)
+[Awards](#awards)
+[Talks](#talks)
 
 <p class="aligncenter">
   <img src="oliver2.JPG" alt="Oliver" width="200"/>  
