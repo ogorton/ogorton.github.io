@@ -100,3 +100,10 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
 10. **Proton Neutron Interacting Shell Model: Order of Magnitude Reduction for Medium Mass Nuclei**, O. Gorton and C. Johnson, poster presentated at SDSU annual research symposium (March 2019).
 11. **Neutron capture cross subsections from surrogate reaction data and theory: connecting the pieces with a Markov-Chain Monte Carlo approach**, O. Gorton and J. E. Escher, poster presented at [CNR*18](https://indico.bnl.gov/event/4158/),  September 2018.
 12. **A Markov Chain Monte Carlo Tool for Hauser-Feshbach Codes**, O. Gorton and J.E. Escher, HEDP Exit Talk (August 2018).
+
+## Rock climbing
+In my free time I enjoy rock climbing.
+
+<p class="aligncenter">
+  <img src="woodson1" alt="Oliver climbing a rock" width="400"/>  
+</p>
