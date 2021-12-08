@@ -14,6 +14,8 @@
 
 Doctoral Student at the [Computational Science Research Center](http://www.csrc.sdsu.edu/), San Diego State University & University of California, Irvine
 
+I use scientific computing to study the structure and properties of atomic nuclei for basic and applied science.
+
 ## Education 
 <a name="education"></a>
 
