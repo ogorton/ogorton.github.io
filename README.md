@@ -105,5 +105,5 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
 In my free time I enjoy rock climbing.
 
 <p class="aligncenter">
-  <img src="woodson1" alt="Oliver climbing a rock" width="400"/>  
+  <img src="woodson1.JPG" alt="Oliver climbing a rock" width="400"/>  
 </p>
