@@ -91,6 +91,12 @@ A library of functions for computation of Wigner 3-j, 6-j and 9-j symbols, writt
 ### [DMFortFactor](https://github.com/ogorton/dmfortfactor)
 A fast Fortran code for WIMP-nucleus form factors and differential event rate spectra. Written in modern Fortan with an optional Python interface. Parallel execution with OpenMP.
 
+### PNISM
+Proton-neutron interacting shell model code. Not yet released.
+
+### MCIT
+Monte Carlo Inference Tool for Hauser-Feshbach statistical nuclear reaction codes. Not yet released.
+
 ## Awards
 <a name="awards"></a>
 
