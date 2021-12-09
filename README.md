@@ -3,8 +3,6 @@
 >
 > <img src="oliver2.JPG" alt="Oliver" width="100"/>
 > 
-> Doctoral Student at the [Computational Science Research Center](http://www.csrc.sdsu.edu/), San Diego State University & University of California, Irvine
->
 > Sections: [Education](#education),
 [Publications](#publications),
 [Research](#research),
