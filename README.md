@@ -1,7 +1,8 @@
 # About Oliver Gorton
 <a name="top"></a>
 
-[[Education](#education)]
+| <img src="oliver2.JPG" alt="Oliver" width="100"/> | Doctoral Student at the [Computational Science Research Center](http://www.csrc.sdsu.edu/), San Diego State University & University of California, Irvine |
+| | [[Education](#education)]
 [[Publications](#publications)]
 [[Research](#research)]
 [[Professional](#professional)]
@@ -9,9 +10,7 @@
 [[Code](#code)]
 [[Awards](#awards)]
 [[Talks](#talks)]
-[[Climbing](#climbing)]
-
-| <img src="oliver2.JPG" alt="Oliver" width="100"/> | Doctoral Student at the [Computational Science Research Center](http://www.csrc.sdsu.edu/), San Diego State University & University of California, Irvine |
+[[Climbing](#climbing)] |
 
 I use scientific computing to study the structure and properties of atomic nuclei for basic and applied science. I've worked on a number of different topics in low energy nuclear physics, and done some work in quantum chemistry. All of my work involves the application of high performance computing (HPC) techniques to solving problems in quantum many-body physics.
 
