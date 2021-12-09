@@ -19,7 +19,7 @@ I use scientific computing to study the structure and properties of atomic nucle
 ## Education 
 <a name="education"></a>
 
-* **PhD Computational Science**, expected 2023 - University of California, Irvine & San Diego State University
+* **PhD Computational Science**, expected 2023 - [Joint Doctoral Program with UC Irvine and San Diego State University](https://computationalscience.uci.edu)
 
 * **MS Physics**, 2018 - San Diego State University
 
