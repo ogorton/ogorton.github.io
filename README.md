@@ -1,6 +1,5 @@
 # About Oliver Gorton
 <a name="top"></a>
-[[Top](#top)]
 
 [[Education](#education)]
 [[Publications](#publications)]
