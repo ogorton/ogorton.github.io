@@ -1,20 +1,19 @@
 # About Oliver Gorton
-[Education](#education) /
-[Publications](#publications) /
-[Research](#research) /
-[Professional](#professional) /
-[Training](#training) /
-[Code](#code) /
-[Awards](#awards) /
-[Talks](#talks)
-
-<p class="aligncenter">
-  <img src="oliver2.JPG" alt="Oliver" width="200"/>  
-</p>
-
+[[Education](#education)]
+[[Publications](#publications)]
+[[Research](#research)]
+[[Professional](#professional)]
+[[Training](#training)]
+[[Code](#code)]
+[[Awards](#awards)]
+[[Talks](#talks)]
+[[Climbing](#climbing)]
+<img src="oliver2.JPG" alt="Oliver" width="100"/> 
 Doctoral Student at the [Computational Science Research Center](http://www.csrc.sdsu.edu/), San Diego State University & University of California, Irvine
 
 I use scientific computing to study the structure and properties of atomic nuclei for basic and applied science. I've worked on a number of different topics in low energy nuclear physics, and done some work in quantum chemistry. All of my work involves the application of high performance computing (HPC) techniques to solving problems in quantum many-body physics.
+
+
 
 ## Education 
 <a name="education"></a>
@@ -101,7 +100,8 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
 11. **Neutron capture cross subsections from surrogate reaction data and theory: connecting the pieces with a Markov-Chain Monte Carlo approach**, O. Gorton and J. E. Escher, poster presented at [CNR*18](https://indico.bnl.gov/event/4158/),  September 2018.
 12. **A Markov Chain Monte Carlo Tool for Hauser-Feshbach Codes**, O. Gorton and J.E. Escher, HEDP Exit Talk (August 2018).
 
-## Rock climbing
+## Climbing
+<a name="climbing"></a>
 In my free time I enjoy rock climbing.
 
 <p class="aligncenter">
