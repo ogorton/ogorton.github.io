@@ -1,9 +1,10 @@
 <a name="top"></a>
 
 >
-> <img src="oliver2.JPG" alt="Oliver" width="100"/>
+> <img src="oliver2.JPG" alt="Oliver" width="150"/>
 > 
-> Sections: [Education](#education),
+
+[Education](#education),
 [Publications](#publications),
 [Research](#research),
 [Professional](#professional),
