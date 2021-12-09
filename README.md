@@ -89,7 +89,7 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
 A library of functions for computation of Wigner 3-j, 6-j and 9-j symbols, written in modern Fortran.
 
 ### [DMFortFactor](https://github.com/ogorton/dmfortfactor)
-A fast Fortran code for WIMP-nucleus form factors and differential event rate spectra.
+A fast Fortran code for WIMP-nucleus form factors and differential event rate spectra. Written in modern Fortan with an optional Python interface. Parallel execution with OpenMP.
 
 ## Awards
 <a name="awards"></a>
