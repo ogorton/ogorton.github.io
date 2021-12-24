@@ -1,21 +1,35 @@
+<style>
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+</style>
+<div class="content">
+
 <a name="top"></a>
 
-## Oliver C. Gorton
+# Oliver C. Gorton
 
-<img src="oliver2.JPG" alt="Oliver" width="150"/>
+<img src="oliver.jpg" alt="Oliver" width="150"/>
 
+_A PhD student in computational science (the nuclear physics kind)_
 
-[Education](#education),
-[Publications](#publications),
-[Research](#research),
-[Professional](#professional),
-[Training](#training),
-[Code](#code),
-[Awards](#awards),
-[Talks](#talks),
-[Climbing](#climbing)
+I use scientific computing to study the structure and properties of atomic
+nuclei. I have worked on a number of different topics in low energy nuclear
+physics, and dabbled in quantum chemistry, quantum information theory, and
+machine learning. All of my work involves the application of high
+performance computing (HPC) to quantum many-body physics.
 
-I use scientific computing to study the structure and properties of atomic nuclei for basic and applied science. I've worked on a number of different topics in low energy nuclear physics, and done some work in quantum chemistry. All of my work involves the application of high performance computing (HPC) techniques to solving problems in quantum many-body physics.
+## What is on this page
+- [Education](#education)
+- [Publications](#publications)
+- [Research Positions](#research)
+- [Professional](#professional)
+- [Training](#training)
+- [Code](#code)
+- [Awards](#awards)
+- [Talks](#talks)
+- [Climbing](#climbing)
 
 ## Education 
 <a name="education"></a>
@@ -38,7 +52,7 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
 
 4. **Efficient Modeling of Nuclei Through Coupling of Proton and Neutron Wavefunctions**, O. Gorton, Advisor: C. Johnson, [Masters Thesis (2018) San Diego State University, 2018](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917).
 
-## Research
+## Research Positions
 <a name="research"></a>
 
 1. **Graduate Research Assistant**, SDSU Research Foundation with [Calvin Johnson](http://sci.sdsu.edu/johnson/), 2019 - present
@@ -129,4 +143,12 @@ In my free time I enjoy rock climbing.
   <img src="woodson1.JPG" alt="Oliver climbing a rock" width="400"/>  
 </p>
 
+<hr>
+
+I build this website by converting a [Markdown](https://www.markdownguide.org) 
+document to html using [pandoc](https://pandoc.org).
+Page last updated 2021-12-24.
+
 [Back to top](#top)
+
+</div>
