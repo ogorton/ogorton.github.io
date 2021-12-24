@@ -10,7 +10,9 @@
 
 # Oliver C. Gorton
 
+<p style="text-align:center;">
 <img src="oliver.jpg" alt="Oliver" width="150"/>
+</p>
 
 _A PhD student in computational science (the nuclear physics kind)_
 
@@ -139,7 +141,7 @@ Monte Carlo Inference Tool for Hauser-Feshbach statistical nuclear reaction code
 
 In my free time I enjoy rock climbing.
 
-<p class="aligncenter">
+<p style="text-align:center;">
   <img src="woodson1.JPG" alt="Oliver climbing a rock" width="400"/>  
 </p>
 
