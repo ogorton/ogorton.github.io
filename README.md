@@ -22,7 +22,7 @@ physics, and dabbled in quantum chemistry, quantum information theory, and
 machine learning. All of my work involves the application of high
 performance computing (HPC) to quantum many-body physics.
 
-## What is on this page
+## What's on this page
 - [Education](#education)
 - [Publications](#publications)
 - [Research Positions](#research)
