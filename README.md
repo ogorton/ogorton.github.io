@@ -1,8 +1,9 @@
 <a name="top"></a>
 
->
-> <img src="oliver2.JPG" alt="Oliver" width="150"/>
-> 
+## Oliver C. Gorton
+
+<img src="oliver2.JPG" alt="Oliver" width="150"/>
+
 
 [Education](#education),
 [Publications](#publications),
