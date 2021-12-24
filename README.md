@@ -10,7 +10,7 @@
 
 # Oliver C. Gorton
 
-<p style="text-align:center;">
+<p style="text-align:left;">
 <img src="oliver.jpg" alt="Oliver" width="150"/>
 </p>
 
