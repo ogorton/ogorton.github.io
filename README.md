@@ -1,7 +1,10 @@
 <style>
 .content {
-  max-width: 500px;
-  margin: auto;
+  max-width: 40em;
+  margin: 0 auto;
+}
+body {
+    color: #555;
 }
 </style>
 <div class="content">
