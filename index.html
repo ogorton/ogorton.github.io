@@ -4,7 +4,7 @@
   margin: 0 auto;
 }
 body {
-    color: #555;
+    color: #444;
 }
 </style>
 <div class="content">
