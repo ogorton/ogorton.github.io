@@ -1,6 +1,6 @@
 <style>
 .content {
-  max-width: 40em;
+  max-width: 50em;
   margin: 0 auto;
 }
 body {
