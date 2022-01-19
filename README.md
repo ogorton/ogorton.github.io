@@ -1,3 +1,12 @@
+---
+geometry:
+- margin=1in
+numbersections: False
+linkcolor: blue
+urlcolor: blue
+link-citations: yes
+---
+
 <style>
 .content {
   max-width: 50em;
@@ -35,6 +44,8 @@ performance computing (HPC) to quantum many-body physics.
 - [Awards](#awards)
 - [Talks](#talks)
 - [Climbing](#climbing)
+
+[Download](gorton.pdf) this page as a pdf.
 
 ## Education 
 <a name="education"></a>
@@ -150,7 +161,7 @@ In my free time I enjoy rock climbing.
 
 <hr>
 
-I build this website by converting a [Markdown](https://www.markdownguide.org) 
+I build this page by converting a [Markdown](https://www.markdownguide.org) 
 document to html using [pandoc](https://pandoc.org).
 Page last updated 2021-12-24.
 
