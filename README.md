@@ -9,6 +9,7 @@ urlcolor: blue
 link-citations: yes
 ---
 
+<hr>
 
 <a name="top"></a>
 <p style="text-align:center;">
@@ -20,17 +21,6 @@ nuclei. I have worked on a number of different topics in low energy nuclear
 physics, and dabbled in quantum chemistry, quantum information theory, and
 machine learning. All of my work involves the application of high performance
 computing (HPC) to quantum many-body physics.
-
-## What's on this page
-- [Education](#education)
-- [Publications](#publications)
-- [Research Positions](#research)
-- [Professional](#professional)
-- [Training](#training)
-- [Code](#code)
-- [Awards](#awards)
-- [Talks](#talks)
-- [Climbing](#climbing)
 
 [Download](gorton.pdf) this page as a pdf.
 
