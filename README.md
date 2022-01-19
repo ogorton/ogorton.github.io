@@ -93,10 +93,16 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
 * Minor tasks: C++, openMP, MPI, Mathematica, MATLAB, R
 
 ### [Wigner](https://github.com/ogorton/wigner)
-A library of functions for computation of Wigner 3-j, 6-j and 9-j symbols, written in modern Fortran.
+A library of functions for computation of Wigner 3-j, 6-j and 9-j symbols, written in modern Fortran. 
+
+[Repository](https://github.com/ogorton/wigner)
+[Manual](https://ogorton.github.io/wigner/)
 
 ### [DMFortFactor](https://github.com/ogorton/dmfortfactor)
 A fast Fortran code for WIMP-nucleus form factors and differential event rate spectra. Written in modern Fortan with an optional Python interface. Parallel execution with OpenMP.
+
+[Repository](https://github.com/ogorton/dmfortfactor) 
+[Manual](https://ogorton.github.io/dmfortfactor/)
 
 ### PNISM
 Proton-neutron interacting shell model code. Not yet released.
