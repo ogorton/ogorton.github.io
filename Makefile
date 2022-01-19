@@ -1,5 +1,5 @@
 html:
-	pandoc README.md -o index.html --standalone --toc
+	pandoc README.md -o index.html --standalone
 pdf: 
 	pandoc README.md -o gorton.pdf
 all:
