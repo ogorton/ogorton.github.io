@@ -1,4 +1,6 @@
 ---
+title: Oliver C. Gorton
+subtitle: A PhD student in computational science (the nuclear physics kind)
 geometry:
 - margin=1in
 numbersections: False
@@ -7,32 +9,17 @@ urlcolor: blue
 link-citations: yes
 ---
 
-<style>
-.content {
-  max-width: 50em;
-  margin: 0 auto;
-}
-body {
-    color: #444;
-}
-</style>
-<div class="content">
 
 <a name="top"></a>
-
-# Oliver C. Gorton
-
-<p style="text-align:left;">
+<p style="text-align:center;">
 <img src="oliver.jpg" alt="Oliver" width="120"/>
 </p>
-
-_A PhD student in computational science (the nuclear physics kind)_
 
 I use scientific computing to study the structure and properties of atomic
 nuclei. I have worked on a number of different topics in low energy nuclear
 physics, and dabbled in quantum chemistry, quantum information theory, and
-machine learning. All of my work involves the application of high
-performance computing (HPC) to quantum many-body physics.
+machine learning. All of my work involves the application of high performance
+computing (HPC) to quantum many-body physics.
 
 ## What's on this page
 - [Education](#education)
@@ -147,7 +134,7 @@ Monte Carlo Inference Tool for Hauser-Feshbach statistical nuclear reaction code
 8. **Sensitivity Study of the Surrogate Method**, O. Gorton and J. E. Escher, poster presented at LLNL Student Poster Symposium (August 2019).
 9. **Temperature and Entropy in the Nuclear Shell Model**, O. Gorton and C. W. Johnson, poster presented at SDSU ACCESS event (April 2019).
 10. **Proton Neutron Interacting Shell Model: Order of Magnitude Reduction for Medium Mass Nuclei**, O. Gorton and C. Johnson, poster presentated at SDSU annual research symposium (March 2019).
-11. **Neutron capture cross subsections from surrogate reaction data and theory: connecting the pieces with a Markov-Chain Monte Carlo approach**, O. Gorton and J. E. Escher, poster presented at [CNR*18](https://indico.bnl.gov/event/4158/),  September 2018.
+11. **Neutron capture cross subsections from surrogate reaction data and theory: connecting the pieces with a Markov-Chain Monte Carlo approach**, O. Gorton and J. E. Escher, poster presented at [CNR18](https://indico.bnl.gov/event/4158),  September 2018.
 12. **A Markov Chain Monte Carlo Tool for Hauser-Feshbach Codes**, O. Gorton and J.E. Escher, HEDP Exit Talk (August 2018).
 
 ## Climbing
