@@ -9,8 +9,6 @@ urlcolor: blue
 link-citations: yes
 ---
 
-<hr>
-
 <a name="top"></a>
 <p style="text-align:center;">
 <img src="oliver.jpg" alt="Oliver" width="120"/>
