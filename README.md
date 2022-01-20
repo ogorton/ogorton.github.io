@@ -1,6 +1,5 @@
 ---
 title: Oliver C. Gorton
-subtitle: A PhD student in computational science (the nuclear physics kind)
 geometry:
 - margin=1in
 numbersections: False
@@ -13,6 +12,8 @@ link-citations: yes
 <p style="text-align:center;">
 <img src="oliver.jpg" alt="Oliver" width="120"/>
 </p>
+
+*PhD student in computational science (the nuclear physics kind)*
 
 I use scientific computing to study the structure and properties of atomic
 nuclei. This has lead me to work on a number of different topics in nuclear
