@@ -15,10 +15,10 @@ link-citations: yes
 </p>
 
 I use scientific computing to study the structure and properties of atomic
-nuclei. I have worked on a number of different topics in low energy nuclear
-physics, and dabbled in quantum chemistry, quantum information theory, and
-machine learning. All of my work involves the application of high performance
-computing (HPC) to quantum many-body physics.
+nuclei. This has lead me to work on a number of different topics in nuclear
+structure and reaction theory, quantum chemistry, quantum information theory,
+and machine learning. All of my work involves the application of high
+performance computing (HPC) to quantum many-body physics.
 
 [Download](gorton.pdf) this page as a pdf.
 
