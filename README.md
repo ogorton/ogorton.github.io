@@ -10,7 +10,7 @@ link-citations: yes
 
 # Oliver C. Gorton 
 
-![*PhD student in computational science (the nuclear physics kind)*](oliver.jpg){width=5em}
+![*PhD student in computational science (the nuclear physics kind)*](oliver.jpg){width=7em}
 
 I use scientific computing to study the structure and properties of atomic
 nuclei. This has lead me to work on a number of different topics in nuclear
@@ -169,7 +169,7 @@ codes. Not yet released.
 
 In my free time I enjoy rock climbing.
 
-![Oliver climbing a wall](climbing.jpeg){width=50%}
+![Oliver climbing a wall](climbing.jpeg){width=20em}
 
 <hr>
 
