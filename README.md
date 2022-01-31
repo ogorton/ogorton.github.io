@@ -1,5 +1,5 @@
 ---
-title: Oliver C. Gorton
+title: 
 geometry:
 - margin=1in
 numbersections: False
@@ -8,12 +8,9 @@ urlcolor: blue
 link-citations: yes
 ---
 
-<a name="top"></a>
-<p style="text-align:center;">
-<img src="oliver.jpg" alt="Oliver" width="120"/>
-</p>
+# Oliver C. Gorton 
 
-*PhD student in computational science (the nuclear physics kind)*
+![*PhD student in computational science (the nuclear physics kind)*](oliver.jpg){width=5em}
 
 I use scientific computing to study the structure and properties of atomic
 nuclei. This has lead me to work on a number of different topics in nuclear
@@ -21,10 +18,7 @@ structure and reaction theory, quantum chemistry, quantum information theory,
 and machine learning. All of my work involves the application of high
 performance computing (HPC) to quantum many-body physics.
 
-[Download](gorton.pdf) this page as a pdf.
-
 ## Education 
-<a name="education"></a>
 
 * **PhD Computational Science**, expected 2023 - [Joint Doctoral Program with UC Irvine and San Diego State University](https://computationalscience.uci.edu)
 
@@ -33,7 +27,6 @@ performance computing (HPC) to quantum many-body physics.
 * **BA Physics**, 2016 - University of California, Berkeley
 
 ## Publications
-<a name="publications"></a>
 
 1. **Cross sections for neutron-induced reactions from surrogate data: revisiting the Weisskopf-Ewing approximation for (n,n') and (n,2n) reactions**, O. Gorton and J. E. Escher, submitted to Phys. Rev. C. Pre-print available [arXiv:2102.03452](https://arxiv.org/abs/2102.03452).
 
@@ -45,7 +38,6 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
 4. **Efficient Modeling of Nuclei Through Coupling of Proton and Neutron Wavefunctions**, O. Gorton, Advisor: C. Johnson, [Masters Thesis (2018) San Diego State University, 2018](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917).
 
 ## Research Positions
-<a name="research"></a>
 
 1. **Graduate Research Assistant**, SDSU Research Foundation with [Calvin Johnson](http://sci.sdsu.edu/johnson/), 2019 - present
     - Developed software and theory to describe atomic nuclei using the nuclear shell model and computaional science
@@ -61,7 +53,6 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
    - Collaborated to develop formalism for Nuclear-Electronic Orbital method using time-dependent density functional theory
 
 ## Professional
-<a name="professional"></a>
 
 * Served as a referee for Physical Review C
 * Experience writing proposals for DOE, NNSA, and other funding sources
@@ -70,7 +61,6 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
    - Modernized [the manual](https://docs.google.com/document/d/1pejqikoYhlaIMhSzBzUzrnh2hDrC_q-bEcJCeflpX7w/edit?usp=sharing) for Physics 182A/195L Laboratory for online deployment in Spring 2020
 
 ## Training
-<a name="training"></a>
 
 * FRIB-TA Summer School: A practical walk through formal scattering theory, 2021
    - [Course resources](https://fribtascattering.github.io)
@@ -86,7 +76,6 @@ gamma-process**, O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al., Publ
    - Session 2: Clear, accurate, concise writing
 
 ## Code
-<a name="code"></a>
 
 * Major projects: Modern Fortran, Python, Bash
 * Minor tasks: C++, openMP, MPI, Mathematica, MATLAB, R
@@ -110,13 +99,11 @@ Proton-neutron interacting shell model code. Not yet released.
 Monte Carlo Inference Tool for Hauser-Feshbach statistical nuclear reaction codes. Not yet released.
 
 ## Awards
-<a name="awards"></a>
 
 * *Recently awarded 3-year proposal* LLNL, WCI, Academic Collaboration Team (ACT) University Program
 * Graduate S-STEM Scholarship, 2018-2020
 
 ## Talks
-<a name="talks"></a>
 
 1. **DMFortFactor: A Fast and Accessible for Computing WIMP-Nucleus-Scattering Event-Rates**, O. Gorton, C. Johnson, C. Jiao, talk given at DNP21 APS Conference (October 2021).
 2. **Better MCMC for Nuclear Data using emcee and B-DJINN**, O. C. Gorton, J. E. Escher, K. O. Bergstrom, M. K. Kruse, talk given at LLNL Summer Slam 2021.
@@ -133,13 +120,10 @@ Monte Carlo Inference Tool for Hauser-Feshbach statistical nuclear reaction code
 12. **A Markov Chain Monte Carlo Tool for Hauser-Feshbach Codes**, O. Gorton and J.E. Escher, HEDP Exit Talk (August 2018).
 
 ## Climbing
-<a name="climbing"></a>
 
 In my free time I enjoy rock climbing.
 
-<p style="text-align:center;">
-  <img src="climbing.jpeg" alt="Oliver climbing a rock" width="400"/>  
-</p>
+![Oliver climbing a wall](climbing.jpeg){width=50%}
 
 <hr>
 
