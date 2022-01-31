@@ -1,15 +1,3 @@
----
-title: 
-geometry:
-- margin=1in
-numbersections: False
-linkcolor: blue
-urlcolor: blue
-link-citations: yes
----
-
-# Oliver C. Gorton 
-
 ![*PhD student in computational science (the nuclear physics kind)*](oliver.jpg){width=7em}
 
 I use scientific computing to study the structure and properties of atomic
@@ -175,7 +163,7 @@ In my free time I enjoy rock climbing.
 
 I build this page by converting a [Markdown](https://www.markdownguide.org) 
 document to html using [pandoc](https://pandoc.org).
-Page last updated 2022-1-19.
+Page last updated \today.
 
 [Back to top](#top)
 
