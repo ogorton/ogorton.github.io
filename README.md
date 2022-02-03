@@ -6,7 +6,7 @@ structure and reaction theory, quantum chemistry, quantum information theory,
 and machine learning. All of my work involves the application of high
 performance computing (HPC) to quantum many-body physics.
 
-Last updated 2021 January.
+Last updated 2022 January.
 
 ## Education 
 
