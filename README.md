@@ -6,7 +6,7 @@ structure and reaction theory, quantum chemistry, quantum information theory,
 and machine learning. All of my work involves the application of high
 performance computing (HPC) to quantum many-body physics.
 
-Last updated 2022 January.
+Last updated: 2022 July.
 
 ## Education 
 
@@ -109,8 +109,7 @@ modern Fortran with an optional Python interface. Parallel execution with OpenMP
     - [Repository](https://github.com/ogorton/dmfortfactor) 
     - [Docs](https://ogorton.github.io/dmfortfactor/)
 * `PANASH` -- Proton and neutron approximate shell model code. Not yet released.
-* `MCIT` -- Monte Carlo Inference Tool for Hauser-Feshbach statistical nuclear
-reaction codes. Not yet released.
+* `COMMCAS` -- Computational Model Monte Carlo Sampler. Not yet released.
 
 ## Awards
 
@@ -119,6 +118,10 @@ reaction codes. Not yet released.
 * Graduate S-STEM Scholarship, 2018-2020
 
 ## Talks
+
+* "Proton and Neutron Approximate Shell Model: Factorization-based Importance 
+Truncation" by O. Gorton, C. Johnson, J. Escher -- poster given at Nuclear 
+Structure Conference (June 2022).
 
 * "DMFortFactor: A Fast and Accessible for Computing WIMP-Nucleus-Scattering
 Event-Rates" by O. Gorton, C. Johnson, C. Jiao -- talk given at DNP21 APS
