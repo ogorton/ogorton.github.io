@@ -1,4 +1,4 @@
-# Oliver C. Gorton's CV
+# CV
 
 ![*PhD student in computational science (the nuclear physics kind)*](oliver.jpg){width=7em}
 
