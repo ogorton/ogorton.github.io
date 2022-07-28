@@ -1,6 +1,6 @@
 # CV
 
-![*PhD student in computational science (the nuclear physics kind)*](oliver.jpg)
+![*PhD student in computational science (the nuclear physics kind)*](images/oliver.jpg)
 
 I use scientific computing to study the structure and properties of atomic
 nuclei. This has lead me to work on a number of different topics in nuclear
@@ -182,7 +182,7 @@ Projects
 
 In my free time I enjoy rock climbing.
 
-![Oliver climbing a wall](climbing.jpeg)
+![Oliver climbing a wall](images/climbing.jpeg)
 
 
 [Back to top](#top)
