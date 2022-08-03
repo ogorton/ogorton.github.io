@@ -1,6 +1,6 @@
 # CV
 
-![*PhD student in computational science (the nuclear physics kind)*](images/oliver.jpg)
+<img src='images/oliver.jpg' width="200"/>
 
 I use scientific computing to study the structure and properties of atomic
 nuclei. This has lead me to work on a number of different topics in nuclear
@@ -9,7 +9,7 @@ and machine learning. All of my work involves the application of high
 performance computing (HPC) to quantum many-body physics.
 
 My (ongoing) Ph.D. project is on the integrated shell model and Hauser-Feshbach
-description of beda-delayed neutron emission.
+description of beta-delayed neutron emission.
 
 Last updated: 2022 July.
 
