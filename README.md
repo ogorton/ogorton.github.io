@@ -119,8 +119,8 @@ Projects
 
 ## Awards
 
-* *Recently awarded 3-year proposal* LLNL, WCI, Academic Collaboration Team
-  (ACT) University Program
+* *Recently awarded 3-year proposal* [LLNL WCI Academic Collaboration Team
+  (ACT) University Program](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research)
 * Graduate S-STEM Scholarship, 2018-2020
 
 ## Talks
