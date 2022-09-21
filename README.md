@@ -24,6 +24,8 @@ Last updated: 2022 July.
 
 ## Publications
 
+### Papers
+
 * "dmscatter: A Fast Program for WIMP-Nucleus Scattering" by O. Gorton, C.
   Johnson, C. Jiao, J. Nikoleyczik -- Submitted to Comp. Phys. Comms. 
   Pre-print: [arXiv:2209.09187](https://arxiv.org/abs/2209.09187)
@@ -39,12 +41,15 @@ Last updated: 2022 July.
   [Phys. Rev. C, 102,
   055806](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806)
 
+### Proceedings
+
 * "Neutron capture cross sections from surrogate reaction data and theory:
   connecting the pieces with a Markov-Chain Monte Carlo approach" by O. Gorton and
   J. E. Escher -- Published September 2020
   [Spring Proceedings in Physics](https://doi.org/10.1007/978-3-030-58082-7_28). Preprint:
   [arXiv:1905:03055](https://arxiv.org/abs/1905.03055)
 
+### Thesis
 * "Efficient Modeling of Nuclei Through Coupling of Proton and Neutron
   Wavefunctions" by O. Gorton, Advisor: C. Johnson -- [Masters Thesis (2018) San
   Diego State University,
