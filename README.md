@@ -24,8 +24,9 @@ Last updated: 2022 July.
 
 ## Publications
 
-* "`dmscatter`: A Fast Program for WIMP-Nucleus Scattering" by O. Gorton, C.
-  Johnson, C. Jiao, J. Nikoleyczik -- Submitted to Comp. Phys. Comms.
+* "dmscatter: A Fast Program for WIMP-Nucleus Scattering" by O. Gorton, C.
+  Johnson, C. Jiao, J. Nikoleyczik -- Submitted to Comp. Phys. Comms. 
+  [arXiv:2209.09187](https://arxiv.org/abs/2209.09187)
 
 * "Cross sections for neutron-induced reactions from surrogate data: revisiting
   the Weisskopf-Ewing approximation for (n,n') and (n,2n) reactions" by O. Gorton
