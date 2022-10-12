@@ -43,6 +43,11 @@ Last updated: 2022 July.
 
 ### Proceedings
 
+* "A Problem in the Statistical Description of Beta-Delayed Neutron Emission" by O.
+  Gorton, C. Johnson, and J. Escher -- to be submitted to proceedings of 
+  15th International Conference on Nuclear Data for Science and Technology (ND2022). 
+  Preprint: []()
+  
 * "Neutron capture cross sections from surrogate reaction data and theory:
   connecting the pieces with a Markov-Chain Monte Carlo approach" by O. Gorton and
   J. E. Escher -- Published September 2020
