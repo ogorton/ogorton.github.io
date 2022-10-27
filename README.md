@@ -26,6 +26,10 @@ Last updated: 2022 July.
 
 ### Papers
 
+* "Proton-neutron entanglement in the nuclear shell model" by C. Johnson 
+  and O. Gorton -- To be submitted to J. Phys. G. Pre-print:
+  [arXiv:2210.14338](http://arxiv.org/abs/2210.14338)
+
 * "dmscatter: A Fast Program for WIMP-Nucleus Scattering" by O. Gorton, C.
   Johnson, C. Jiao, J. Nikoleyczik -- Submitted to Comp. Phys. Comms. 
   Pre-print: [arXiv:2209.09187](https://arxiv.org/abs/2209.09187)
