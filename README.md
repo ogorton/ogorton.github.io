@@ -143,6 +143,11 @@ Projects
 
 ## Talks
 
+* "Nuclear Shell Model to the Rescue: Efforts to Resolve a Mystery in Beta 
+  Delayed Neutron Emission" by O. Gorton, C. Johnson, J. Escher -- talk given 
+  at Division of Nuclear Physics Fall 2022 Meeting ( New Orleans, October
+  2022).
+
 * "Crisis in Beta-Delayed Neutron Emission: Shell Model to the Rescue" by O.
   Gorton, C. Johnson, J. Escher -- talk given at Nuclear Data Conference (July
   2022).
