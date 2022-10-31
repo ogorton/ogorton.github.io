@@ -11,7 +11,7 @@ performance computing (HPC) to quantum many-body physics.
 My (ongoing) Ph.D. project is on the integrated shell model and Hauser-Feshbach
 description of beta-delayed neutron emission.
 
-Last updated: 2022 July.
+Last updated October, 2022.
 
 ## Education
 
