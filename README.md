@@ -1,5 +1,5 @@
 
-Oliver Gorton | [About](README.md) - [Education](Education.md)- [Research](Research.md) - [Code](Code.md)
+Oliver Gorton • [About](README.md) • [Education](Education.md) • [Research](Research.md) • [Code](Code.md)
 
 # About
 
