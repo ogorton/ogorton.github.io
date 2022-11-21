@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oliver Gorton
+title: 
 ---
 
 # Oliver Gorton
