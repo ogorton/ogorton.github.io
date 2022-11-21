@@ -1,3 +1,8 @@
+---
+layout: post
+title: Oliver Gorton
+---
+
 # Oliver Gorton
 
 <img src='images/oliver.jpg' width="200"/>
