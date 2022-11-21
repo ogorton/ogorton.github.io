@@ -1,6 +1,8 @@
 # Oliver Gorton
 
-<img src='images/oliver.jpg' width="200"/>
+<img src='images/oliver.jpg' width="150"/>
+
+## Summary
 
 Ph.D. Candidate from San Diego State University and University of California, 
 Irvine, currently at Lawrence Livermore National Laboratory
