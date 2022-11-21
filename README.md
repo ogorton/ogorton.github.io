@@ -16,7 +16,7 @@ description of beta-delayed neutron emission.
 
 Last updated October, 2022.
 
-## University Education
+## Education
 * **PhD Computational Science**, expected 2023 - [Joint Doctoral Program with UC
   Irvine and San Diego State University](https://computationalscience.uci.edu)
 
@@ -137,7 +137,7 @@ Thesis
   Diego State University,
   2018](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917)
 
-### Presentations
+Presentations
 
 * "Nuclear Shell Model to the Rescue: Efforts to Resolve a Mystery in Beta 
   Delayed Neutron Emission" by O. Gorton, C. Johnson, J. Escher -- talk given 
