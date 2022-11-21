@@ -1,4 +1,9 @@
+# Oliver Gorton
+
 <img src='images/oliver.jpg' width="200"/>
+
+Ph.D. Candidate from San Diego State University and University of California, 
+Irvine, currently at Lawrence Livermore National Laboratory
 
 I use scientific computing to study the structure and properties of atomic
 nuclei. I have worked on a number of different topics in nuclear
