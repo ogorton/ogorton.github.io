@@ -1,5 +1,7 @@
 <head>
-  <title>Resume</title>
+  <title>
+    Resume
+  </title>
 </head>  
 
 # Oliver Gorton
