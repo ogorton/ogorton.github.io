@@ -1,3 +1,7 @@
+---
+title: Resume
+---
+
 # Oliver Gorton
 
 <img src='images/oliver.jpg' width="200"/>
