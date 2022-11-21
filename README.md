@@ -1,5 +1,3 @@
-# Oliver Gorton
-
 <img src='images/oliver.jpg' width="200"/>
 
 Ph.D. Candidate from San Diego State University and University of California, 
