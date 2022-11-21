@@ -1,9 +1,3 @@
-<head>
-  <title>
-    Resume
-  </title>
-</head>  
-
 # Oliver Gorton
 
 <img src='images/oliver.jpg' width="200"/>
