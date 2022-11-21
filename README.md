@@ -1,5 +1,3 @@
-# About Oliver Gorton
-
 <img src='images/oliver.jpg' width="200"/>
 
 I use scientific computing to study the structure and properties of atomic
