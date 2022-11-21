@@ -24,36 +24,17 @@ Last updated October, 2022.
 
 * **BA Physics**, 2016 - University of California, Berkeley
 
-## Training
-
-* FRIB-TA Summer School: A practical walk through formal scattering theory, 2021
-  * [Course resources](https://fribtascattering.github.io)
-  * Connecting bound states, resonances, and scattering states in exotic nuclei
-    and beyond
-
-* Agile Development Practices and Tools: A Guided Tour, 2020
-  * Sustainable Horizons Institute introduction to agile software development
-  * Collaborative source control using git, GitHub, and git workflows
-
-* Technical Writing Workshop, 2019
-  * LLNL PLS Directorate sponsored two-part writing class
-  * Session 1: Structuring your research paper
-  * Session 2: Clear, accurate, concise writing
-
-
 ## Research Positions
 
 * PhD Candidate -- LLNL, 2022 to present
   * New predictive capability for reaction and decay properties of fission
     fragments
-
 * Graduate Research Assistant -- SDSU Research Foundation with [Calvin
   Johnson](http://sci.sdsu.edu/johnson/), 2019 to 2021
   * Developed software and theory to describe atomic nuclei using the nuclear
     shell model and computaional science
 * Glenn T. Seaborg Institute (GTSI) Summer Intern -- [Seaborg Institute,
   LLNL](https://seaborg.llnl.gov), Summer 2021
-
 * High Energy Density Physics Intern -- [Lawrence Livermore National
   Laboratory](https://www.llnl.gov), Summer 2018, 2019, and 2020
   * Developed Python code to do MCMC parameter estimation for statistical
@@ -61,13 +42,12 @@ Last updated October, 2022.
   * Employed code for sensitivity studies assessing approximations in the
     surrogate reactions method
   * Modified and ran four Hauser-Feshbach model codes
-
 * Graduate Student -- UC Irvine, Department of Chemistry with [Filipp
   Furche](https://ffgroup.chem.uci.edu/members/filipp/), Fall 2019 and Spring 2020.
   * Collaborated to develop formalism for Nuclear-Electronic Orbital method
     using time-dependent density functional theory
 
-## Professional
+## Experience & Training
 
 * Served as a referee for Physical Review C
 * Experience writing proposals for DOE, NNSA, and other funding sources
@@ -76,6 +56,17 @@ Last updated October, 2022.
   * Independently lead lectures and exams for introductory-level physics lab courses
   * Modernized [the manual](https://docs.google.com/document/d/1pejqikoYhlaIMhSzBzUzrnh2hDrC_q-bEcJCeflpX7w/edit?usp=sharing)
     for Physics 182A/195L Laboratory for online deployment in Spring 2020
+* FRIB-TA Summer School: A practical walk through formal scattering theory, 2021
+  * [Course resources](https://fribtascattering.github.io)
+  * Connecting bound states, resonances, and scattering states in exotic nuclei
+    and beyond
+* Agile Development Practices and Tools: A Guided Tour, 2020
+  * Sustainable Horizons Institute introduction to agile software development
+  * Collaborative source control using git, GitHub, and git workflows
+* Technical Writing Workshop, 2019
+  * LLNL PLS Directorate sponsored two-part writing class
+  * Session 1: Structuring your research paper
+  * Session 2: Clear, accurate, concise writing    
 
 ## Awards
 
@@ -85,11 +76,11 @@ Last updated October, 2022.
 
 ## Code
 
-* Major projects: Modern Fortran, Python, Bash
-* Minor tasks: C++, openMP, MPI, Mathematica, MATLAB, R
+Languages
+* *Major projects*: Modern Fortran, Python, Bash
+* *Minor tasks*: C++, openMP, MPI, Mathematica, MATLAB, R
 
-### Projects
-
+Projects
 * [`Wigner`](https://github.com/ogorton/wigner) -- A library of functions for
   computation of Wigner 3-j, 6-j and 9-j symbols, written in modern Fortran.
   * [Repository](https://github.com/ogorton/wigner)
@@ -105,7 +96,7 @@ Last updated October, 2022.
 
 ## Research
 
-### Papers
+Papers
 
 * "Proton-neutron entanglement in the nuclear shell model" by C. Johnson 
   and O. Gorton -- To be submitted to J. Phys. G. Pre-print:
@@ -126,7 +117,7 @@ Last updated October, 2022.
   [Phys. Rev. C, 102,
   055806](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806)
 
-### Proceedings
+Proceedings
 
 * "A Problem in the Statistical Description of Beta-Delayed Neutron Emission" by O.
   Gorton, C. Johnson, and J. Escher -- to be submitted to proceedings of 
@@ -139,7 +130,8 @@ Last updated October, 2022.
   [Spring Proceedings in Physics](https://doi.org/10.1007/978-3-030-58082-7_28). Preprint:
   [arXiv:1905:03055](https://arxiv.org/abs/1905.03055)
 
-### Thesis
+Thesis
+
 * "Efficient Modeling of Nuclei Through Coupling of Proton and Neutron
   Wavefunctions" by O. Gorton, Advisor: C. Johnson -- [Masters Thesis (2018) San
   Diego State University,
