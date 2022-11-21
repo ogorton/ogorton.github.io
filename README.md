@@ -1,4 +1,6 @@
-<title>Resume</title>
+<head>
+  <title>Resume</title>
+</head>  
 
 # Oliver Gorton
 
