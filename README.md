@@ -35,15 +35,19 @@ Last updated October, 2022.
   Johnson](http://sci.sdsu.edu/johnson/), 2019 to 2021
   * Developed software and theory to describe atomic nuclei using the nuclear
     shell model and computaional science
-* Glenn T. Seaborg Institute (GTSI) Summer Intern -- [Seaborg Institute,
+* Glenn T. Seaborg Institute (GTSI) Summer Intern (Virtual) -- [Seaborg Institute,
   LLNL](https://seaborg.llnl.gov), Summer 2021
-* High Energy Density Physics Intern -- [Lawrence Livermore National
-  Laboratory](https://www.llnl.gov), Summer 2018, 2019, and 2020
+* High Energy Density Physics Intern (Virtual) -- [Lawrence Livermore National
+  Laboratory](https://www.llnl.gov), Summer 2020
   * Developed Python code to do MCMC parameter estimation for statistical
     nuclear reaction codes in order to combine surrogate data and theory
   * Employed code for sensitivity studies assessing approximations in the
     surrogate reactions method
   * Modified and ran four Hauser-Feshbach model codes
+ * High Energy Density Physics Intern -- [Lawrence Livermore National
+  Laboratory](https://www.llnl.gov), Summer 2019
+ * High Energy Density Physics Intern -- [Lawrence Livermore National
+  Laboratory](https://www.llnl.gov), Summer 2018
 * Graduate Student -- UC Irvine, Department of Chemistry with [Filipp
   Furche](https://ffgroup.chem.uci.edu/members/filipp/), Fall 2019 and Spring 2020.
   * Collaborated to develop formalism for Nuclear-Electronic Orbital method
