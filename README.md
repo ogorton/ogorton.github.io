@@ -108,8 +108,8 @@ Papers
   [arXiv:2210.14338](http://arxiv.org/abs/2210.14338)
 
 * "dmscatter: A Fast Program for WIMP-Nucleus Scattering" by O. Gorton, C.
-  Johnson, C. Jiao, J. Nikoleyczik -- Published Nov. 2022 in (J. Comp. Phys. Comms. 
-  284, 108597)[https://doi.org/10.1016/j.cpc.2022.108597].
+  Johnson, C. Jiao, J. Nikoleyczik -- Published Nov. 2022 in [J. Comp. Phys. Comms. 
+  284, 108597](https://doi.org/10.1016/j.cpc.2022.108597).
   Pre-print: [arXiv:2209.09187](https://arxiv.org/abs/2209.09187)
 
 * "Cross sections for neutron-induced reactions from surrogate data: revisiting
