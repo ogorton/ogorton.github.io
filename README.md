@@ -212,5 +212,3 @@ Presentations
 In my free time I enjoy rock climbing.
 
 <img src='images/climbing.jpeg' width="300"/>
-
-[Top](#Top)
