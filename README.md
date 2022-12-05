@@ -16,7 +16,9 @@ performance computing (HPC) to quantum many-body physics.
 My (ongoing) Ph.D. project is on the integrated shell model and Hauser-Feshbach
 description of beta-delayed neutron emission.
 
-Last updated October, 2022.
+Last updated December, 2022.
+
+[[Github profile]](https://github.com/ogorton)
 
 ## Code
 
@@ -104,31 +106,30 @@ Projects
 Papers
 
 * "Proton-neutron entanglement in the nuclear shell model" by C. Johnson 
-  and O. Gorton -- To be submitted to J. Phys. G. Pre-print:
-  [arXiv:2210.14338](http://arxiv.org/abs/2210.14338)
+  and O. Gorton -- Submitted to [J. Phys. G.] Pre-print:
+  [[arXiv:2210.14338]](http://arxiv.org/abs/2210.14338)
 
 * "dmscatter: A Fast Program for WIMP-Nucleus Scattering" by O. Gorton, C.
-  Johnson, C. Jiao, J. Nikoleyczik -- Published Nov. 2022 in [J. Comp. Phys. Comms. 
-  284, 108597](https://doi.org/10.1016/j.cpc.2022.108597).
-  Pre-print: [arXiv:2209.09187](https://arxiv.org/abs/2209.09187)
+  Johnson, C. Jiao, J. Nikoleyczik -- Published in [[J. Comp. Phys. Comms. 
+  Vol. 284, 108597, March 2023]](https://doi.org/10.1016/j.cpc.2022.108597).
+  Pre-print: [[arXiv:2209.09187]](https://arxiv.org/abs/2209.09187)
 
 * "Cross sections for neutron-induced reactions from surrogate data: revisiting
   the Weisskopf-Ewing approximation for (n,n') and (n,2n) reactions" by O. Gorton
-  and J. E. Escher -- Submitted to Phys. Rev. C., pending review. Pre-print:
-  [arXiv:2102.03452](https://arxiv.org/abs/2102.03452)
+  and J. E. Escher -- Submitted to [Phys. Rev. C.]. Pre-print:
+  [[arXiv:2102.03452]](https://arxiv.org/abs/2102.03452)
 
 * "Measurements of proton capture in the A=100-110 mass region: Constraints of the
   111In(gamma,p)/(gamma,n) branching point relevant to the gamma-process" by O.
-  Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al. -- Published November 2020
-  [Phys. Rev. C, 102,
-  055806](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806)
+  Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al. -- Published in [[Phys. Rev. C, Vol. 102,
+  055806, Nov. 2020]](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806)
 
 Proceedings
 
 * "A Problem in the Statistical Description of Beta-Delayed Neutron Emission" by O.
   Gorton, C. Johnson, and J. Escher -- Submitted to proceedings of 
   15th International Conference on Nuclear Data for Science and Technology (ND2022). 
-  Preprint: [arXiv:2210.05904](https://arxiv.org/abs/2210.05904)
+  Preprint: [[arXiv:2210.05904]](https://arxiv.org/abs/2210.05904)
   
  * "Improving nuclear data evaluations with predictive reaction theory and indirect
    measurements" by J. Escher, K. Bergstrom, E. Chimanski, O. Gorton, E. J. In, 
@@ -138,9 +139,9 @@ Proceedings
   
 * "Neutron capture cross sections from surrogate reaction data and theory:
   connecting the pieces with a Markov-Chain Monte Carlo approach" by O. Gorton and
-  J. E. Escher -- Published September 2020
-  [Spring Proceedings in Physics](https://doi.org/10.1007/978-3-030-58082-7_28). Preprint:
-  [arXiv:1905:03055](https://arxiv.org/abs/1905.03055)
+  J. E. Escher -- Published in
+  [[Spring Proceedings in Physics, Vol. 254, 229-231, Sep. 2020]](https://doi.org/10.1007/978-3-030-58082-7_28). 
+  Preprint: [[arXiv:1905:03055]](https://arxiv.org/abs/1905.03055)
 
 Thesis
 
