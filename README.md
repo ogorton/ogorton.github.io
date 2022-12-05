@@ -34,8 +34,6 @@ Projects
 * [`DMFortFactor`](https://github.com/ogorton/dmfortfactor) -- A fast Fortran code
   for WIMP-nucleus form factors and differential event rate spectra. Written in
   modern Fortran with an optional Python interface. Parallel execution with OpenMP.
-  * [Repository](https://github.com/ogorton/dmfortfactor)
-  * [Docs](https://ogorton.github.io/dmfortfactor/)
 * `PANASH` -- Proton and neutron approximate shell model code. Not yet released.
 * `COMMCAS` -- Computational Model Monte Carlo Sampler. Not yet released.
 
@@ -77,23 +75,23 @@ Projects
 ## Experience & Training
 
 * Served as a referee for Physical Review C
-* Experience writing proposals for DOE, NNSA, and other funding sources
+* Experienced writing proposals for DOE, NNSA, and other funding sources
+* Attended "FRIB-TA Summer School: A practical walk through formal scattering theory", 2021
+  * [Course resources](https://fribtascattering.github.io)
+  * Connecting bound states, resonances, and scattering states in exotic nuclei
+    and beyond
+* Attended "Agile Development Practices and Tools: A Guided Tour", 2020
+  * Sustainable Horizons Institute introduction to agile software development
+  * Collaborative source control using git, GitHub, and git workflows
+* Attended "Technical Writing Workshop", 2019
+  * LLNL PLS Directorate sponsored two-part writing class
+  * Session 1: Structuring your research paper
+  * Session 2: Clear, accurate, concise writing    
 * Graduate Teaching Associate -- San Diego State Univeristy, Department of
   Physics, during 2016 - 2020.
   * Independently lead lectures and exams for introductory-level physics lab courses
   * Modernized [the manual](https://docs.google.com/document/d/1pejqikoYhlaIMhSzBzUzrnh2hDrC_q-bEcJCeflpX7w/edit?usp=sharing)
     for Physics 182A/195L Laboratory for online deployment in Spring 2020
-* FRIB-TA Summer School: A practical walk through formal scattering theory, 2021
-  * [Course resources](https://fribtascattering.github.io)
-  * Connecting bound states, resonances, and scattering states in exotic nuclei
-    and beyond
-* Agile Development Practices and Tools: A Guided Tour, 2020
-  * Sustainable Horizons Institute introduction to agile software development
-  * Collaborative source control using git, GitHub, and git workflows
-* Technical Writing Workshop, 2019
-  * LLNL PLS Directorate sponsored two-part writing class
-  * Session 1: Structuring your research paper
-  * Session 2: Clear, accurate, concise writing    
 
 ## Awards
 
