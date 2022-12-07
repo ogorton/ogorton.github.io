@@ -2,6 +2,8 @@
 
 <img src='images/oliver.jpg' width="150"/>
 
+[[Github profile]](https://github.com/ogorton)
+
 ## Summary
 
 Ph.D. Candidate from San Diego State University and University of California, 
@@ -16,9 +18,17 @@ performance computing (HPC) to quantum many-body physics.
 My (ongoing) Ph.D. project is on the integrated shell model and Hauser-Feshbach
 description of beta-delayed neutron emission.
 
-Last updated December, 2022.
+### Contents
 
-[[Github profile]](https://github.com/ogorton)
+- [Summary](#summary)
+- [Code](#code)
+- [Education](#education)
+- [Research positions](#research-positions)
+- [Experience](#experience-and-training)
+- [Awards](#awards)
+- [Research](#research)
+
+Last updated December, 2022.
 
 ## Code
 
@@ -70,7 +80,7 @@ Projects
   * Collaborated to develop formalism for Nuclear-Electronic Orbital method
     using time-dependent density functional theory
 
-## Experience & Training
+## Experience and Training
 
 * Served as a referee for Physical Review C
 * Experienced writing proposals for DOE, NNSA, and other funding sources
