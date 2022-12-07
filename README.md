@@ -20,7 +20,6 @@ description of beta-delayed neutron emission.
 
 ### Contents
 
-- [Summary](#summary)
 - [Code](#code)
 - [Education](#education)
 - [Research positions](#research-positions)
