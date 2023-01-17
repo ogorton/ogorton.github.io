@@ -1,5 +1,4 @@
-[Home](../REAMDE.md)
-| [Posts](../blog.md)
+[Posts](../blog.md)
 
 # Basics of vector coupling
 
