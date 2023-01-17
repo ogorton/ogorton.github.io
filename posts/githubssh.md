@@ -1,5 +1,4 @@
-[Home](../REAMDE.md)
-| [Posts](../blog.md)
+[Posts](../blog.md)
 
 # Quick guide to setup ssh keys for GitHub on a new machine
 
