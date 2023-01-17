@@ -1,11 +1,7 @@
 [Home](../REAMDE.md)
-| [All](../blog.md)
-| [ < Newer ](../blog.md)
-| [ Older >](2023.01.16.md)
+| [Posts](../blog.md)
 
 # Quick guide to setup ssh keys for GitHub on a new machine
-
-2023 January 16
 
 This guide is just a condensed version of the guide from GitHub,
 [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account),
