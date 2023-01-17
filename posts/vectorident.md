@@ -1,5 +1,4 @@
-[Home](../REAMDE.md)
-| [Posts](../blog.md)
+[Posts](../blog.md)
 
 # Angular momentum coupling identities from Edmonds
 
