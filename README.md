@@ -3,6 +3,7 @@
 <img src='images/oliver.jpg' width="150"/>
 
 [[Github profile]](https://github.com/ogorton)
+[[Blog]](blog.md)
 
 ## Summary
 
