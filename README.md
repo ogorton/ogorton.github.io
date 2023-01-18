@@ -1,4 +1,4 @@
-# Oliver Gorton
+# About
 
 <img src='images/oliver.jpg' width="150"/>
 
