@@ -1,5 +1,3 @@
-# About (CV)
-
 <img src='images/oliver.jpg' width="150"/>
 
 [[Github profile]](https://github.com/ogorton)
