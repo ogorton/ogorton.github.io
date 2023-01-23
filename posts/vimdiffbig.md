@@ -12,7 +12,8 @@ highlights to indicate the differences between the two files.
 
 A problem I have encountered is when the files are large. E.g. one of my files is 
 265MB in size, with 26 M lines. Runnnig the plain `diff` command on these files
-takes XXX. Running vimdiff would take even longer!
+takes <more than 20 mintes, after which I gave up>. Running vimdiff would take 
+even longer!
 
 Usually, I just want a quick check if there is a serious difference between two files.
 These files usually contain numerical data and will invariably contain small numerical 
