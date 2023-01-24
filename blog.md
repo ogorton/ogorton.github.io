@@ -1,4 +1,5 @@
 # Oliver's Blog
+- [Book scanning](posts/bookscanning.md)
 - [Array dimension-reduction (spooling)](posts/spooling.md)
 - [Diffing large files](posts/vimdiffbig.md)
 - [Vector coupling coefficient basics](posts/vectorcouple.md)
