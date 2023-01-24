@@ -2,6 +2,8 @@
 
 [[Github profile]](https://github.com/ogorton)
 
+[[Blog]](blog.md)
+
 ## Summary
 
 Ph.D. Candidate from San Diego State University and University of California, 
