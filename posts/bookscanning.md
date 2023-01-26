@@ -46,8 +46,15 @@ The tool I ended up using was gscan2pdf. Here's what I did with it:
 - Imported the pre-processed images exported from vFlat
 - Applied the "Cleanup" function, which increased the contrast of the pages, and further 
   de-skewed
- - Applid the OCR function, which attempted to identify the text and add a text layer to 
-   each page
+  
+After printing to file, this resulted in a greatly reduced PDF size. However, each page was 
+a  slightly different size. To correct this, I used ghostscript to paste each page onto an
+A4 sheet:
+
+```
+gs -o BB_150dpi.pdf -sDEVICE=pdfwrite -sPAPERSIZE=a4 -dFIXEDMEDIA -dPDFFitPage -dPDFSETTINGS=/ebook -dCompatibilityLevel=1.4 BehrensBuhring_clean_ragged.pdf
+```
+The setting `-dPDFSETTINGS=/ebook` also set the DPI to 150ppi.
    
    
  ## Results
