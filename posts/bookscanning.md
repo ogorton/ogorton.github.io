@@ -52,9 +52,14 @@ a  slightly different size. To correct this, I used ghostscript to paste each pa
 A4 sheet:
 
 ```
-gs -o BB_150dpi.pdf -sDEVICE=pdfwrite -sPAPERSIZE=a4 -dFIXEDMEDIA -dPDFFitPage -dPDFSETTINGS=/ebook -dCompatibilityLevel=1.4 BehrensBuhring_clean_ragged.pdf
+gs -o BB_150dpi.pdf -sDEVICE=pdfwrite -sPAPERSIZE=a4 \ 
+   -sProcessColorModel=DeviceGray -sColorConversionStrategy=Gray \
+   -dFIXEDMEDIA -dPDFFitPage -dPDFSETTINGS=/ebook \
+   -dCompatibilityLevel=1.4 \
+    BehrensBuhring_clean_ragged.pdf
 ```
-The setting `-dPDFSETTINGS=/ebook` also set the DPI to 150ppi.
+The setting `-dPDFSETTINGS=/ebook` also set the DPI to 150ppi. 
+The settings `-sProcessColorModel=DeviceGray -sColorConversionStrategy=Gray` sets the colorspace to grayscale.
    
    
  ## Results
