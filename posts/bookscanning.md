@@ -52,30 +52,25 @@ After a lot of experimentation with different tools, I used the following progra
 The script I created combined them like so:
 
 ```
-# Make some sub directories to store intermediate results
+rm -r source pnm unpaper png
 mkdir "source" "pnm" "unpaper" "png"
 cp ../Archive/*.jpg ./source/
-
-# Change the filenames so that they appear in numerical order
 rename -e 's/\d+/sprintf("%05d",$&)/e' -- ./source/*.jpg
 
-# Cover: I used a custom imagemagick command on the cover page to
-# preserve its blue color. (All other pages are grayscale.)
+# Cover
 # -depth 4 -white-threshold 60% -channel B -threshold 1% -depth 1
-
-# Loop over all the raw images
 for f in source/Behrens*.jpg
 do
     echo $f;
     fname=${f#*/} # remove prefix ending in /
 
-    echo "...convert to pnm and process" # format used by unpaper
-    convert "./source/$fname" -depth 4 -threshold 60% "./pnm/$fname.pnm" ;
+    echo "...convert to pnm"
+    convert "./source/$fname" -depth 4 -threshold 65% "./pnm/$fname.pnm" ;
 
-    echo "...unpaper filters" # i found deskew and border scan messed up some text
+    echo "...unpaper filters"
     unpaper --layout single  --output-pages 1 \
         --no-deskew \
-        --no-border-scan -S a5 \
+        --no-border-scan \
         --overwrite "./pnm/$fname.pnm" "./unpaper/$fname.pnm" \
         > unpaper.out 2> unpaper.log;
 
@@ -85,16 +80,16 @@ do
 done 
 
 echo "concatinating final pdf"
-img2pdf ./png/*png -o Behrens_and_Buhring_png.pdf
+img2pdf -r none ./png/*png -o Behrens_and_Buhring_png.pdf
        
+echo "Performing OCR analysis"       
 ocrmypdf Behrens_and_Buhring_png.pdf Behrens_and_Buhring_ocr.pdf       
 
+echo "Formatting document and meta data"
 gs -sDEVICE=pdfwrite -o Behrens_and_Buhring_a4.pdf -sPAPERSIZE=a4 \
        -dFIXEDMEDIA -dPDFFitPage -dCompatibilityLevel=1.7 \
        Behrens_and_Buhring_ocr.pdf bb.pdfmark
 ```
-The setting `-dPDFSETTINGS=/ebook` also set the DPI to 150ppi. 
-The settings `-sProcessColorModel=DeviceGray -sColorConversionStrategy=Gray` sets the colorspace to grayscale.
    
    
  ## Results
