@@ -1,8 +1,7 @@
 <img src='images/oliver.jpg' width="150"/>
 
-[[Github profile]](https://github.com/ogorton)
-
-[[Blog]](blog.md)
+[Github profile](https://github.com/ogorton)\
+[Posts](blog.md)
 
 ## Summary
 
