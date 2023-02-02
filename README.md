@@ -106,9 +106,7 @@ Projects
   University Program](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research) (ACT-UP) Award
 * Graduate S-STEM Scholarship, 2018-2020
 
-## Research
-
-### Papers
+## Papers
 
 **Proton-neutron entanglement in the nuclear shell model** 
 
@@ -179,7 +177,7 @@ Projects
   [Masters Thesis (2018) San Diego State University, 
   2018](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917)
 
-### Presentations
+## Presentations
 
 **Nuclear Shell Model to the Rescue: Efforts to Resolve a Mystery in Beta 
   Delayed Neutron Emission**
