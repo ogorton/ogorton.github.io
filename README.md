@@ -106,7 +106,7 @@ Projects
   University Program](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research) (ACT-UP) Award
 * Graduate S-STEM Scholarship, 2018-2020
 
-## Papers
+## Journal Papers
 
 **Proton-neutron entanglement in the nuclear shell model** 
 
@@ -139,7 +139,7 @@ Projects
   Published in [[Phys. Rev. C, Vol. 102,
   055806, Nov. 2020]](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806)
 
-### Proceedings
+## Conference Proceedings
 
 **A Problem in the Statistical Description of Beta-Delayed Neutron Emission** 
 
@@ -167,7 +167,7 @@ Projects
   [[Spring Proceedings in Physics, Vol. 254, 229-231, Sep. 2020]](https://doi.org/10.1007/978-3-030-58082-7_28). 
   Preprint: [[arXiv:1905:03055]](https://arxiv.org/abs/1905.03055)
 
-### Thesis
+## Thesis
 
 **Efficient Modeling of Nuclei Through Coupling of Proton and Neutron
   Wavefunctions** 
