@@ -161,72 +161,72 @@ Presentations
   Delayed Neutron Emission" by O. Gorton, C. Johnson, J. Escher -- talk given 
   at APS Division of Nuclear Physics Fall 2022 Meeting ( New Orleans, October
   2022).
-  [PDF](slides/gorton_dnp22.pdf)
+  [PDF](./slides/gorton_dnp22.pdf)
 
 * "Crisis in Beta-Delayed Neutron Emission: Shell Model to the Rescue" by O.
   Gorton, C. Johnson, J. Escher -- talk given at Nuclear Data Conference (July
   2022).
-  [PDF](slides/gorton_nd22.pdf)
+  [PDF](./slides/gorton_nd22.pdf)
 
 * "Proton and Neutron Approximate Shell Model: Factorization-based Importance
   Truncation" by O. Gorton, C. Johnson, J. Escher -- poster given at Nuclear
   Structure Conference (June 2022).
-  [PDF](slides/gorton_ns22.pdf)
+  [PDF](./slides/gorton_ns22.pdf)
 
 * "DMFortFactor: A Fast and Accessible for Computing WIMP-Nucleus-Scattering
   Event-Rates" by O. Gorton, C. Johnson, C. Jiao -- talk given at DNP21 APS
   Conference (October 2021).
-  [PDF](slides/gorton_dnp21.pdf)
+  [PDF](./slides/gorton_dnp21.pdf)
 
 * "Better MCMC for Nuclear Data using emcee and B-DJINN" by O. C. Gorton, J. E.
   Escher, K. O. Bergstrom, M. K. Kruse -- talk given at LLNL Summer Slam 2021.
-  [PDF](slides/gorton_llnl21.pdf)
+  [PDF](./slides/gorton_llnl21.pdf)
 
 * "Nuclear Physics for WIMPs" by O. Gorton and C. W. Johnson -- talk given at
   SDSU SIAM Student Chapter Summer Colloquium Series, Friday July 2, 2021.
-  [PDF](slides/gorton_csrc21.pdf)
+  [PDF](./slides/gorton_csrc21.pdf)
 
 * "Cross subsections for neutron reactions from surrogate measurements:
   Revisiting the Weisskopf-Ewing approximation" talk by O. Gorton and J. E. Escher
   -- DNP20 APS Conference (October 2020).
-  [PDF](slides/gorton_dnp20.pdf)
+  [PDF](./slides/gorton_dnp20.pdf)
 
 * "Can we get rid of the theorists?" by O. Gorton and J. E. Escher -- LLNL Summer
   Slam talk (August 2020).
-  [PDF](slides/gorton_llnl20.pdf)
+  [PDF](./slides/gorton_llnl20.pdf)
 
 * "Big Picture and Background for Nuclear-Electronic Orbital (NEO) Approach:
   Calculating Mixed Nucleon-Electron Wave Functions" by O. Gorton -- progress talk
   presented for the Furche Group, Chemistry Department, UC Irvine (March 2020).
-  [PDF](slides/gorton_uci20.pdf)
+  [PDF](./slides/gorton_uci20.pdf)
 
 * "Indirect measurements of nuclear cross subsections: tempering experimental
   results with theory" by O. Gorton and J. E. Escher -- HEDP Exit Talk (September
   2019).
-  [PDF](slides/gorton_llnl19b.pdf)
+  [PDF](./slides/gorton_llnl19b.pdf)
 
 * "Sensitivity Study of the Surrogate Method" by O. Gorton and J. E. Escher
   -- poster presented at LLNL Student Poster Symposium (August 2019).
-  [PDF](posters/gorton_llnl19a.pdf)
+  [PDF](./posters/gorton_llnl19a.pdf)
 
 * "Temperature and Entropy in the Nuclear Shell Model" by O. Gorton and C. W.
   Johnson -- poster presented at SDSU ACCESS event (April 2019).
-  [PDF](posters/gorton_csrc19.pdf)
+  [PDF](./posters/gorton_csrc19.pdf)
 
 * "Proton Neutron Interacting Shell Model: Order of Magnitude Reduction for
   Medium Mass Nuclei" by O. Gorton and C. Johnson -- poster presentated at SDSU
   annual research symposium (March 2019).
-  [PDF](posters/gorton_sdsu19.pdf)
+  [PDF](./posters/gorton_sdsu19.pdf)
 
 * "Neutron capture cross subsections from surrogate reaction data and theory:
   connecting the pieces with a Markov-Chain Monte Carlo approach" by O. Gorton
   and J. E. Escher -- poster presented at
   [CNR18](https://indico.bnl.gov/event/4158),  September 2018.
-  [PDF](posters/gorton_cnr18.pdf)
+  [PDF](./posters/gorton_cnr18.pdf)
 
 * "A Markov Chain Monte Carlo Tool for Hauser-Feshbach Codes" by O. Gorton and
   J.E. Escher -- HEDP Exit Talk (August 2018).
-  [PDF](slides/gorton_llnl18.pdf)
+  [PDF](./slides/gorton_llnl18.pdf)
 
 ## Climbing
 
