@@ -57,20 +57,18 @@ mkdir "source" "pnm" "unpaper" "png"
 cp ../Archive/*.jpg ./source/
 rename -e 's/\d+/sprintf("%05d",$&)/e' -- ./source/*.jpg
 
-# Cover
-# -depth 4 -white-threshold 60% -channel B -threshold 1% -depth 1
 for f in source/Behrens*.jpg
 do
     echo $f;
     fname=${f#*/} # remove prefix ending in /
 
     echo "...convert to pnm"
-    convert "./source/$fname" -depth 4 -threshold 65% "./pnm/$fname.pnm" ;
+    convert "./source/$fname" -depth 4 -threshold 85% "./pnm/$fname.pnm" ;
 
     echo "...unpaper filters"
     unpaper --layout single  --output-pages 1 \
         --no-deskew \
-        --no-border-scan \
+        --no-border-scan -ms 100,100 \
         --overwrite "./pnm/$fname.pnm" "./unpaper/$fname.pnm" \
         > unpaper.out 2> unpaper.log;
 
@@ -79,19 +77,24 @@ do
         "./png/$fname.png" ;
 done 
 
+# Cover
+convert ./source/'Behrens_and_Buhring - 00000.jpg' -depth 4 \
+    -white-threshold 70% -channel B -threshold 5% \
+    -depth 1 ./png/'Behrens_and_Buhring - 00000.jpg.png'
+
+
 echo "concatinating final pdf"
 img2pdf -r none ./png/*png -o Behrens_and_Buhring_png.pdf
        
 echo "Performing OCR analysis"       
-ocrmypdf Behrens_and_Buhring_png.pdf Behrens_and_Buhring_ocr.pdf       
+ocrmypdf --rotate-pages-threshold 1000 Behrens_and_Buhring_png.pdf Behrens_and_Buhring_ocr.pdf       
 
 echo "Formatting document and meta data"
-gs -sDEVICE=pdfwrite -o Behrens_and_Buhring_a4.pdf -sPAPERSIZE=a4 \
+gs -sDEVICE=pdfwrite -o Behrens_and_Buhring_final.pdf -sPAPERSIZE=a5 \
        -dFIXEDMEDIA -dPDFFitPage -dCompatibilityLevel=1.7 \
-       Behrens_and_Buhring_ocr.pdf bb.pdfmark
+       -dAutoRotatePages=/None Behrens_and_Buhring_ocr.pdf bb.pdfmark
 ```
-   
    
  ## Results
  
- Coming soon...
+[Scanned text]()
