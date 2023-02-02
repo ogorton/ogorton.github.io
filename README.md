@@ -20,15 +20,15 @@ description of beta-delayed neutron emission.
 
 ### Contents
 
-- [Code](#code)
-- [Education](#education)
-- [Research positions](#research-positions)
-- [Experience](#experience-and-training)
-- [Awards](#awards)
-- [Journal Papers](#journal-papers)
-- [Conference Proceedings](#conference-proceedings)
-- [Thesis](#thesis)
-- [Presentations](#presentations)
+[Code](#code)\
+[Education](#education)\
+[Research positions](#research-positions)\
+[Experience](#experience-and-training)\
+[Awards](#awards)\
+[Journal Papers](#journal-papers)\
+[Conference Proceedings](#conference-proceedings)\
+[Thesis](#thesis)\
+[Presentations](#presentations)
 
 Last updated February 2023.
 
@@ -38,22 +38,26 @@ Languages
 * *Major projects*: Modern Fortran, Python, Bash
 * *Minor tasks*: C++, openMP, MPI, Mathematica, MATLAB, R
 
-Projects
-* [`Wigner`](https://github.com/ogorton/wigner) -- A library of functions for
-  computation of Wigner 3-j, 6-j and 9-j symbols, written in modern Fortran.
-* [`DMFortFactor`](https://github.com/ogorton/dmfortfactor) -- A fast Fortran code
-  for WIMP-nucleus form factors and differential event rate spectra. Written in
+**Wigner** [[Code]](https://github.com/ogorton/wigner) \
+A library of functions for computation of Wigner 3-j, 6-j and 9-j symbols, written in modern Fortran.
+
+**dmscatter** [[Code]](https://github.com/ogorton/dmfortfactor)\
+A fast Fortran code for WIMP-nucleus form factors and differential event rate spectra. Written in
   modern Fortran with an optional Python interface. Parallel execution with OpenMP.
-* `PANASH` -- Proton and neutron approximate shell model code. Not yet released.
-* `COMMCAS` -- Computational Model Monte Carlo Sampler. Not yet released.
+  
+**PANASH** [Not released]\
+Proton and neutron approximate shell model code. Not yet released.
+
+**COMMCAS** [Not released]\
+Computational Model Monte Carlo Sampler. Not yet released.
 
 ## Education
-* **PhD Computational Science**, expected 2023 - [Joint Doctoral Program with UC
+**PhD Computational Science**, expected 2023 - [Joint Doctoral Program with UC
   Irvine and San Diego State University](https://computationalscience.uci.edu)
 
-* **MS Physics**, 2018 - San Diego State University
+**MS Physics**, 2018 - San Diego State University
 
-* **BA Physics**, 2016 - University of California, Berkeley
+**BA Physics**, 2016 - University of California, Berkeley
 
 ## Research Positions
 
@@ -113,26 +117,26 @@ Projects
 
 **Proton-neutron entanglement in the nuclear shell model** \
   C. Johnson and O. Gorton \
-  Submitted to [J. Phys. G.] Pre-print:
+  Submitted to Journal of Physics G. Pre-print:
   [[arXiv:2210.14338]](http://arxiv.org/abs/2210.14338)
 
 **dmscatter: A Fast Program for WIMP-Nucleus Scattering** \
   O. Gorton, C. Johnson, C. Jiao, J. Nikoleyczik \
-  Published in [[J. Comp. Phys. Comms. 
-  Vol. 284, 108597, March 2023]](https://doi.org/10.1016/j.cpc.2022.108597).
-  Pre-print: [[arXiv:2209.09187]](https://arxiv.org/abs/2209.09187)
+  Published in [J. of Comp. Phys. Comm. 
+  Vol. 284, 108597, March 2023](https://doi.org/10.1016/j.cpc.2022.108597).
+  Pre-print: [arXiv:2209.09187](https://arxiv.org/abs/2209.09187)
 
 **Cross sections for neutron-induced reactions from surrogate data: revisiting
   the Weisskopf-Ewing approximation for (n,n') and (n,2n) reactions**\
   O. Gorton and J. E. Escher \
-  Submitted to [Phys. Rev. C.]. Pre-print:
-  [[arXiv:2102.03452]](https://arxiv.org/abs/2102.03452)
+  Submitted to [Physical Review C]. Pre-print:
+  [arXiv:2102.03452](https://arxiv.org/abs/2102.03452)
 
 **Measurements of proton capture in the A=100-110 mass region: Constraints of the
   111In(gamma,p)/(gamma,n) branching point relevant to the gamma-process** \
   O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al. \
-  Published in [[Phys. Rev. C, Vol. 102,
-  055806, Nov. 2020]](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806)
+  Published in [Phys. Rev. C, Vol. 102,
+  055806, Nov. 2020](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806)
 
 ## Conference Proceedings
 
@@ -140,7 +144,7 @@ Projects
   O. Gorton, C. Johnson, and J. Escher \
   Submitted to proceedings of 
   15th International Conference on Nuclear Data for Science and Technology (ND2022). 
-  Preprint: [[arXiv:2210.05904]](https://arxiv.org/abs/2210.05904)
+  Preprint: [arXiv:2210.05904](https://arxiv.org/abs/2210.05904)
   
  **Improving nuclear data evaluations with predictive reaction theory and indirect
    measurements** \
@@ -153,8 +157,8 @@ Projects
   connecting the pieces with a Markov-Chain Monte Carlo approach** \
   O. Gorton and J. E. Escher \
   Published in
-  [[Spring Proceedings in Physics, Vol. 254, 229-231, Sep. 2020]](https://doi.org/10.1007/978-3-030-58082-7_28). 
-  Preprint: [[arXiv:1905:03055]](https://arxiv.org/abs/1905.03055)
+  [Spring Proceedings in Physics, Vol. 254, 229-231, Sep. 2020](https://doi.org/10.1007/978-3-030-58082-7_28). 
+  Preprint: [arXiv:1905:03055](https://arxiv.org/abs/1905.03055)
 
 ## Thesis
 
