@@ -97,4 +97,4 @@ gs -sDEVICE=pdfwrite -o Behrens_and_Buhring_final.pdf -sPAPERSIZE=a5 \
    
  ## Results
  
-[Scanned text]()
+[Scanned text](Behrens_and_Buhring_final.pdf)
