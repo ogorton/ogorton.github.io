@@ -30,7 +30,7 @@ description of beta-delayed neutron emission.
 - [Thesis](#thesis)
 - [Presentations](#presentations)
 
-Last updated December, 2022.
+Last updated February 2023.
 
 ## Code
 
