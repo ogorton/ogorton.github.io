@@ -25,7 +25,10 @@ description of beta-delayed neutron emission.
 - [Research positions](#research-positions)
 - [Experience](#experience-and-training)
 - [Awards](#awards)
-- [Research](#research)
+- [Journal Papers](#journal-papers)
+- [Conference Proceedings](#conference-proceedings)
+- [Thesis](#thesis)
+- [Presentations](#presentations)
 
 Last updated December, 2022.
 
