@@ -161,7 +161,7 @@ Presentations
   Delayed Neutron Emission" by O. Gorton, C. Johnson, J. Escher -- talk given 
   at APS Division of Nuclear Physics Fall 2022 Meeting ( New Orleans, October
   2022).
-  [PDF](./slides/gorton_dnp22.pdf)
+  [PDF](slides/gorton_dnp22.pdf)
 
 * "Crisis in Beta-Delayed Neutron Emission: Shell Model to the Rescue" by O.
   Gorton, C. Johnson, J. Escher -- talk given at Nuclear Data Conference (July
