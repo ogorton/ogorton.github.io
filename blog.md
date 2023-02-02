@@ -1,4 +1,4 @@
-# Oliver's Blog
+# Notes
 
 [Book scanning](posts/bookscanning.md)\
 [Array dimension-reduction (spooling)](posts/spooling.md)\
