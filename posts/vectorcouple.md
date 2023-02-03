@@ -1,4 +1,4 @@
-[Posts](../blog.md)
+[Posts](../blog.md.html)
 
 # Basics of vector coupling
 
@@ -20,6 +20,7 @@ Communications 120 (1999) 222-230](https://doi.org/10.1016/S0010-4655(99)00232-5
 
 For the 3-j symbol, we use the relation to the Clebsh-Gordon vector-coupling
 coefficients: 
+$$
 \begin{align*}
     \begin{pmatrix}
         j_1 & j_2 & J\\
@@ -28,31 +29,32 @@ coefficients:
     = (-1)^{j_1-j_2-M}(2J+1)^{-1/2}\\ 
     (j_1j_2m_1m_2 | j_1 j_2; J, -M).
 \end{align*}
+$$
 The vector coupling coefficients are computed as:
-```math
+$$
 \begin{align*}
     (j_1j_2 & m_1m_2 | j_1 j_2; J, M) = \delta(m_1+m_1,m) (2J+1)^{1/2}\Delta(j_1j_2J)\\
     & \times[(j_1+m_1)(j_1-m_1)(j_2+m_2)(j_2-m_2)(J+M)(J-M)]^{1/2}\sum_z (-1)^z \frac{1}{f(z)},
 \end{align*}
-```
+$$
 where 
-```math
+$$
 \begin{align*}
     f(z) &= z!(j_1+j_2-J-z)!(j_1-m_2-z)!\\
     & \times(j_2+m_2-z)!(J-j_2+m_1+z)!(J-m_1-m_2+z)!,
 \end{align*}
-```
+$$
 and 
-```math
+$$
 \begin{align*}
     \Delta(abc) = \left[\frac{(a+b-c)!(a-b+c)!(-a+b+c)!}{(a+b+c+1)!} \right]^{1/2}.
 \end{align*}
-```
+$$
 The sum over $z$ is over all integers such that the factorials are well-defined
 (non-negative-integer arguments).
 
 Similarly, for the 6-j symbols:
-```math
+$$
 \begin{align*}
     \begin{Bmatrix}
         j_1 & j_2 & j_3\\
@@ -61,25 +63,25 @@ Similarly, for the 6-j symbols:
     &= \Delta(j_1j_2j_3)\Delta(j_1m_2m_3)\Delta(m_1j_2m_3)\\
     &\times \Delta(m_1m_2j_3) \sum_z (-1)^z\frac{(z+1)!}{g(z)},
 \end{align*}
-```
+$$
 with 
-```math
+$$
 \begin{align*}
     g(z) &= (\alpha - z)!(\beta-z)!(\gamma-z)!\\
     &\times (z-\delta)!(z-\epsilon)!(z-\zeta)!(z-\eta)!
 \end{align*}
-```
-```math
+$$
+$$
 \begin{align*}
     \alpha &= j_1+j_1+m_1+m_2 & \beta  &= j_2+j_3+m_2+m_3\\
     \gamma &= j_3+j_1+m_3+m_1 \\
     \delta &= j_1+j_2+j_3 & \epsilon &= j_1+m_2+m_3 \\
     \zeta &= m_1+j_2+m_3 & \eta &= m_1+m_2+j_3.
 \end{align*}
-```
+$$
 
 For the 9-j symbol, we use the relation to the 6-j symbol:
-```math
+$$
 \begin{align*}
         \begin{Bmatrix}
         j_1 & j_2 & j_3\\
@@ -100,6 +102,6 @@ For the 9-j symbol, we use the relation to the 6-j symbol:
         z & j_1 & j_2
         \end{Bmatrix}.        
 \end{align*}
-```
+$$
 The 6-j symbols used to calculate the 9-j symbol are first taken from any
 tabulated values. Otherwise, they are computed as previously described.

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Oliver Gorton</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="style.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<p><a href="../blog.md.html">Posts</a></p>
+<h1 id="quick-guide-to-setup-ssh-keys-for-github-on-a-new-machine">Quick
+guide to setup ssh keys for GitHub on a new machine</h1>
+<p>This guide is just a condensed version of the guide from GitHub, <a
+href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account">here</a>,
+and <a
+href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent">here</a>.</p>
+<ol type="1">
+<li><p>Create a new ssh key:</p>
+<pre><code> ssh-keygen -t ed25519 -C &quot;your_email@example.com&quot;</code></pre></li>
+<li><p>Add the new key to your ssh agent (macOS)</p>
+<ul>
+<li><p>Start the agent</p>
+<p>eval “$(ssh-agent -s)”</p></li>
+<li><p>Edit the config</p>
+<p>vim ~/.ssh/config</p></li>
+<li><p>Add the following text</p>
+<p>Host *.github.com AddKeysToAgent yes UseKeychain yes IdentityFile
+~/.ssh/id_ed25519</p></li>
+<li><p>Add the key to your apple keychain</p>
+<p>ssh-add –apple-use-keychain ~/.ssh/id_ed25519</p></li>
+</ul></li>
+<li><p>Copy your <em>public</em> ssh key</p>
+<pre><code> pbcopy &lt; ~/.ssh/id_ed25519.pub</code></pre>
+<p>or,</p>
+<pre><code> cat &lt; ~/.ssh/id_ed25519.pub</code></pre>
+<p>and copy in the usual way.</p></li>
+<li><p>Add the public key to your keys on Github.com</p></li>
+</ol>
+</body>
+</html>

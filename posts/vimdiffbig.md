@@ -1,3 +1,5 @@
+[Posts](../blog.md.html)
+
 # Diffing very large files
 
 Sometimes I want to find the difference between two files, line-by-line, using a program.

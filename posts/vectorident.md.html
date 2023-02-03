@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Oliver Gorton</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="style.css" />
+  <script
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js"
+  type="text/javascript"></script>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<p><a href="../blog.md.html">Posts</a></p>
+<h1 id="angular-momentum-coupling-identities-from-edmonds">Angular
+momentum coupling identities from Edmonds</h1>
+<p>Sometimes I need an angular momentum coulping identity from the
+famous reference on the topic. Here are some of them.</p>
+<h2 id="tensor-product-of-two-operators">Tensor product of two
+operators</h2>
+<p>If we have two operators which act only on one of the subspaces, we
+get: <span class="math display">\[
+\langle j_1&#39;j_2&#39;;J&#39; | [\hat{T}_{k_1}\otimes \hat{U}_{k_2}]_K
+| j_1j_2;J \rangle = [J&#39;][K][J]
+  \begin{Bmatrix} j_1&#39; &amp; j_1 &amp; k_1 \\ j_2&#39; &amp; j_1
+&amp; k_2 \\ J&#39; &amp; J &amp; K \end{Bmatrix}
+  \langle j_1&#39; | \hat{T}_{k_1} | j_1\rangle \langle j_2&#39; |
+\hat{U}_{k_2} | j_2 \rangle.
+\]</span></p>
+<p>The array in curly brackets is a 9-j symbol.</p>
+<h2
+id="tensor-product-of-two-operators-with-identity-substructure">Tensor
+product of two operators with identity substructure</h2>
+<p>If either <span class="math inline">\(T_{k_1}\)</span> or <span
+class="math inline">\(U_{k_2}\)</span> is the identity operator, as is
+the case for the one-body density matrices, then this expression further
+simplifies to <span class="math display">\[
+\bra{j_1&#39;j_2&#39;;J&#39;}[\hat{T}_{k_1}]\ket{j_1j_2;J} \\
+= \delta_{j_2&#39;j_2}(-1)^{j_1&#39;+j_2+J+K}[J&#39;][J]
+\begin{Bmatrix}
+j_1&#39; &amp; J&#39; &amp; j_2 \\
+J &amp; j_1 &amp; k
+\end{Bmatrix}
+\bra{j_1&#39;}\hat{T}_k\ket{j_1}
+\]</span></p>
+</body>
+</html>

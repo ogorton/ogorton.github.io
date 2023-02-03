@@ -1,7 +1,20 @@
-<img src='images/oliver.jpg' width="150"/>
+# Oliver Gorton
+
+<img src='images/oliver.jpg' width="150" id="profile_pic"/>
 
 [Github profile](https://github.com/ogorton)\
-[Notes](blog.md)
+[Notes](blog.md.html)
+
+[Code](#code)\
+[Education](#education)\
+[Research positions](#research-positions)\
+[Experience](#experience-and-training)\
+[Awards](#awards)\
+[Journal Papers](#journal-papers)\
+[Conference Proceedings](#conference-proceedings)\
+[Thesis](#thesis)\
+[Presentations](#presentations)
+
 
 ## Summary
 
@@ -17,23 +30,12 @@ performance computing (HPC) to quantum many-body physics.
 My (ongoing) Ph.D. project is on the integrated shell model and Hauser-Feshbach
 description of beta-delayed neutron emission.
 
-### Contents
-
-[Code](#code)\
-[Education](#education)\
-[Research positions](#research-positions)\
-[Experience](#experience-and-training)\
-[Awards](#awards)\
-[Journal Papers](#journal-papers)\
-[Conference Proceedings](#conference-proceedings)\
-[Thesis](#thesis)\
-[Presentations](#presentations)
-
 Last updated February 2023.
 
 ## Code
 
 Languages
+
 * *Major projects*: Modern Fortran, Python, Bash
 * *Minor tasks*: C++, openMP, MPI, Mathematica, MATLAB, R
 

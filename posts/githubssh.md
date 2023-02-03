@@ -1,4 +1,4 @@
-[Posts](../blog.md)
+[Posts](../blog.md.html)
 
 # Quick guide to setup ssh keys for GitHub on a new machine
 

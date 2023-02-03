@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Oliver Gorton</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+  </style>
+  <link rel="stylesheet" href="style.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<p><a href="../blog.md.html">Posts</a></p>
+<h1 id="diffing-very-large-files">Diffing very large files</h1>
+<p>Sometimes I want to find the difference between two files,
+line-by-line, using a program. There are several ways to accomplish
+this, and I prefer <code>vim</code>, using the <code>-d</code>
+command:</p>
+<pre><code>vim -d file1.dat file1_mod.dat</code></pre>
+<p>The advantage of this method is that vim will show the files
+side-by-side, using color highlights to indicate the differences between
+the two files.</p>
+<p>A problem I have encountered is when the files are large. E.g. one of
+my files is 265MB in size, with 26 M lines. Runnnig the plain
+<code>diff</code> command on these files takes &lt;more than 20 mintes,
+after which I gave up&gt;. Running vimdiff would take even longer!</p>
+<p>Usually, I just want a quick check if there is a serious difference
+between two files. These files usually contain numerical data and will
+invariably contain small numerical differences, so I just want to glance
+over a broad enough spectrum of the files to get a feel for the
+differences.</p>
+<p>To accomplish this, I can run diff on a subset of all lines in the
+two files. I can do that by combining the <code>head</code> command with
+<code>vim -d</code>:</p>
+<pre><code>vim -d &lt;(head -n2000 file1.dat) &lt;(head -n2000 file1_mod.dat)</code></pre>
+<p>This will show me the differences between the two files on only the
+first 2000 lines of head file. If I wanted some subset in the middle of
+the file, I could further pipe the data through the <code>tail</code>
+command:</p>
+<pre><code>vim -d &lt;(head -n2000 file1.dat | tail -n1000) &lt;(head -n2000 file1_mod.dat | tail -n1000)</code></pre>
+<p>This would show the difference in lines 1000-2000.</p>
+</body>
+</html>
