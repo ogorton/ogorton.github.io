@@ -187,7 +187,7 @@ Computational Model Monte Carlo Sampler. Not yet released.
   Truncation** \
   O. Gorton, C. Johnson, J. Escher \
   Poster at Nuclear Structure Conference (June 2022)\
-  [PDF](./talks/gorton_ns22.pdf)
+  [PDF](./posters/gorton_ns22.pdf)
 
 **DMFortFactor: A Fast and Accessible for Computing WIMP-Nucleus-Scattering
   Event-Rates**\
