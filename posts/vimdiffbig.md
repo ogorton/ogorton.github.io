@@ -1,4 +1,5 @@
-[Posts](../blog.md.html)
+[Home](../index.html)\
+[Notes](../blog.html)
 
 # Diffing very large files
 

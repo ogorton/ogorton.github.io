@@ -1,4 +1,5 @@
-[Posts](../blog.md.html)
+[Home](../index.html)\
+[Notes](../blog.html)
 
 # Creating a high-quality pdf of a printed book 
 

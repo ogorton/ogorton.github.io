@@ -3,7 +3,7 @@
 <img src='images/oliver.jpg' width="150" id="profile_pic"/>
 
 [Github profile](https://github.com/ogorton)\
-[Notes](blog.md.html)
+[Notes](blog.html)
 
 [Code](#code)\
 [Education](#education)\

@@ -1,4 +1,5 @@
-[Posts](../blog.md.html)
+[Home](../index.html)\
+[Notes](../blog.html)
 
 # Basics of vector coupling
 
@@ -34,7 +35,8 @@ The vector coupling coefficients are computed as:
 $$
 \begin{align*}
     (j_1j_2 & m_1m_2 | j_1 j_2; J, M) = \delta(m_1+m_1,m) (2J+1)^{1/2}\Delta(j_1j_2J)\\
-    & \times[(j_1+m_1)(j_1-m_1)(j_2+m_2)(j_2-m_2)(J+M)(J-M)]^{1/2}\sum_z (-1)^z \frac{1}{f(z)},
+    & \times[(j_1+m_1)(j_1-m_1)(j_2+m_2)(j_2-m_2)(J+M)(J-M)]^{1/2}\\
+    & \times \sum_z (-1)^z \frac{1}{f(z)},
 \end{align*}
 $$
 where 
