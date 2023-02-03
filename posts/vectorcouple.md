@@ -20,7 +20,6 @@ Communications 120 (1999) 222-230](https://doi.org/10.1016/S0010-4655(99)00232-5
 
 For the 3-j symbol, we use the relation to the Clebsh-Gordon vector-coupling
 coefficients: 
-```math
 \begin{align*}
     \begin{pmatrix}
         j_1 & j_2 & J\\
@@ -29,7 +28,6 @@ coefficients:
     = (-1)^{j_1-j_2-M}(2J+1)^{-1/2}\\ 
     (j_1j_2m_1m_2 | j_1 j_2; J, -M).
 \end{align*}
-```
 The vector coupling coefficients are computed as:
 ```math
 \begin{align*}
