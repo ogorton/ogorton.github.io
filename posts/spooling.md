@@ -3,22 +3,22 @@
 
 # Spooling n-dimensional arrays
 
-To spool an n-dimensional array into a 1-d array, we need to map an arbitrary number of indices 
-into a single index $y$:
+To spool an n-dimensional array into a 1-d array, we need to map an arbitrary
+number of indices into a single index $y$:
 
 \begin{align}
     \mathrm{spool}(y) \leftarrow \mathrm{array}[i,j,k,l,m,n,o,p,...],
 \end{align}
 
-To create a one-to-one 
-correspondence, we have to assign an order to the $n$ indices:
+To create a one-to-one correspondence, we have to assign an order to the $n$
+indices:
 
 \begin{align}
     x_n > x_{n-1} > ... > x_1.
 \end{align}
 
-Let's further define that each index $x$ runs from $x^{min}$ to $x^{max}$.
-At which point we can use the following mapping:
+Let's further define that each index $x$ runs from $x^{min}$ to $x^{max}$.  At
+which point we can use the following mapping:
 
 \begin{align}
     y = x_n + \sum_{i<n} (x_i - x_i^{min})\prod_{j>i}(x_j^{max}-x_j^{min}+1).
@@ -28,7 +28,8 @@ This mapping is only unique up to a choice of ordering.
 
 ## 2-d example
 
-For example, in a two dimensional array $\mathrm{array}[x_2, x_1]$ where $x_1 = 1, ..., m$, and $x_2 = 0, ..., n-1$:
+For example, in a two dimensional array $\mathrm{array}[x_2, x_1]$ where $x_1 =
+1, ..., m$, and $x_2 = 0, ..., n-1$:
 
 $$
 \begin{align}
@@ -47,8 +48,9 @@ We could have also exchanged the ordering of the indices and used:
 
 ## 3-d example
 
-Suppose a three dimensional array $\mathrm{array}[x_1, x_2, x_3]$ where $x_1 = 1, ..., r$, $x_2 = 0, ..., s$, 
-and $x_3 = 1, ..., 2t$. We take the ordering $x_2 > x_3 > x_1$.
+Suppose a three dimensional array $\mathrm{array}[x_1, x_2, x_3]$ where $x_1 =
+1, ..., r$, $x_2 = 0, ..., s$, and $x_3 = 1, ..., 2t$. We take the ordering $x_2
+> x_3 > x_1$.
 
 $$
 \begin{align}
@@ -57,8 +59,8 @@ $$
 \end{align}
 $$
 
-Again, changing the ordering will change the expression. This ordering would be most efficient for 
-a nested loop such as:
+Again, changing the ordering will change the expression. This ordering would be
+most efficient for a nested loop such as:
 ```
 do x1 = 1, r:
   do x3 = 1, 2t:
@@ -101,11 +103,9 @@ with sectorsize$(1)$ = 1.
 Taking the same 3-d example as before, we can improve the performance by
 computing sectors in shallower loops and by pre-computing sector sizes.
 Recall that:
-
 \begin{align}
     y = x_2 + (x_3-1)(s+1) + (x_1-1)2t(s+1).
 \end{align}
-
 In this case:
 
 ```
@@ -125,3 +125,35 @@ do x1 = 1, r:
 This requires $(2t)(s+1)r + 3(2t)r + 2r + 3$ operations to compute. Assuming
 $2t$, $s$, and $r$ are all similarly large, this is a speedup of approximately
 $\frac{20str}{2str}=10$.
+
+
+# Un-spooling
+
+Suppose we can a single do-loop which addresses a two-dimensional array. How do
+we invert the map?
+
+It depends on the access pattern. We could have a row-major access pattern:
+```
+1 4 7 
+2 5 8
+3 6 9
+```
+In which case the mapping is
+\begin{align}
+x_1 = (y - 1)/s_{x_1} + 1 \\
+x_2 = \mod(y-1,s_{x_1}) +1
+\end{align}
+
+## Upper triangular
+
+Suppose the desired access pattern is 
+```
+1 2 4
+  3 5
+    6
+```
+Then the mapping is:
+\begin{align}
+x_1 = \text{ceiling}((\sqrt{8y+1}-1)/2)\\
+x_2 = y - x_1(x_1-1)/2
+\end{align}

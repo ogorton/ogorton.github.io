@@ -115,11 +115,9 @@ beforehand:</p>
 <h2 id="improved-3-d-example">Improved 3-d example</h2>
 <p>Taking the same 3-d example as before, we can improve the performance
 by computing sectors in shallower loops and by pre-computing sector
-sizes. Recall that:</p>
-<p><span class="math display">\[\begin{align}
+sizes. Recall that: <span class="math display">\[\begin{align}
     y = x_2 + (x_3-1)(s+1) + (x_1-1)2t(s+1).
-\end{align}\]</span></p>
-<p>In this case:</p>
+\end{align}\]</span> In this case:</p>
 <pre><code>secsize1 = 1
 secsize2 = (s+1) # * secsize1
 secsize3 = (2*t) * secsize2
@@ -138,5 +136,27 @@ class="math inline">\(s\)</span>, and <span
 class="math inline">\(r\)</span> are all similarly large, this is a
 speedup of approximately <span
 class="math inline">\(\frac{20str}{2str}=10\)</span>.</p>
+<h1 id="un-spooling">Un-spooling</h1>
+<p>Suppose we can a single do-loop which addresses a two-dimensional
+array. How do we invert the map?</p>
+<p>It depends on the access pattern. We could have a row-major access
+pattern:</p>
+<pre><code>1 4 7 
+2 5 8
+3 6 9</code></pre>
+<p>In which case the mapping is <span
+class="math display">\[\begin{align}
+x_1 = (y - 1)/s_{x_1} + 1 \\
+x_2 = \mod(y-1,s_{x_1}) +1
+\end{align}\]</span></p>
+<h2 id="upper-triangular">Upper triangular</h2>
+<p>Suppose the desired access pattern is</p>
+<pre><code>1 2 4
+  3 5
+    6</code></pre>
+<p>Then the mapping is: <span class="math display">\[\begin{align}
+x_1 = \text{ceiling}((\sqrt{8y+1}-1)/2)\\
+x_2 = y - x_1(x_1-1)/2
+\end{align}\]</span></p>
 </body>
 </html>
