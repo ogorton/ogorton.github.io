@@ -16,30 +16,32 @@ and
 
    - Start the agent
         
-        eval "$(ssh-agent -s)"
+        `eval "$(ssh-agent -s)"`
         
    - Edit the config
 
-       vim ~/.ssh/config
+       `vim ~/.ssh/config`
 
    - Add the following text
 
+        ```
         Host *.github.com
           AddKeysToAgent yes
           UseKeychain yes
           IdentityFile ~/.ssh/id_ed25519
+        ```
 
    - Add the key to your apple keychain
 
-        ssh-add --apple-use-keychain ~/.ssh/id_ed25519
+        `ssh-add --apple-use-keychain ~/.ssh/id_ed25519`
 
 3. Copy your *public* ssh key
 
-        pbcopy < ~/.ssh/id_ed25519.pub
+        `pbcopy < ~/.ssh/id_ed25519.pub`
 
    or, 
 
-        cat < ~/.ssh/id_ed25519.pub
+        `cat ~/.ssh/id_ed25519.pub`
 
    and copy in the usual way.
 
