@@ -3,7 +3,7 @@
 # Notes
 
 [Book scanning](posts/bookscanning.html)\
-[Array dimension-reduction (spooling)](posts/spooling.html)\
+[Array spooling](posts/spooling.html)\
 [Diffing large files](posts/vimdiffbig.html)\
 [Vector coupling coefficient basics](posts/vectorcouple.html)\
 [Useful (to me) vector coupling identities](posts/vectorident.html)\
