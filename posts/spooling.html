@@ -136,6 +136,30 @@ class="math inline">\(s\)</span>, and <span
 class="math inline">\(r\)</span> are all similarly large, this is a
 speedup of approximately <span
 class="math inline">\(\frac{20str}{2str}=10\)</span>.</p>
+<h2 id="upper-triangular">Upper-triangular</h2>
+<p>Suppose we have some symmetry which allows us to only store the upper
+triangular part of a two-dimensional array. I.e. <span
+class="math inline">\(i&lt;=j\)</span> for all rows <span
+class="math inline">\(i\)</span> and columns <span
+class="math inline">\(j\)</span>. Then the access pattern of the array
+might look like the following:</p>
+<pre><code>  column j
+r  1  2  4  7 11
+o     3  5  8 12
+w        6  9 13
+           10 14
+i             15</code></pre>
+<p>and so on. In this case, the spooling is different. Importantly, we
+no longer need to know the size of the array, because the number of
+labeled rows in each column is always equal to the column number.
+Further, we always know that the largest index in the previous column
+<span class="math inline">\(j&#39;=j-1\)</span> is the sum of all
+integers up to <span class="math inline">\(j&#39;\)</span>, which is
+<span class="math inline">\(j&#39;(j&#39;+1)/2\)</span>. Thus: <span
+class="math display">\[\begin{align}
+y = i + j(j-1)/2.
+\end{align}\]</span> This can be combined with higher dimensional square
+blocks.</p>
 <h1 id="un-spooling">Un-spooling</h1>
 <p>Suppose we can a single do-loop which addresses a two-dimensional
 array. How do we invert the map?</p>
@@ -149,7 +173,7 @@ class="math display">\[\begin{align}
 x_1 = (y - 1)/s_{x_1} + 1 \\
 x_2 = \mod(y-1,s_{x_1}) +1
 \end{align}\]</span></p>
-<h2 id="upper-triangular">Upper triangular</h2>
+<h2 id="upper-triangular-1">Upper triangular</h2>
 <p>Suppose the desired access pattern is upper triangular:</p>
 <pre><code>1 2 4 .
   3 5 .

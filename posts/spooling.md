@@ -126,6 +126,29 @@ This requires $(2t)(s+1)r + 3(2t)r + 2r + 3$ operations to compute. Assuming
 $2t$, $s$, and $r$ are all similarly large, this is a speedup of approximately
 $\frac{20str}{2str}=10$.
 
+## Upper-triangular
+
+Suppose we have some symmetry which allows us to only store the upper triangular
+part of a two-dimensional array. I.e. $i<=j$ for all rows $i$ and columns $j$.
+Then the access pattern of the array might look like the following:
+```
+  column j
+r  1  2  4  7 11
+o     3  5  8 12
+w        6  9 13
+           10 14
+i             15
+```
+and so on. In this case, the spooling is different. Importantly, we no longer
+need to know the size of the array, because the number of labeled rows in each
+column is always equal to the column number. Further, we always know that the
+largest index in the previous column $j'=j-1$ is the sum of all integers up to
+$j'$, which is $j'(j'+1)/2$. Thus:
+\begin{align}
+y = i + j(j-1)/2.
+\end{align}
+This can be combined with higher dimensional square blocks.
+
 
 # Un-spooling
 
