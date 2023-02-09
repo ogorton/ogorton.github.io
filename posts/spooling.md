@@ -155,12 +155,21 @@ Suppose the desired access pattern is upper triangular:
 ```
 Then the mapping is:
 \begin{align}
-j = \text{ceiling}((\sqrt{8y+1}-1)/2)\\
-i = y - i(i-1)/2
+j &= \text{ceiling}((\sqrt{8y+1}-1)/2)\\
+i &= y - i(i-1)/2
 \end{align}
 Here, $i$ is fast and $j$ is slow. A nice aspect of this layout is that the
 mapping does not depend on the size of the array. However, it does rely on
 real-type arithmetic (but there's a way around that).
+
+The compute cost of the $j$ index is at least 5 FLOPS plus the cost of the
+ceiling function. The cost of the $i$ index is 4 FLOPS. The former is reduced to
+4 FLOPS with:
+\begin{align}
+j &= \text{ceiling}(\sqrt{2y+0.25}-0.5)\\
+i &= y - i(i-1)/2
+\end{align}
+
 
 To see why this seemingly arbitrary map works, notice from the label pattern above
 that we are trying to map the first $N$ integers onto the first $n$ columns, where
