@@ -2,6 +2,7 @@
 
 # Notes
 
+[How I make this site](posts/website.html)\
 [Book scanning](posts/bookscanning.html)\
 [Array spooling](posts/spooling.html)\
 [Diffing large files](posts/vimdiffbig.html)\
