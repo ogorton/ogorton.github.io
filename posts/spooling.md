@@ -10,10 +10,11 @@ before the machine is operated.
 
 In computing, there are many cases where your data is multi-dimensional. But
 multi-dimensional arrays are unwieldy, and even usuable in certain applications,
-especially in distributed memory systems. One dimensional arrays are best. But
-if you _spool_ your data into a one-dimensional array, you ought to know where
-your data ends up, and ideally, be able to access it efficiently. These notes
-help me do that.
+especially in distributed memory systems. One dimensional arrays are best. 
+
+If you choose to _spool_ your data into a one-dimensional array, you ought to
+know where your data ends up, and ideally, be able to access it efficiently.
+These notes help me do that.
 
 To spool an n-dimensional array into a 1-d array, we need to map an arbitrary
 number of indices into a single index $y$:
