@@ -156,7 +156,7 @@ Suppose the desired access pattern is upper triangular:
 Then the mapping is:
 \begin{align}
 j &= \text{ceiling}((\sqrt{8y+1}-1)/2)\\
-i &= y - i(i-1)/2
+i &= y - j(j-1)/2
 \end{align}
 Here, $i$ is fast and $j$ is slow. A nice aspect of this layout is that the
 mapping does not depend on the size of the array. However, it does rely on
@@ -167,7 +167,7 @@ ceiling function. The cost of the $i$ index is 4 FLOPS. The former is reduced to
 4 FLOPS with:
 \begin{align}
 j &= \text{ceiling}(\sqrt{2y+0.25}-0.5)\\
-i &= y - i(i-1)/2
+i &= y - j(j-1)/2
 \end{align}
 
 
