@@ -1,17 +1,19 @@
 [Home](../index.html)\
 [Notes](../blog.html)
 
-<img src='spool.jpg' width="150" id="profile_pic"/>
-
 # Spooling n-dimensional arrays
 
+<img src='spool.jpg' width="150" id="profile_pic"    />
+
 A sewing machine bobbin is a cylindrical object onto which thread is _spooled_
-before the machine is operated. In computing, there are many cases where your
-data is multi-dimensional. But multi-dimensional arrays are unwieldy, and even
-usuable or certain applications, especially in distributed memory systems. One
-dimensional arrays are best. But if you're going to re-spool your data into a
-one-dimensional array, you're going to have to keep track of where your data is,
-and ideally, be able to access it efficiently. These notes help me do that.
+before the machine is operated. 
+
+In computing, there are many cases where your data is multi-dimensional. But
+multi-dimensional arrays are unwieldy, and even usuable in certain applications,
+especially in distributed memory systems. One dimensional arrays are best. But
+if you _spool_ your data into a one-dimensional array, you're ought to know
+where your data ends up, and ideally, be able to access it efficiently. These
+notes help me do that.
 
 To spool an n-dimensional array into a 1-d array, we need to map an arbitrary
 number of indices into a single index $y$:
