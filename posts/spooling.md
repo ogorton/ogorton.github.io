@@ -175,8 +175,8 @@ It depends on the access pattern. We could have a row-major access pattern:
 ```
 In which case the mapping is
 \begin{align}
-x_1 = (y - 1)/s_{x_1} + 1 \\
-x_2 = \mod(y-1,s_{x_1}) +1
+x_1 &= (y - 1)/s_{x_1} + 1 \\
+x_2 &= \mod(y-1,s_{x_1}) +1
 \end{align}
 
 ## Upper triangular
