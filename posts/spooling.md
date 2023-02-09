@@ -1,7 +1,7 @@
 [Home](../index.html)\
 [Notes](../blog.html)
 
-# Spooling n-dimensional arrays
+# Array Spooling
 
 <img src='spool.jpg' width="150" id="profile_pic"    />
 
