@@ -156,13 +156,20 @@ x_2 = \mod(y-1,s_{x_1}) +1
     6 .
       .</code></pre>
 <p>Then the mapping is: <span class="math display">\[\begin{align}
-j = \text{ceiling}((\sqrt{8y+1}-1)/2)\\
-i = y - i(i-1)/2
+j &amp;= \text{ceiling}((\sqrt{8y+1}-1)/2)\\
+i &amp;= y - i(i-1)/2
 \end{align}\]</span> Here, <span class="math inline">\(i\)</span> is
 fast and <span class="math inline">\(j\)</span> is slow. A nice aspect
 of this layout is that the mapping does not depend on the size of the
 array. However, it does rely on real-type arithmetic (but there’s a way
 around that).</p>
+<p>The compute cost of the <span class="math inline">\(j\)</span> index
+is at least 5 FLOPS plus the cost of the ceiling function. The cost of
+the <span class="math inline">\(i\)</span> index is 4 FLOPS. The former
+is reduced to 4 FLOPS with: <span class="math display">\[\begin{align}
+j &amp;= \text{ceiling}(\sqrt{2y+0.25}-0.5)\\
+i &amp;= y - i(i-1)/2
+\end{align}\]</span></p>
 <p>To see why this seemingly arbitrary map works, notice from the label
 pattern above that we are trying to map the first <span
 class="math inline">\(N\)</span> integers onto the first <span
