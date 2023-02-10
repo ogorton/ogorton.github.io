@@ -9,8 +9,8 @@ A sewing machine bobbin is a cylindrical object onto which thread is _spooled_
 before the machine is operated. 
 
 In computing, there are many cases where your data is multi-dimensional. But
-multi-dimensional arrays are unwieldy, and even usuable in certain applications,
-especially in distributed memory systems. One dimensional arrays are best. 
+multi-dimensional arrays are unwieldy, especially in distributed memory systems.
+One dimensional arrays are best. 
 
 If you choose to _spool_ your data into a one-dimensional array, you ought to
 know where your data ends up, and ideally, be able to access it efficiently.
@@ -18,59 +18,71 @@ These notes help me do that.
 
 To spool an n-dimensional array into a 1-d array, we need to map an arbitrary
 number of indices into a single index $y$:
-
 \begin{align}
     \mathrm{spool}(y) \leftarrow \mathrm{array}[i,j,k,l,m,n,o,p,...],
 \end{align}
-
 To create a one-to-one correspondence, we have to assign an order to the $n$
 indices:
-
 \begin{align}
     x_n > x_{n-1} > ... > x_1.
 \end{align}
+This ordering, or hierarchy, is arbitrary; it doesn't have anything to do with
+the meaning of the indices or their ranges, but it does have consequences,
+discussed later.
 
-Let's further define that each index $x$ runs from $x^{min}$ to $x^{max}$.  At
-which point we can use the following mapping:
-
+Let's further suppose that each index $x$ runs from $x^{min}$ to $x^{max}$.  
+With these constraints, we can use the following mapping:
 \begin{align}
     y = x_n + \sum_{i<n} (x_i - x_i^{min})\prod_{j>i}(x_j^{max}-x_j^{min}+1).
 \end{align}
+The inequalities under the sum and product symbols are with respect to the
+ordering. For example, $i < n$ means "those indices $x_i$ with lesser order
+than $x_n$".
 
-This mapping is only unique up to a choice of ordering.
+With this mapping, incrementing $x_n$ will change $y$ by the least amount. In
+fact, it will be incremented by one. Going up one index in the ordering we have
+defined will increase the amount $y$ is incremented. 
+
+Our choice of ordering
+should therefore be informed by the _access pattern_ we expect for this array. 
+Indices which will be incremented more frequently (e.g. deeper inside a
+nested-loop structure) should appear higher in the ordering.
 
 ## 2-d example
 
-For example, in a two dimensional array $\mathrm{array}[x_2, x_1]$ where $x_1 =
-1, ..., m$, and $x_2 = 0, ..., n-1$:
+Let's take a two dimensional array $\mathrm{array}[x_2, x_1]$ where $x_1 =
+1, ..., m$, and $x_2 = 0, ..., n-1$. We have to choose an ordering, so let's
+take $x_2 > x_1$.
 
-$$
+Applying the formula, we have
+\begin{align}
+    y = x_2 + (x_1-x_1^{min}) \times (x_2^{max}-x_2^{min}+1)
+\end{align}
+Substituting our particulars we have:
 \begin{align}
     y &= x_2 + (x_1 - 1)(n-1-0+1)\\
     &=x_2 + (x_1-1)n.
 \end{align}
-$$
 
-We could have also exchanged the ordering of the indices and used:
-
+If instead we take $x_1 > x_2$ then,
+\begin{align}
+    y = x_1 + (x_2 - x_2^{min})\times (x_1^{max}-x_1^{min}+1),
+\end{align}
+which is:
 \begin{align}
     y &= x_1 + (x_2-0)(m-1+1)\\
     &=x_1 + x_2m.
 \end{align}
-
 
 ## 3-d example
 
 Suppose a three dimensional array $\mathrm{array}[x_1, x_2, x_3]$ where $x_1 =
 1, ..., r$, $x_2 = 0, ..., s$, and $x_3 = 1, ..., 2t$. We take the ordering $x_2
 > x_3 > x_1$.
-
-$$
 \begin{align}
     y &= x_2 + (x_3-1)(s-0+1) + (x_1-1)(2t-1+1)(s-0+1)\\
     &= x_2 + (x_3-1)(s+1) + (x_1-1)2t(s+1).
 \end{align}
-$$
 
 Again, changing the ordering will change the expression. This ordering would be
 most efficient for a nested loop such as:
@@ -87,28 +99,25 @@ This requires $10(s+1)(2t)r$ integer operations to compute.
 
 The 3-d example in the previous section can be improved by pre-computing parts
 of the index further up in the loop hierarchy. 
-
 \begin{align}
     y = x_n + \mathrm{sector}(x_{n-1},...,x_1),
 \end{align}
 where 
 \begin{align}
-\text{sector}(x_{n-1},...,x_1) \equiv \sum_{ i < n } (x_i - x_i^{min})\mathrm{sectorsize}(i).
+  \text{sector}(x_{n-1},...,x_1) \equiv 
+  \sum_{ i < n } (x_i - x_i^{min})\mathrm{sectorsize}(i).
 \end{align}
+
 
 The sectorsize quantities do not depend on the loop variable $x_i$, and can
 therefore be pre-computed beforehand:
-
 \begin{align}
    \mathrm{sectorsize}(i) \equiv \prod_{j>i}(x_j^{max}-x_j^{min}+1).
 \end{align}
-
 Or, recursively:
-
 \begin{align}
     \mathrm{sectorsize}(i) = (x_i^{max}-x_i^{min}+1) \mathrm{sectorsize}(i-1),
 \end{align}
-
 with sectorsize$(1)$ = 1.
 
 ## Improved 3-d example
@@ -134,7 +143,6 @@ do x1 = 1, r:
       y = x2 + sector31
       access spool[y]
 ```
-
 This requires $(2t)(s+1)r + 3(2t)r + 2r + 3$ operations to compute. Assuming
 $2t$, $s$, and $r$ are all similarly large, this is a speedup of approximately
 $\frac{20str}{2str}=10$.
@@ -165,7 +173,7 @@ This can be combined with higher dimensional square blocks.
 
 # Un-spooling
 
-Suppose we can a single do-loop which addresses a two-dimensional array. How do
+Suppose we have a single do-loop which addresses a two-dimensional array. How do
 we invert the map?
 
 It depends on the access pattern. We could have a row-major access pattern:

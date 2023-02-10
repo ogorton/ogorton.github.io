@@ -34,47 +34,66 @@
 <p>A sewing machine bobbin is a cylindrical object onto which thread is
 <em>spooled</em> before the machine is operated.</p>
 <p>In computing, there are many cases where your data is
-multi-dimensional. But multi-dimensional arrays are unwieldy, and even
-usuable in certain applications, especially in distributed memory
-systems. One dimensional arrays are best.</p>
+multi-dimensional. But multi-dimensional arrays are unwieldy, especially
+in distributed memory systems. One dimensional arrays are best.</p>
 <p>If you choose to <em>spool</em> your data into a one-dimensional
 array, you ought to know where your data ends up, and ideally, be able
 to access it efficiently. These notes help me do that.</p>
 <p>To spool an n-dimensional array into a 1-d array, we need to map an
 arbitrary number of indices into a single index <span
-class="math inline">\(y\)</span>:</p>
-<p><span class="math display">\[\begin{align}
+class="math inline">\(y\)</span>: <span
+class="math display">\[\begin{align}
     \mathrm{spool}(y) \leftarrow \mathrm{array}[i,j,k,l,m,n,o,p,...],
-\end{align}\]</span></p>
-<p>To create a one-to-one correspondence, we have to assign an order to
-the <span class="math inline">\(n\)</span> indices:</p>
-<p><span class="math display">\[\begin{align}
+\end{align}\]</span> To create a one-to-one correspondence, we have to
+assign an order to the <span class="math inline">\(n\)</span> indices:
+<span class="math display">\[\begin{align}
     x_n &gt; x_{n-1} &gt; ... &gt; x_1.
-\end{align}\]</span></p>
-<p>Let’s further define that each index <span
+\end{align}\]</span> This ordering, or hierarchy, is arbitrary; it
+doesn’t have anything to do with the meaning of the indices or their
+ranges, but it does have consequences, discussed later.</p>
+<p>Let’s further suppose that each index <span
 class="math inline">\(x\)</span> runs from <span
 class="math inline">\(x^{min}\)</span> to <span
-class="math inline">\(x^{max}\)</span>. At which point we can use the
-following mapping:</p>
-<p><span class="math display">\[\begin{align}
+class="math inline">\(x^{max}\)</span>.<br />
+With these constraints, we can use the following mapping: <span
+class="math display">\[\begin{align}
     y = x_n + \sum_{i&lt;n} (x_i -
 x_i^{min})\prod_{j&gt;i}(x_j^{max}-x_j^{min}+1).
-\end{align}\]</span></p>
-<p>This mapping is only unique up to a choice of ordering.</p>
+\end{align}\]</span> The inequalities under the sum and product symbols
+are with respect to the ordering. For example, <span
+class="math inline">\(i &lt; n\)</span> means “those indices <span
+class="math inline">\(x_i\)</span> with lesser order than <span
+class="math inline">\(x_n\)</span>”.</p>
+<p>With this mapping, incrementing <span
+class="math inline">\(x_n\)</span> will change <span
+class="math inline">\(y\)</span> by the least amount. In fact, it will
+be incremented by one. Going up one index in the ordering we have
+defined will increase the amount <span class="math inline">\(y\)</span>
+is incremented.</p>
+<p>Our choice of ordering should therefore be informed by the <em>access
+pattern</em> we expect for this array. Indices which will be incremented
+more frequently (e.g. deeper inside a nested-loop structure) should
+appear higher in the ordering.</p>
 <h2 id="d-example">2-d example</h2>
-<p>For example, in a two dimensional array <span
+<p>Let’s take a two dimensional array <span
 class="math inline">\(\mathrm{array}[x_2, x_1]\)</span> where <span
 class="math inline">\(x_1 = 1, ..., m\)</span>, and <span
-class="math inline">\(x_2 = 0, ..., n-1\)</span>:</p>
-<p><span class="math display">\[
-\begin{align}
+class="math inline">\(x_2 = 0, ..., n-1\)</span>. We have to choose an
+ordering, so let’s take <span class="math inline">\(x_2 &gt;
+x_1\)</span>.</p>
+<p>Applying the formula, we have <span
+class="math display">\[\begin{align}
+    y = x_2 + (x_1-x_1^{min}) \times (x_2^{max}-x_2^{min}+1)
+\end{align}\]</span> Substituting our particulars we have: <span
+class="math display">\[\begin{align}
     y &amp;= x_2 + (x_1 - 1)(n-1-0+1)\\
     &amp;=x_2 + (x_1-1)n.
-\end{align}
-\]</span></p>
-<p>We could have also exchanged the ordering of the indices and
-used:</p>
-<p><span class="math display">\[\begin{align}
+\end{align}\]</span></p>
+<p>If instead we take <span class="math inline">\(x_1 &gt; x_2\)</span>
+then, <span class="math display">\[\begin{align}
+    y = x_1 + (x_2 - x_2^{min})\times (x_1^{max}-x_1^{min}+1),
+\end{align}\]</span> which is: <span
+class="math display">\[\begin{align}
     y &amp;= x_1 + (x_2-0)(m-1+1)\\
     &amp;=x_1 + x_2m.
 \end{align}\]</span></p>
@@ -84,13 +103,11 @@ class="math inline">\(\mathrm{array}[x_1, x_2, x_3]\)</span> where <span
 class="math inline">\(x_1 = 1, ..., r\)</span>, <span
 class="math inline">\(x_2 = 0, ..., s\)</span>, and <span
 class="math inline">\(x_3 = 1, ..., 2t\)</span>. We take the ordering
-<span class="math inline">\(x_2 &gt; x_3 &gt; x_1\)</span>.</p>
-<p><span class="math display">\[
-\begin{align}
+<span class="math inline">\(x_2 &gt; x_3 &gt; x_1\)</span>. <span
+class="math display">\[\begin{align}
     y &amp;= x_2 + (x_3-1)(s-0+1) + (x_1-1)(2t-1+1)(s-0+1)\\
     &amp;= x_2 + (x_3-1)(s+1) + (x_1-1)2t(s+1).
-\end{align}
-\]</span></p>
+\end{align}\]</span></p>
 <p>Again, changing the ordering will change the expression. This
 ordering would be most efficient for a nested loop such as:</p>
 <pre><code>do x1 = 1, r:
@@ -102,25 +119,23 @@ ordering would be most efficient for a nested loop such as:</p>
 integer operations to compute.</p>
 <h2 id="sectors">Sectors</h2>
 <p>The 3-d example in the previous section can be improved by
-pre-computing parts of the index further up in the loop hierarchy.</p>
-<p><span class="math display">\[\begin{align}
+pre-computing parts of the index further up in the loop hierarchy. <span
+class="math display">\[\begin{align}
     y = x_n + \mathrm{sector}(x_{n-1},...,x_1),
 \end{align}\]</span> where <span class="math display">\[\begin{align}
-\text{sector}(x_{n-1},...,x_1) \equiv \sum_{ i &lt; n } (x_i -
-x_i^{min})\mathrm{sectorsize}(i).
+  \text{sector}(x_{n-1},...,x_1) \equiv
+  \sum_{ i &lt; n } (x_i - x_i^{min})\mathrm{sectorsize}(i).
 \end{align}\]</span></p>
 <p>The sectorsize quantities do not depend on the loop variable <span
 class="math inline">\(x_i\)</span>, and can therefore be pre-computed
-beforehand:</p>
-<p><span class="math display">\[\begin{align}
+beforehand: <span class="math display">\[\begin{align}
    \mathrm{sectorsize}(i) \equiv \prod_{j&gt;i}(x_j^{max}-x_j^{min}+1).
-\end{align}\]</span></p>
-<p>Or, recursively:</p>
-<p><span class="math display">\[\begin{align}
+\end{align}\]</span> Or, recursively: <span
+class="math display">\[\begin{align}
     \mathrm{sectorsize}(i) = (x_i^{max}-x_i^{min}+1)
 \mathrm{sectorsize}(i-1),
-\end{align}\]</span></p>
-<p>with sectorsize<span class="math inline">\((1)\)</span> = 1.</p>
+\end{align}\]</span> with sectorsize<span
+class="math inline">\((1)\)</span> = 1.</p>
 <h2 id="improved-3-d-example">Improved 3-d example</h2>
 <p>Taking the same 3-d example as before, we can improve the performance
 by computing sectors in shallower loops and by pre-computing sector
@@ -170,7 +185,7 @@ y = i + j(j-1)/2.
 \end{align}\]</span> This can be combined with higher dimensional square
 blocks.</p>
 <h1 id="un-spooling">Un-spooling</h1>
-<p>Suppose we can a single do-loop which addresses a two-dimensional
+<p>Suppose we have a single do-loop which addresses a two-dimensional
 array. How do we invert the map?</p>
 <p>It depends on the access pattern. We could have a row-major access
 pattern:</p>
