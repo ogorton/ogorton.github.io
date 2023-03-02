@@ -1,48 +1,27 @@
 body {
-  margin: 0 auto;
+  margin: 40px auto;
   max-width: 36em;
-  padding-left: 50px;
-  padding-right: 50px;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  hyphens: auto;
-  background-color: white;
-  word-wrap: break-word;
+  font-size: large;
+  line-height: 1.2;
+  color: #121212;
+  background-color: #FFFFFF;
+  padding: 0 10px;
   text-rendering: optimizeLegibility;
   font-kerning: normal;
 }
 h1 {
     border-bottom: 2px solid black;
-    line-height: 1em;
-    font-size:x-large;
+    line-height: 1.1em;
+    font-size:xx-large;
     margin-bottom: .31em;
 }
 h2 {
     border-bottom: 1px solid black;
-    line-height : 1em;
-    font-size:large;
+    line-height : 1.1em;
+    font-size:x-large;
     margin-bottom: .31px;
 }
-p {
-  margin-top: 1em;
-  margin-bottom: 2em;
-}  
-a {
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-a:visited{
-    color: #0000ff;
-}
-
 #profile_pic {
  float:right;
  margin:0em 0em 1em 1em;
- }
-
-.footer {
-    font-size: 1em;
 }
