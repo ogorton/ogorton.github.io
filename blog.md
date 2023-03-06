@@ -2,6 +2,7 @@
 
 # Notes
 
+[Organizing my papers](posts/literaturelibrary.html)\
 [How I make this site](posts/website.html)\
 [Book scanning](posts/bookscanning.html)\
 [Array spooling](posts/spooling.html)\
