@@ -118,26 +118,24 @@ Computational Model Monte Carlo Sampler. Not yet released.
 
 **Proton-neutron entanglement in the nuclear shell model** \
   C. Johnson and O. Gorton \
-  Submitted to Journal of Physics G. Pre-print:
-  [[arXiv:2210.14338]](http://arxiv.org/abs/2210.14338)
+  Published in [J. Phys. G.: Nucl. Part. Phys. 50 045110](https://doi.org/10.1088/1361-6471/acbece)\
+  Pre-print: [arXiv:2210.14338](http://arxiv.org/abs/2210.14338)
 
 **dmscatter: A Fast Program for WIMP-Nucleus Scattering** \
   O. Gorton, C. Johnson, C. Jiao, J. Nikoleyczik \
-  Published in [J. of Comp. Phys. Comm. 
-  Vol. 284, 108597, March 2023](https://doi.org/10.1016/j.cpc.2022.108597).
+  Published in [J. of Comp. Phys. Comm. Vol. 284, 108597, March 2023](https://doi.org/10.1016/j.cpc.2022.108597)\
   Pre-print: [arXiv:2209.09187](https://arxiv.org/abs/2209.09187)
 
 **Cross sections for neutron-induced reactions from surrogate data: revisiting
   the Weisskopf-Ewing approximation for (n,n') and (n,2n) reactions**\
   O. Gorton and J. E. Escher \
-  Submitted to [Physical Review C]. Pre-print:
-  [arXiv:2102.03452](https://arxiv.org/abs/2102.03452)
+  Submitted to [Physical Review C]\
+  Pre-print: [arXiv:2102.03452](https://arxiv.org/abs/2102.03452)
 
 **Measurements of proton capture in the A=100-110 mass region: Constraints of the
   111In(gamma,p)/(gamma,n) branching point relevant to the gamma-process** \
   O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al. \
-  Published in [Phys. Rev. C, Vol. 102,
-  055806, Nov. 2020](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806)
+  Published in [Phys. Rev. C, Vol. 102, 055806, Nov. 2020](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806)
 
 ## Conference Proceedings
 
