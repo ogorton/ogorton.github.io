@@ -142,7 +142,7 @@ Computational Model Monte Carlo Sampler. Not yet released.
 **A Problem in the Statistical Description of Beta-Delayed Neutron Emission** \
   O. Gorton, C. Johnson, and J. Escher \
   Submitted to proceedings of 
-  15th International Conference on Nuclear Data for Science and Technology (ND2022). 
+  15th International Conference on Nuclear Data for Science and Technology (ND2022). \
   Preprint: [arXiv:2210.05904](https://arxiv.org/abs/2210.05904)
   
  **Improving nuclear data evaluations with predictive reaction theory and indirect
@@ -156,7 +156,7 @@ Computational Model Monte Carlo Sampler. Not yet released.
   connecting the pieces with a Markov-Chain Monte Carlo approach** \
   O. Gorton and J. E. Escher \
   Published in
-  [Spring Proceedings in Physics, Vol. 254, 229-231, Sep. 2020](https://doi.org/10.1007/978-3-030-58082-7_28). 
+  [Spring Proceedings in Physics, Vol. 254, 229-231, Sep. 2020](https://doi.org/10.1007/978-3-030-58082-7_28). \
   Preprint: [arXiv:1905:03055](https://arxiv.org/abs/1905.03055)
 
 ## Thesis
