@@ -128,8 +128,9 @@ Computational Model Monte Carlo Sampler. Not yet released.
 
 **Cross sections for neutron-induced reactions from surrogate data: revisiting
   the Weisskopf-Ewing approximation for (n,n') and (n,2n) reactions**\
-  O. Gorton and J. E. Escher \
-  Submitted to [Physical Review C]\
+  O. Gorton and J. E. Escher\
+  Accepted to [Physical Review
+C](https://journals.aps.org/prc/accepted/14076Pa6Oc91eb08462e91d4c0f9273fadccd73a2), reference pending\
   Pre-print: [arXiv:2102.03452](https://arxiv.org/abs/2102.03452)
 
 **Measurements of proton capture in the A=100-110 mass region: Constraints of the
