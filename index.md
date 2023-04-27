@@ -118,25 +118,25 @@ Computational Model Monte Carlo Sampler. Not yet released.
 
 **Proton-neutron entanglement in the nuclear shell model** \
   C. Johnson and O. Gorton \
-  Published in [J. Phys. G.: Nucl. Part. Phys. 50 045110](https://doi.org/10.1088/1361-6471/acbece)\
-  Pre-print: [arXiv:2210.14338](http://arxiv.org/abs/2210.14338)
+  Publication [J. Phys. G.: Nucl. Part. Phys. 50 045110](https://doi.org/10.1088/1361-6471/acbece)\
+  Pre-print [arXiv:2210.14338](http://arxiv.org/abs/2210.14338)
 
 **dmscatter: A Fast Program for WIMP-Nucleus Scattering** \
   O. Gorton, C. Johnson, C. Jiao, J. Nikoleyczik \
-  Published in [J. of Comp. Phys. Comm. Vol. 284, 108597, March 2023](https://doi.org/10.1016/j.cpc.2022.108597)\
-  Pre-print: [arXiv:2209.09187](https://arxiv.org/abs/2209.09187)
+  Publication [J. of Comp. Phys. Comm. Vol. 284, 108597, March 2023](https://doi.org/10.1016/j.cpc.2022.108597)\
+  Pre-print [arXiv:2209.09187](https://arxiv.org/abs/2209.09187)
 
 **Cross sections for neutron-induced reactions from surrogate data: revisiting
   the Weisskopf-Ewing approximation for (n,n') and (n,2n) reactions**\
   O. Gorton and J. E. Escher\
-  Accepted to [Physical Review
-C](https://journals.aps.org/prc/accepted/14076Pa6Oc91eb08462e91d4c0f9273fadccd73a2), reference pending\
-  Pre-print: [arXiv:2102.03452](https://arxiv.org/abs/2102.03452)
+  Publication [Phys. Rev. C 107, 044612, April
+2023](https://doi.org/10.1103/PhysRevC.107.044612)\
+  Pre-print [arXiv:2102.03452](https://arxiv.org/abs/2102.03452)
 
 **Measurements of proton capture in the A=100-110 mass region: Constraints of the
   111In(gamma,p)/(gamma,n) branching point relevant to the gamma-process** \
   O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al. \
-  Published in [Phys. Rev. C, Vol. 102, 055806, Nov. 2020](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806)
+  Publication [Phys. Rev. C, Vol. 102, 055806, Nov. 2020](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806)
 
 ## Conference Proceedings
 
@@ -144,21 +144,22 @@ C](https://journals.aps.org/prc/accepted/14076Pa6Oc91eb08462e91d4c0f9273fadccd73
   O. Gorton, C. Johnson, and J. Escher \
   Submitted to proceedings of 
   15th International Conference on Nuclear Data for Science and Technology (ND2022). \
-  Preprint: [arXiv:2210.05904](https://arxiv.org/abs/2210.05904)
+  Preprint [arXiv:2210.05904](https://arxiv.org/abs/2210.05904)
   
  **Improving nuclear data evaluations with predictive reaction theory and indirect
    measurements** \
    J. Escher, K. Bergstrom, E. Chimanski, O. Gorton, E. J. In, 
    M. Kruse, S. Peru, C. Pruitt, R. Rahman, E. Shinkle, A. Thapa, W. Younes \
    Submitted to proceedings of 15th International Conference on Nuclear Data for 
-   Science and Technology (ND2022).
+   Science and Technology (ND2022)\
+   Preprint [arXiv:2304:10034](https://doi.org/10.48550/arXiv.2304.10034)
   
 **Neutron capture cross sections from surrogate reaction data and theory:
   connecting the pieces with a Markov-Chain Monte Carlo approach** \
   O. Gorton and J. E. Escher \
-  Published in
+  Publication
   [Spring Proceedings in Physics, Vol. 254, 229-231, Sep. 2020](https://doi.org/10.1007/978-3-030-58082-7_28). \
-  Preprint: [arXiv:1905:03055](https://arxiv.org/abs/1905.03055)
+  Preprint [arXiv:1905:03055](https://arxiv.org/abs/1905.03055)
 
 ## Thesis
 
