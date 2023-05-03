@@ -117,7 +117,7 @@ Computational Model Monte Carlo Sampler. Not yet released.
 ## Journal Papers
 
 **Proton-neutron entanglement in the nuclear shell model** \
-  C. Johnson and O. Gorton \
+  C. W. Johnson and O. C. Gorton \
   Published in [J. Phys. G.: Nucl. Part. Phys. 50 045110](https://doi.org/10.1088/1361-6471/acbece)\
   Pre-print: [arXiv:2210.14338](http://arxiv.org/abs/2210.14338)
 
@@ -126,9 +126,9 @@ Computational Model Monte Carlo Sampler. Not yet released.
   Published in [J. of Comp. Phys. Comm. Vol. 284, 108597, March 2023](https://doi.org/10.1016/j.cpc.2022.108597)\
   Pre-print: [arXiv:2209.09187](https://arxiv.org/abs/2209.09187)
 
-**Cross sections for neutron-induced reactions from surrogate data: revisiting
+**Cross sections for neutron-induced reactions from surrogate data: Reexamining 
   the Weisskopf-Ewing approximation for (n,n') and (n,2n) reactions**\
-  O. Gorton and J. E. Escher\
+  O. C. Gorton and J. E. Escher\
   Accepted to [Physical Review
 C](https://journals.aps.org/prc/accepted/14076Pa6Oc91eb08462e91d4c0f9273fadccd73a2), reference pending\
   Pre-print: [arXiv:2102.03452](https://arxiv.org/abs/2102.03452)
