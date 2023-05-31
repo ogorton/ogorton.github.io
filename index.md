@@ -1,5 +1,8 @@
 # Oliver Gorton
 
+Ph.D. Candidate from San Diego State University and University of California,
+Irvine, currently at Lawrence Livermore National Laboratory
+
 <img src='images/oliver.jpg' width="150" id="profile_pic"/>
 
 [Github profile](https://github.com/ogorton)\
@@ -15,22 +18,16 @@
 [Thesis](#thesis)\
 [Presentations](#presentations)
 
-
 ## Summary
 
-Ph.D. Candidate from San Diego State University and University of California, 
-Irvine, currently at Lawrence Livermore National Laboratory
-
-I use scientific computing to study the structure and properties of atomic
-nuclei. I have worked on a number of different topics in nuclear
-structure and reaction theory, quantum chemistry, quantum information theory,
-and machine learning. All of my work involves the application of high
-performance computing (HPC) to quantum many-body physics.
-
-My (ongoing) Ph.D. project is on the integrated shell model and Hauser-Feshbach
+My dissertation project is on the integrated shell-model and Hauser-Feshbach
 description of beta-delayed neutron emission.
 
-Last updated February 2023.
+In my research, I use computational science to study nuclear structure and
+reactions. My work has touched on a number of topics in related fields such as
+the search for dark matter, nuclear data and evaluations, uncertainty
+quantification, and machine learning. All of my work involves scientific and
+high performance computing.
 
 ## Code
 
@@ -40,11 +37,13 @@ Languages
 * *Minor tasks*: C++, openMP, MPI, Mathematica, MATLAB, R
 
 **Wigner** [[Code]](https://github.com/ogorton/wigner) \
-A library of functions for computation of Wigner 3-j, 6-j and 9-j symbols, written in modern Fortran.
+A library of functions for computation of Wigner 3-j, 6-j and 9-j symbols,
+written in modern Fortran.
 
 **dmscatter** [[Code]](https://github.com/ogorton/dmfortfactor)\
-A fast Fortran code for WIMP-nucleus form factors and differential event rate spectra. Written in
-  modern Fortran with an optional Python interface. Parallel execution with OpenMP.
+A fast Fortran code for WIMP-nucleus form factors and differential event rate
+spectra. Written in modern Fortran with an optional Python interface. Parallel
+execution with OpenMP.
   
 **PANASH** [Not released]\
 Proton and neutron approximate shell model code. Not yet released.
@@ -141,16 +140,14 @@ Computational Model Monte Carlo Sampler. Not yet released.
 
 **A Problem in the Statistical Description of Beta-Delayed Neutron Emission** \
   O. Gorton, C. Johnson, and J. Escher \
-  Submitted to proceedings of 
-  15th International Conference on Nuclear Data for Science and Technology (ND2022). \
+  Publication [EPJ Web of Conf. 284, 03013 (2023)](https://doi.org/10.1051/epjconf/202328403013)\
   Preprint [arXiv:2210.05904](https://arxiv.org/abs/2210.05904)
   
  **Improving nuclear data evaluations with predictive reaction theory and indirect
    measurements** \
    J. Escher, K. Bergstrom, E. Chimanski, O. Gorton, E. J. In, 
-   M. Kruse, S. Peru, C. Pruitt, R. Rahman, E. Shinkle, A. Thapa, W. Younes \
-   Submitted to proceedings of 15th International Conference on Nuclear Data for 
-   Science and Technology (ND2022)\
+   M. Kruse, S. Peru, C. Pruitt, R. Rahman, E. Shinkle, A. Thapa, W. Younes\
+   Publication [EPJ Web of Conf. 284, 03012 (2023)](https://doi.org/10.1051/epjconf/202328403012)\
    Preprint [arXiv:2304:10034](https://doi.org/10.48550/arXiv.2304.10034)
   
 **Neutron capture cross sections from surrogate reaction data and theory:
@@ -259,3 +256,5 @@ Computational Model Monte Carlo Sampler. Not yet released.
 In my free time I enjoy rock climbing.
 
 <img src='images/climbing.jpeg' width="300"/>
+
+Page last updated May 2023
