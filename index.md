@@ -31,14 +31,8 @@ high performance computing.
 
 ## Code
 
-Languages
-
-* *Major projects*: Modern Fortran, Python, Bash
-* *Minor tasks*: C++, openMP, MPI, Mathematica, MATLAB, R
-
-**Wigner** [[Code]](https://github.com/ogorton/wigner) \
-A library of functions for computation of Wigner 3-j, 6-j and 9-j symbols,
-written in modern Fortran.
+Languages: Modern Fortran, Python, Bash
+Technologies: MPI, openMP
 
 **dmscatter** [[Code]](https://github.com/ogorton/dmfortfactor)\
 A fast Fortran code for WIMP-nucleus form factors and differential event rate
@@ -51,7 +45,12 @@ Proton and neutron approximate shell model code. Not yet released.
 **COMMCAS** [Not released]\
 Computational Model Monte Carlo Sampler. Not yet released.
 
+**Wigner** [[Code]](https://github.com/ogorton/wigner) \
+A library of functions for computation of Wigner 3-j, 6-j and 9-j symbols,
+written in modern Fortran.
+
 ## Education
+
 **PhD Computational Science**, expected 2023 - [Joint Doctoral Program with UC
   Irvine and San Diego State University](https://computationalscience.uci.edu)
 
@@ -61,35 +60,46 @@ Computational Model Monte Carlo Sampler. Not yet released.
 
 ## Research Positions
 
-* PhD Candidate -- LLNL, 2022 to present
+**PhD Candidate and [ACT-UP Scholar](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research)** (2022 - present)\
+  SDSU, UCI, LLNL
+
   * New predictive capability for reaction and decay properties of fission
     fragments
-* Graduate Research Assistant -- SDSU Research Foundation with [Calvin
-  Johnson](http://sci.sdsu.edu/johnson/), 2019 to 2021
-  * Developed software and theory to describe atomic nuclei using the nuclear
-    shell model and computaional science
-* Glenn T. Seaborg Institute (GTSI) Summer Intern (Virtual) -- [Seaborg Institute,
-  LLNL](https://seaborg.llnl.gov), Summer 2021
-* High Energy Density Physics Intern (Virtual) -- [Lawrence Livermore National
-  Laboratory](https://www.llnl.gov), Summer 2020
-  * Developed Python code to do MCMC parameter estimation for statistical
-    nuclear reaction codes in order to combine surrogate data and theory
-  * Employed code for sensitivity studies assessing approximations in the
-    surrogate reactions method
-  * Modified and ran four Hauser-Feshbach model codes
- * High Energy Density Physics Intern -- [Lawrence Livermore National
-  Laboratory](https://www.llnl.gov), Summer 2019
- * High Energy Density Physics Intern -- [Lawrence Livermore National
-  Laboratory](https://www.llnl.gov), Summer 2018
-* Graduate Student -- UC Irvine, Department of Chemistry with [Filipp
-  Furche](https://ffgroup.chem.uci.edu/members/filipp/), Fall 2019 and Spring 2020.
-  * Collaborated to develop formalism for Nuclear-Electronic Orbital method
+
+**Graduate Research Assistant** (2019 - 2021)\
+  SDSU Research Foundation with [Calvin Johnson](http://sci.sdsu.edu/johnson/)
+
+* Developed software and theory to describe atomic nuclei using the nuclear
+  shell model and computaional science
+
+**Glenn T. Seaborg Institute (GTSI) Summer Intern** (Summer 2021)\
+  [Seaborg Institute, LLNL](https://seaborg.llnl.gov)
+
+* Investigated the validity of an approximation in indirect nuclear reaction
+  measurements
+
+**High Energy Density Physics Intern** (Summers 2018, 2019, 2020)\
+  [Lawrence Livermore National Laboratory](https://www.llnl.gov)
+
+* Developed Python code for MCMC parameter estimation and applied to statistical
+  nuclear reaction models in order to combine surrogate data and theory
+* Modified and ran four Hauser-Feshbach model codes
+ 
+**Graduate Student Visitor** (2019 - 2020) \
+  UC Irvine, Department of Chemistry with [Filipp Furche](https://ffgroup.chem.uci.edu/members/filipp/)
+
+* Collaborated to develop formalism for Nuclear-Electronic Orbital method
     using time-dependent density functional theory
 
 ## Experience and Training
 
+Professional
+
 * Served as a referee for Physical Review C
 * Experienced writing proposals for DOE, NNSA, and other funding sources
+
+Training
+
 * Attended "FRIB-TA Summer School: A practical walk through formal scattering theory", 2021
   * [Course resources](https://fribtascattering.github.io)
   * Connecting bound states, resonances, and scattering states in exotic nuclei
@@ -101,8 +111,11 @@ Computational Model Monte Carlo Sampler. Not yet released.
   * LLNL PLS Directorate sponsored two-part writing class
   * Session 1: Structuring your research paper
   * Session 2: Clear, accurate, concise writing    
-* Graduate Teaching Associate -- San Diego State Univeristy, Department of
-  Physics, during 2016 - 2020.
+
+Teaching 
+
+* Graduate Teaching Associate (2016 - 2020)\
+  San Diego State Univeristy, Department of Physics
   * Independently lead lectures and exams for introductory-level physics lab courses
   * Modernized [the manual](https://docs.google.com/document/d/1pejqikoYhlaIMhSzBzUzrnh2hDrC_q-bEcJCeflpX7w/edit?usp=sharing)
     for Physics 182A/195L Laboratory for online deployment in Spring 2020
