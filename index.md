@@ -1,13 +1,20 @@
 # Oliver Gorton
 
+<img src='images/oliver.jpg' width="150" id="profile_pic"/>
+
 Ph.D. Candidate from San Diego State University and University of California,
 Irvine, currently at Lawrence Livermore National Laboratory
 
-<img src='images/oliver.jpg' width="150" id="profile_pic"/>
 
-[Github profile](https://github.com/ogorton)\
+[Github Profile](https://github.com/ogorton)\
+[Google Scholar
+Profile](https://scholar.google.com/citations?hl=en&user=hSQUrwwAAAAJ)\
+ORC ID: [0000-0003-3643-9640](https://orcid.org/0000-0003-3643-9640)\
+email: [ogorton@sdsu.edu](mailto:ogorton@sdsu.edu)
+
 [Notes](blog.html)
 
+*On this page*:\
 [Code](#code)\
 [Education](#education)\
 [Research positions](#research-positions)\

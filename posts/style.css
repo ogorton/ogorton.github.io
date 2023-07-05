@@ -1,6 +1,6 @@
 body {
   margin: 40px auto;
-  max-width: 36em;
+  max-width: 40em;
   font-size: large;
   line-height: 1.2;
   color: #121212;
@@ -23,5 +23,21 @@ h2 {
 }
 #profile_pic {
  float:right;
- margin:0em 0em 1em 1em;
+ margin:0em 0em 0em 0em;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
 }
