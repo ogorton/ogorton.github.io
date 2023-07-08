@@ -175,7 +175,7 @@ reactions](https://doi.org/10.1103/PhysRevC.107.044612) \
 ## Thesis
 
 [Efficient Modeling of Nuclei Through Coupling of Proton and Neutron
-  Wavefunctions](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917)(Masters) \
+  Wavefunctions](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917) (Masters) \
   O. Gorton, Advisor: C. Johnson
 
 ## Presentations
