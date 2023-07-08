@@ -27,14 +27,13 @@ email: [ogorton@sdsu.edu](mailto:ogorton@sdsu.edu)
 
 ## Summary
 
-My dissertation project is on the integrated shell-model and Hauser-Feshbach
-description of beta-delayed neutron emission.
+My dissertation is on the integrated shell-model and Hauser-Feshbach description of beta-delayed
+neutron emission.
 
-In my research, I use computational science to study nuclear structure and
-reactions. My work has touched on a number of topics in related fields such as
-the search for dark matter, nuclear data and evaluations, uncertainty
-quantification, and machine learning. All of my work involves scientific and
-high performance computing.
+I use computational science to study nuclear structure and reactions. My work has touched on a
+number of topics in related fields such as the search for dark matter, nuclear data and evaluations,
+uncertainty quantification, and machine learning. All of my work involves scientific and high
+performance computing.
 
 ## Code
 
