@@ -26,18 +26,7 @@ h2 {
  margin:0em 0em 0em 0em;
 }
 
-a:link {
+a {
   text-decoration: none;
-}
-
-a:visited {
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-}
-
-a:active {
-  text-decoration: underline;
+  color: blue;
 }
