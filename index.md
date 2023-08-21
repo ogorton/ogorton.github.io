@@ -180,10 +180,16 @@ reactions](https://doi.org/10.1103/PhysRevC.107.044612) \
 
 ## Presentations
 
+Gamma-ray strength functions using approximate shell model calculations\
+  O. Gorton, C. Johnson, J. Escher\
+  Talk at T3 "Taking the Temperature" Workshop on Statistical Nuclear Physics for Astrophysics and
+Applications (Ohio University, August 2023)\
+  [PDF](./talks/gorton_t3_2023_LLNL-PRES-853425.pdf)
+
 Nuclear Shell Model to the Rescue: Efforts to Resolve a Mystery in Beta 
   Delayed Neutron Emission\
   O. Gorton, C. Johnson, J. Escher \
-  Talk at APS Division of Nuclear Physics Fall 2022 Meeting ( New Orleans, October 
+  Talk at APS Division of Nuclear Physics Fall 2022 Meeting (New Orleans, October 
   2022)\
   [PDF](./talks/gorton_dnp22.pdf)
 
