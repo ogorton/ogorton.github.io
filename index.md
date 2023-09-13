@@ -12,10 +12,8 @@ Profile](https://scholar.google.com/citations?hl=en&user=hSQUrwwAAAAJ)\
 ORC ID: [0000-0003-3643-9640](https://orcid.org/0000-0003-3643-9640)\
 email: [ogorton@sdsu.edu](mailto:ogorton@sdsu.edu)
 
-[Notes](blog.html)
-
 *On this page*:\
-[Code](#code)\
+[Codes](#codes)\
 [Education](#education)\
 [Research positions](#research-positions)\
 [Experience](#experience-and-training)\
@@ -27,15 +25,17 @@ email: [ogorton@sdsu.edu](mailto:ogorton@sdsu.edu)
 
 ## Summary
 
-My dissertation is on the integrated shell-model and Hauser-Feshbach description of beta-delayed
-neutron emission.
+My dissertation work tackles an open question in the theoretical description of
+beta-delayed neutron emission by integrating nuclear structure and reactions, by
+connecting the nuclear shell-model with the Hauser-Feshbach description of
+nuclear reactions.
 
-I use computational science to study nuclear structure and reactions. My work has touched on a
-number of topics in related fields such as the search for dark matter, nuclear data and evaluations,
-uncertainty quantification, and machine learning. All of my work involves scientific and high
-performance computing.
+My research career has developed on a number of topics in related fields such as
+the search for dark matter, nuclear data and evaluations, uncertainty
+quantification, and machine learning. All of my work involves scientific and
+high performance computing.
 
-## Code
+## Codes
 
 Languages: Modern Fortran, Python, Bash
 Technologies: MPI, openMP
@@ -90,9 +90,11 @@ Glenn T. Seaborg Institute (GTSI) Summer Intern (Summer 2021)\
 High Energy Density Physics Intern (Summers 2018, 2019, 2020)\
   [Lawrence Livermore National Laboratory](https://www.llnl.gov)
 
-* Developed Python code for MCMC parameter estimation and applied to statistical
+* Developed Python code for MCMC parameter inference 
+* Applied developed tool to statistical
   nuclear reaction models in order to combine surrogate data and theory
 * Modified and ran four Hauser-Feshbach model codes
+* Gave multiple presentations to a broad audience
  
 Graduate Student Visitor (2019 - 2020) \
   UC Irvine, Department of Chemistry with [Filipp Furche](https://ffgroup.chem.uci.edu/members/filipp/)
@@ -131,51 +133,58 @@ Teaching
 
 ## Awards
 
-* [LLNL WCI Academic Collaboration Team
-  University Program](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research) (ACT-UP) Award
+* [LLNL SD Academic Collaboration Team
+  University Program](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research) (ACT-UP) Award (2022, 2023)
 * Graduate S-STEM Scholarship, 2018-2020
 
 ## Journal Papers
 
 [Proton-neutron entanglement in the nuclear shell model](https://doi.org/10.1088/1361-6471/acbece) \
   C. W. Johnson and O. C. Gorton \
+  *Journal of Physics G: Nuclear and Particle Physics*\
   [arXiv:2210.14338](http://arxiv.org/abs/2210.14338)
 
 [dmscatter: A Fast Program for WIMP-Nucleus Scattering](https://doi.org/10.1016/j.cpc.2022.108597) \
   O. Gorton, C. Johnson, C. Jiao, J. Nikoleyczik \
+  *Computer Physics Communications*\
   [arXiv:2209.09187](https://arxiv.org/abs/2209.09187)
 
 [Cross sections for neutron-induced reactions from surrogate data: Reexamining 
   the Weisskopf-Ewing approximation for (n,n') and (n,2n)
 reactions](https://doi.org/10.1103/PhysRevC.107.044612) \
   O. C. Gorton and J. E. Escher\
+  *Physical Review C: Nuclear Physics*\
   [arXiv:2102.03452](https://arxiv.org/abs/2102.03452)
 
 [Measurements of proton capture in the A=100-110 mass region: Constraints of the
   111In(gamma,p)/(gamma,n) branching point relevant to the gamma-process](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806) \
   O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al. \
+  *Physical Review C: Nuclear Physics*
 
 ## Conference Proceedings
 
 [A Problem in the Statistical Description of Beta-Delayed Neutron Emission](https://doi.org/10.1051/epjconf/202328403013) \
   O. Gorton, C. Johnson, and J. Escher \
+  *EPJ Web of Conferences*\
   [arXiv:2210.05904](https://arxiv.org/abs/2210.05904)
   
 [Improving nuclear data evaluations with predictive reaction theory and indirect
    measurements](https://doi.org/10.1051/epjconf/202328403012) \
    J. Escher, K. Bergstrom, E. Chimanski, O. Gorton, E. J. In, 
    M. Kruse, S. Peru, C. Pruitt, R. Rahman, E. Shinkle, A. Thapa, W. Younes\
+   *EPJ Web of Conferences*\
    [arXiv:2304:10034](https://doi.org/10.48550/arXiv.2304.10034)
   
 [Neutron capture cross sections from surrogate reaction data and theory:
   connecting the pieces with a Markov-Chain Monte Carlo approach](https://doi.org/10.1007/978-3-030-58082-7_28) \
   O. Gorton and J. E. Escher \
+  *Springer Proceedings in Physics book series*\
   [arXiv:1905:03055](https://arxiv.org/abs/1905.03055)
 
 ## Thesis
 
 [Efficient Modeling of Nuclei Through Coupling of Proton and Neutron
-  Wavefunctions](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917) (Masters) \
+  Wavefunctions](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917) (Masters, 2018) \
   O. Gorton, Advisor: C. Johnson
 
 ## Presentations
