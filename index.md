@@ -7,21 +7,20 @@ Irvine, currently at Lawrence Livermore National Laboratory
 
 
 [Github Profile](https://github.com/ogorton)\
-[Google Scholar
-Profile](https://scholar.google.com/citations?hl=en&user=hSQUrwwAAAAJ)\
+[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=hSQUrwwAAAAJ)\
 ORC ID: [0000-0003-3643-9640](https://orcid.org/0000-0003-3643-9640)\
 email: [ogorton@sdsu.edu](mailto:ogorton@sdsu.edu)
 
-*On this page*:\
-[Codes](#codes)\
-[Education](#education)\
-[Research positions](#research-positions)\
-[Experience](#experience-and-training)\
-[Awards](#awards)\
-[Journal Papers](#journal-papers)\
-[Conference Proceedings](#conference-proceedings)\
-[Thesis](#thesis)\
-[Presentations](#presentations)
+Contents:\
+-[Codes](#codes)\
+-[Education](#education)\
+-[Research positions](#research-positions)\
+-[Experience](#experience-and-training)\
+-[Awards](#awards)\
+-[Journal Papers](#journal-papers)\
+-[Conference Proceedings](#conference-proceedings)\
+-[Thesis](#thesis)\
+-[Presentations](#presentations)
 
 ## Summary
 
@@ -75,11 +74,6 @@ PhD Candidate and [ACT-UP Scholar](https://www.llnl.gov/news/labs-act-awards-foc
   * New predictive capability for reaction and decay properties of fission
     fragments
 
-Graduate Research Assistant (2019 - 2021)\
-  SDSU Research Foundation with [Calvin Johnson](http://sci.sdsu.edu/johnson/)
-
-* Developed software and theory to describe atomic nuclei using the nuclear
-  shell model and computaional science
 
 Glenn T. Seaborg Institute (GTSI) Summer Intern (Summer 2021)\
   [Seaborg Institute, LLNL](https://seaborg.llnl.gov)
@@ -87,7 +81,15 @@ Glenn T. Seaborg Institute (GTSI) Summer Intern (Summer 2021)\
 * Investigated the validity of an approximation in indirect nuclear reaction
   measurements
 
-High Energy Density Physics Intern (Summers 2018, 2019, 2020)\
+High Energy Density Physics Intern (Summers 2020)\
+  [Lawrence Livermore National Laboratory](https://www.llnl.gov)
+
+
+High Energy Density Physics Intern (Summers 2019)\
+  [Lawrence Livermore National Laboratory](https://www.llnl.gov)
+
+
+High Energy Density Physics Intern (Summers 2018)\
   [Lawrence Livermore National Laboratory](https://www.llnl.gov)
 
 * Developed Python code for MCMC parameter inference 
@@ -95,6 +97,12 @@ High Energy Density Physics Intern (Summers 2018, 2019, 2020)\
   nuclear reaction models in order to combine surrogate data and theory
 * Modified and ran four Hauser-Feshbach model codes
 * Gave multiple presentations to a broad audience
+
+Graduate Research Assistant (2019 - 2021)\
+  SDSU Research Foundation with [Calvin Johnson](http://sci.sdsu.edu/johnson/)
+
+* Developed software and theory to describe atomic nuclei using the nuclear
+  shell model and computaional science
  
 Graduate Student Visitor (2019 - 2020) \
   UC Irvine, Department of Chemistry with [Filipp Furche](https://ffgroup.chem.uci.edu/members/filipp/)
@@ -133,9 +141,14 @@ Teaching
 
 ## Awards
 
-* [LLNL SD Academic Collaboration Team
+[LLNL SD Academic Collaboration Team
   University Program](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research) (ACT-UP) Award (2022, 2023)
-* Graduate S-STEM Scholarship, 2018-2020
+
+
+[Graduate G-STEM Scholarship](https://www.csrc.sdsu.edu/s-stem.html), 2018, 2019\
+National Science Foundation S-STEM Program, awarded by Computational Science
+Research Center, San Diego State University.
+[NSF Abstract.](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1930546)
 
 ## Journal Papers
 
@@ -278,11 +291,3 @@ A Markov Chain Monte Carlo Tool for Hauser-Feshbach Codes\
   O. Gorton and J.E. Escher \
   Seminar for HEDP Exit Talk (August 2018)\
   [PDF](./talks/gorton_llnl18.pdf)
-
-## Climbing
-
-In my free time I enjoy rock climbing.
-
-<img src='images/climbing.jpeg' width="300"/>
-
-Page last updated May 2023
