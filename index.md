@@ -2,9 +2,8 @@
 
 <img src='images/oliver.jpg' width="125" id="profile_pic"/>
 
-Ph.D. Candidate from San Diego State University and University of
-California, Irvine,\
-ACT Award scholar at Lawrence Livermore National Laboratory.
+ACT Award scholar at Lawrence Livermore National Laboratory\
+Ph.D. in Computational Science (Computational Nuclear Physics)
 
 
 <ogorton@sdsu.edu> \
@@ -23,15 +22,15 @@ learning, high-performance computing.
 
 ## Education
 
--   PhD Computational Science\
-    New Predictive Capability for Reaction and Decay Properties of
-    Fission Fragments\
+-   Ph.D. Computational Science\
+    "Shell Model Methods, Statistical Nuclear Reactions, and Beta-delayed
+    Neutron Emission"\
     *University of California, Irvine & San Diego State University
-    [joint doctoral program](https://computationalscience.uci.edu/)*,
-    2023 (expected). Advisor: Calvin Johnson
+    [joint doctoral program](https://computationalscience.uci.edu/)*, 2024. 
+    Advisor: Calvin Johnson
 -   MS Physics\
-    [Efficient Modeling of Nuclei Through Coupling of Proton and Neutron
-    Wavefunctions](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917)\
+    ["Efficient Modeling of Nuclei Through Coupling of Proton and Neutron
+    Wavefunctions"](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917)\
     *San Diego State University*, 2018. Advisor: Calvin Johnson
 -   BA Physics\
     *University of California, Berkeley*, 2016
