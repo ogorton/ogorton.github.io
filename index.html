@@ -11,25 +11,26 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
   </style>
   <link rel="stylesheet" href="style.css" />
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <h1 id="oliver-c.-gorton">Oliver C. Gorton</h1>
 <p><img src='images/oliver.jpg' width="125" id="profile_pic"/></p>
-<p>ACT Award scholar at Lawrence Livermore National Laboratory<br />
-Ph.D. in Computational Science (Computational Nuclear Physics)</p>
-<p><a href="mailto:ogorton@sdsu.edu"
-class="email">ogorton@sdsu.edu</a><br />
+<p>Postdoctoral researcher at Lawrence Livermore National
+Laboratory<br />
+Nuclear Data and Theory Group, Nuclear and Chemical Science Division</p>
+<p><a href="mailto:gorton3@llnl.gov"
+class="email">gorton3@llnl.gov</a><br />
 <a href="https://github.com/ogorton">Github</a><br />
 <a
 href="https://scholar.google.com/citations?hl=en&amp;user=hSQUrwwAAAAJ">Google
@@ -49,34 +50,23 @@ quantification, machine learning, high-performance computing.</p>
 Neutron Emission”<br />
 <em>University of California, Irvine &amp; San Diego State University <a
 href="https://computationalscience.uci.edu/">joint doctoral
-program</a></em>, 2024. Advisor: Calvin Johnson</li>
-<li>MS Physics<br />
+program</a></em>, 2024.<br />
+Advisor: Calvin Johnson</li>
+<li>M.S. Physics<br />
 <a
 href="https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917">“Efficient
 Modeling of Nuclei Through Coupling of Proton and Neutron
 Wavefunctions”</a><br />
 <em>San Diego State University</em>, 2018. Advisor: Calvin Johnson</li>
-<li>BA Physics<br />
+<li>B.A. Physics<br />
 <em>University of California, Berkeley</em>, 2016</li>
-</ul>
-<h2 id="training-and-schools">Training and schools</h2>
-<ul>
-<li>Attended “<a href="https://fribtascattering.github.io/">FRIB-TA
-Summer School: A practical walk-through formal scattering theory</a>”,
-2021<br />
-Lectures and hands on exercises in low-energy nuclear scattering
-theory</li>
-<li>Attended “Agile Development Practices and Tools: A Guided Tour”,
-2020<br />
-Collaborative source control using git, GitHub, and git workflows.</li>
-<li>Attended “Technical Writing Workshop” at LLNL, 2019</li>
 </ul>
 <h2 id="awards-and-support">Awards and support</h2>
 <ul>
 <li><a
 href="https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research">LLNL
 SD Academic Collaboration Team University Program</a> (ACT-UP) Award
-(2022, 2023)<br />
+(2022, 2023, 2024)<br />
 Full support, university tuition, travel funds, relocation to LLNL 8
 mo./yr.</li>
 <li><a href="https://sites.google.com/sdsu.edu/assics/home">Graduate
@@ -89,83 +79,29 @@ Partial support and professional development training.</li>
 <p><strong>Nuclear reactions, data, and theory at Lawrence Livermore
 National Laboratory (2018 – Present)</strong></p>
 <ul>
-<li>High Energy Density Physics Intern, Strategic Deterrence (Summer
-2018)
+<li>Postdoctoral Researcher, Nuclear Data and Theory group (April 2024 -
+present)
 <ul>
-<li>Developed code, COMMCAS, to perform uncertainty quantification on
-Hauser-Feshbach code STAPRE.</li>
-<li>Applied method to benchmark calculation of surrogate reaction
-method, resulting in conference proceedings [C3] listed below.</li>
+<li>Developing shell model methods to improve nuclear structure and
+reaction theory of fission fragments and r-process nuclei</li>
 </ul></li>
-<li>High Energy Density Physics Intern, Strategic Deterrence (Summer
-2019)
+<li>LLNL <a
+href="https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research">ACT
+Scholar</a>, Strategic Deterrence (2022 – 2024)
 <ul>
-<li>Further developed and applied COMMCAS for sensitivity analysis of
-surrogate reaction theory, leading to journal paper [J3] listed
-below.</li>
-<li>Initiated collaboration with experimentalists at U. Notre Dame to
-analyze cross section measurements, leading to journal paper [J4] listed
-below.</li>
-</ul></li>
-<li>High Energy Density Physics Intern, Strategic Deterrence (Summer
-2020)
-<ul>
-<li>Further improvements to COMMCAS and integration with various nuclear
-reaction codes including EMPIRE, TALYS, YAHFC.</li>
-<li>Found and reported bugs in lab’s new reaction code YAHFC</li>
-<li>Assisted in feasibility study to determine if and how a Livermore
-C++ physics code could be ported to GPUs.</li>
-</ul></li>
-<li>Glenn T. Seaborg Institute (GTSI) Summer Intern, <a
-href="https://seaborg.llnl.gov/">Seaborg Institute</a> (Summer 2021)
-<ul>
-<li>Collaborated with 2021 summer student to integrate COMMCAS with
-Livermore machine learning tool B-DJINN for emulation of reaction
-codes.</li>
-<li>Co-refereed an article for Physical Review C</li>
-</ul></li>
-<li><a
-href="https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research">ACT-UP
-Scholar</a>, Strategic Deterrence (2022 – 2023)
-<ul>
-<li>Collaborated with 2022 summer student to improve COMMCAS machine
-learning tools with neural networks, contributing to conference
-proceedings [C2] listed below.</li>
 <li>New predictive capability for reaction and decay properties of
 fission fragments</li>
-<li>Implemented shell model methods for computing gamma-ray strength
-functions.</li>
+<li>Defended PhD at LLNL</li>
 </ul></li>
-</ul>
-<p><strong>Nuclear structure and applications at San Diego State
-University (2016 – Present)</strong></p>
-<ul>
-<li>Masters and Doctoral student with <a
-href="http://sci.sdsu.edu/johnson/">Calvin Johnson</a></li>
-<li>Helped apply quantum information theory to nuclear shell model,
-leading to journal paper [J1]</li>
-<li>Co-developed a truncated shell model code.
-<ul>
-<li>Implemented advanced extremal eigenvalue solvers in modern
-Fortran.</li>
-<li>Solved several technical problems related to implementing a quantum
-many-body solver.</li>
-<li>Parallelized a shell model code using a hybrid MPI and openMP
-approach.</li>
-</ul></li>
-<li>Co-developed a nucleus-WIMP scattering code for direct dark matter
-detection experiments, resulting in journal paper [J2] listed
-below.</li>
-</ul>
-<p><strong>Intersection of nuclear physics and quantum chemistry at UC,
-Irvine (2019-20 academic year)</strong></p>
-<ul>
-<li>Graduate Student Visitor, Department of Chemistry, <a
-href="https://ffgroup.chem.uci.edu/members/filipp/">Furche Research
-Group</a><br />
-Collaborated with chemistry postdoc to develop formalism for
-Nuclear-Electronic Orbital method using time-dependent density
-functional theory.</li>
+<li>Glenn T. Seaborg Institute (GTSI) Summer Intern, <a
+href="https://seaborg.llnl.gov/">Seaborg Institute</a> (Summer
+2021)</li>
+<li>High Energy Density Physics Intern, Strategic Deterrence (Summer
+2020)</li>
+<li>High Energy Density Physics Intern, Strategic Deterrence (Summer
+2019)</li>
+<li>High Energy Density Physics Intern, Strategic Deterrence (Summer
+2018)</li>
 </ul>
 <h2 id="codes">Codes</h2>
 <p>Languages: Modern Fortran, Python (numpy, scipy, MPI4py,
@@ -176,47 +112,33 @@ href="https://hpc.llnl.gov/hardware/compute-platforms">LC, LLNL</a>
 facility</p>
 <p><strong>Primary developer of:</strong></p>
 <ul>
-<li><strong>dmscatter</strong> <a
+<li><p><strong>dmscatter</strong> <a
 href="https://github.com/ogorton/dmfortfactor">[Repository]</a><br />
 A fast Fortran code for WIMP-nucleus form factors and differential event
-rate spectra. Modern Fortran with Python interface. OpenMP parallel.
-<ul>
-<li>Journal publication [J2] listed below with multiple citations</li>
-<li>Being used and applied in <a
-href="https://arxiv.org/abs/2305.08991">upcoming publication</a></li>
-</ul></li>
-<li><strong>PANASh</strong> [Not yet released]<br />
+rate spectra. Modern Fortran with Python interface. OpenMP
+parallel.</p></li>
+<li><p><strong>PANASh</strong> [Not yet released]<br />
 Proton and neutron approximate shell model code providing advanced basis
 truncation scheme for nuclei away from stability. MPI and openMP hybrid
-parallel.
-<ul>
-<li>Motivated by journal publication [J1] listed below with multiple
-citations</li>
-<li>Has been applied in conference proceedings [C1] listed below</li>
-<li>Separate Journal publication in progress</li>
-</ul></li>
-<li><strong>COMMCAS</strong> [Not yet released]<br />
+parallel.</p></li>
+<li><p><strong>COMMCAS</strong> [Not yet released]<br />
 Computational Model Monte Carlo Sampler: Uncertainty quantification
 framework originally designed for Hauser-Feshbach statistical decay
 codes, now provides generic data-fitting, uncertainty quantification,
 and neural-network-emulation tools for physics codes. MPI and
-multiprocessing parallel.
-<ul>
-<li>Actively in use at LLNL for uncertainty quantification in:
-<ul>
-<li>Surrogate reaction theory</li>
-<li>Optical model potentials</li>
-</ul></li>
-<li>Has been applied in Journal papers [J3, J4], and Conference
-proceedings [C2, C3]</li>
-</ul></li>
-<li><strong>Wigner</strong> <a
+multiprocessing parallel.</p></li>
+<li><p><strong>Wigner</strong> <a
 href="https://github.com/ogorton/wigner">[Repository]</a><br />
 A library of functions for computation of Wigner 3-j, 6-j and 9-j
-symbols, written in modern Fortran.</li>
+symbols, written in modern Fortran.</p></li>
 </ul>
 <h2 id="journal-papers">Journal papers</h2>
-<ol type="1">
+<ul>
+<li><a href="https://arxiv.org/abs/2406.10120">A Weak Entanglement
+Approximation for Nuclear Structure</a><br />
+O. C. Gorton and C. W. Johnson<br />
+<em>Submitted to Physical Review C</em> <a
+href="https://arxiv.org/abs/2406.10120">arXiv:2406.10120</a></li>
 <li><a href="https://doi.org/10.1088/1361-6471/acbece">Proton-neutron
 entanglement in the nuclear shell model</a><br />
 C. W. Johnson and O. C. Gorton<br />
@@ -241,9 +163,9 @@ of proton capture in the A=100-110 mass region: Constraints of the
 gamma-process</a><br />
 O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al. <br />
 <em>Physical Review C: Nuclear Physics 102 (5), 055806 (2020)</em></li>
-</ol>
+</ul>
 <h2 id="conference-proceedings">Conference proceedings</h2>
-<ol type="1">
+<ul>
 <li><a href="https://doi.org/10.1051/epjconf/202328403013">A Problem in
 the Statistical Description of Beta-Delayed Neutron Emission</a><br />
 O. Gorton, C. Johnson, and J. Escher<br />
@@ -262,9 +184,15 @@ connecting the pieces with a Markov-Chain Monte Carlo approach</a><br />
 O. Gorton and J. E. Escher<br />
 <em>Springer Proceedings in Physics, vol 254, pages 229-231 (2021)</em>
 | <a href="https://arxiv.org/abs/1905.03055">arXiv:1905:03055</a></li>
-</ol>
+</ul>
 <h2 id="contributed-talks">Contributed talks</h2>
-<ol type="1">
+<ul>
+<li><a
+href="https://ogorton.github.io/talks/gorton_apsapril24.pdf">Missing
+gammas: beta-delayed neutron emission of Rb-94</a><br />
+O. Gorton, C. Johnson, J. Escher<br />
+Talk at APS April 2024 Meeting (Sacramento, April 2024)<br />
+</li>
 <li><a
 href="https://ogorton.github.io/talks/gorton_t3_2023_LLNL-PRES-853425.pdf">Gamma-ray
 strength functions using approximate shell model calculations</a><br />
@@ -322,9 +250,15 @@ Seminar for HEDP Intern Exit Talk (Livermore, September 2019)</li>
 Chain Monte Carlo Tool for Hauser-Feshbach Codes</a><strong><br />
 </strong>O. Gorton and J.E. Escher<br />
 Seminar for HEDP Intern Exit Talk (Livermore, August 2018)</li>
-</ol>
+</ul>
 <h2 id="posters">Posters</h2>
-<ol type="1">
+<ul>
+<li><a href="https://ogorton.github.io/posters/gorton_cnr24.pdf">Width
+Fluctuation Correction Factor for Beta-delayed Neutron
+Emission</a><br />
+O. Gorton, J. Escher<br />
+Poster at the 7th international workshop on Compound-Nuclear Reactions
+and Related Topics (Vienna, July 2024)</li>
 <li><a href="https://ogorton.github.io/posters/gorton_ns22.pdf">Proton
 and Neutron Approximate Shell Model: Factorization-based Importance
 Truncation</a><br />
@@ -352,7 +286,19 @@ O. Gorton and J. E. Escher<br />
 Poster at Compound Nuclear Reactions conference <a
 href="https://indico.bnl.gov/event/4158">CNR18</a> (Berkeley, September
 2018)</li>
-</ol>
+</ul>
+<h2 id="training-and-schools">Training and schools</h2>
+<ul>
+<li>Attended “<a href="https://fribtascattering.github.io/">FRIB-TA
+Summer School: A practical walk-through formal scattering theory</a>”,
+2021<br />
+Lectures and hands on exercises in low-energy nuclear scattering
+theory</li>
+<li>Attended “Agile Development Practices and Tools: A Guided Tour”,
+2020<br />
+Collaborative source control using git, GitHub, and git workflows.</li>
+<li>Attended “Technical Writing Workshop” at LLNL, 2019</li>
+</ul>
 <h2 id="teaching">Teaching</h2>
 <ul>
 <li>Graduate Teaching Associate for intro physics lab courses (2016 -
