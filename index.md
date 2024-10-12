@@ -20,6 +20,63 @@ reactions. *Applications* in related fields: the search for dark matter,
 nuclear data and evaluations, uncertainty quantification, machine
 learning, high-performance computing.
 
+## Journal papers
+
+
+-   [Weak Entanglement Approximation for Nuclear
+    Structure](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.034305)\
+    O. C. Gorton and C. W. Johnson\
+    *Phys. Rev. C 110, 034305 (2024)* | 
+    [arXiv:2406.10120](https://arxiv.org/abs/2406.10120)
+-   [Proton-neutron entanglement in the nuclear shell
+    model](https://doi.org/10.1088/1361-6471/acbece)\
+    C. W. Johnson and O. C. Gorton\
+    *Journal of Physics G: Nuclear and Particle Physics 50 (4)
+    045110 (2023) \|*
+    [arXiv:2210.14338](http://arxiv.org/abs/2210.14338)
+-   [dmscatter: A Fast Program for WIMP-Nucleus
+    Scattering](https://doi.org/10.1016/j.cpc.2022.108597)\
+    O. Gorton, C. Johnson, C. Jiao, J. Nikoleyczik\
+    *Computer Physics Communications 284, 108597 (2023)* \|
+    [arXiv:2209.09187](https://arxiv.org/abs/2209.09187)
+-   [Cross sections for neutron-induced reactions from surrogate data:
+    Reexamining the Weisskopf-Ewing approximation for (n,n') and (n,2n)
+    reactions](https://doi.org/10.1103/PhysRevC.107.044612)\
+    O. C. Gorton and J. E. Escher\
+    *Physical Review C: Nuclear Physics 107 (4), 044612 (2023)* \|
+    [arXiv:2102.03452](https://arxiv.org/abs/2102.03452)
+-   [Measurements of proton capture in the A=100-110 mass region:
+    Constraints of the 111In(gamma,p)/(gamma,n) branching point relevant
+    to the
+    gamma-process](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806)\
+    O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al. \
+    *Physical Review C: Nuclear Physics 102 (5), 055806 (2020)*
+
+
+## Conference proceedings
+
+
+-   [A Problem in the Statistical Description of Beta-Delayed Neutron
+    Emission](https://doi.org/10.1051/epjconf/202328403013)\
+    O. Gorton, C. Johnson, and J. Escher\
+    *EPJ Web of Conferences 284, 03013 (2023)* \|
+    [arXiv:2210.05904](https://arxiv.org/abs/2210.05904)
+-   [Improving nuclear data evaluations with predictive reaction theory
+    and indirect
+    measurements](https://doi.org/10.1051/epjconf/202328403012)\
+    J. Escher, K. Bergstrom, E. Chimanski, O. Gorton, E. J. In, M.
+    Kruse, S. Peru, C. Pruitt, R. Rahman, E. Shinkle, A. Thapa, W.
+    Younes\
+    *EPJ Web of Conferences 284, 03012 (2023)* \|
+    [arXiv:2304:10034](https://doi.org/10.48550/arXiv.2304.10034)
+-   [Neutron capture cross sections from surrogate reaction data and
+    theory: connecting the pieces with a Markov-Chain Monte Carlo
+    approach](https://doi.org/10.1007/978-3-030-58082-7_28)\
+    O. Gorton and J. E. Escher\
+    *Springer Proceedings in Physics, vol 254, pages 229-231 (2021)* \|
+    [arXiv:1905:03055](https://arxiv.org/abs/1905.03055)
+
+
 ## Education
 
 -   Ph.D. Computational Science\
@@ -103,63 +160,6 @@ LLNL](https://hpc.llnl.gov/hardware/compute-platforms) facility
 -   **Wigner** [\[Repository\]](https://github.com/ogorton/wigner)\
     A library of functions for computation of Wigner 3-j, 6-j and 9-j
     symbols, written in modern Fortran.
-
-
-## Journal papers
-
-
--   [A Weak Entanglement Approximation for Nuclear
-    Structure](https://arxiv.org/abs/2406.10120)\
-    O. C. Gorton and C. W. Johnson\
-    *Submitted to Physical Review C*
-    [arXiv:2406.10120](https://arxiv.org/abs/2406.10120)
--   [Proton-neutron entanglement in the nuclear shell
-    model](https://doi.org/10.1088/1361-6471/acbece)\
-    C. W. Johnson and O. C. Gorton\
-    *Journal of Physics G: Nuclear and Particle Physics 50 (4)
-    045110 (2023) \|*
-    [arXiv:2210.14338](http://arxiv.org/abs/2210.14338)
--   [dmscatter: A Fast Program for WIMP-Nucleus
-    Scattering](https://doi.org/10.1016/j.cpc.2022.108597)\
-    O. Gorton, C. Johnson, C. Jiao, J. Nikoleyczik\
-    *Computer Physics Communications 284, 108597 (2023)* \|
-    [arXiv:2209.09187](https://arxiv.org/abs/2209.09187)
--   [Cross sections for neutron-induced reactions from surrogate data:
-    Reexamining the Weisskopf-Ewing approximation for (n,n') and (n,2n)
-    reactions](https://doi.org/10.1103/PhysRevC.107.044612)\
-    O. C. Gorton and J. E. Escher\
-    *Physical Review C: Nuclear Physics 107 (4), 044612 (2023)* \|
-    [arXiv:2102.03452](https://arxiv.org/abs/2102.03452)
--   [Measurements of proton capture in the A=100-110 mass region:
-    Constraints of the 111In(gamma,p)/(gamma,n) branching point relevant
-    to the
-    gamma-process](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806)\
-    O. Olivas-Gomez, A. Simon, O. Gorton, J. E. Escher et al. \
-    *Physical Review C: Nuclear Physics 102 (5), 055806 (2020)*
-
-
-## Conference proceedings
-
-
--   [A Problem in the Statistical Description of Beta-Delayed Neutron
-    Emission](https://doi.org/10.1051/epjconf/202328403013)\
-    O. Gorton, C. Johnson, and J. Escher\
-    *EPJ Web of Conferences 284, 03013 (2023)* \|
-    [arXiv:2210.05904](https://arxiv.org/abs/2210.05904)
--   [Improving nuclear data evaluations with predictive reaction theory
-    and indirect
-    measurements](https://doi.org/10.1051/epjconf/202328403012)\
-    J. Escher, K. Bergstrom, E. Chimanski, O. Gorton, E. J. In, M.
-    Kruse, S. Peru, C. Pruitt, R. Rahman, E. Shinkle, A. Thapa, W.
-    Younes\
-    *EPJ Web of Conferences 284, 03012 (2023)* \|
-    [arXiv:2304:10034](https://doi.org/10.48550/arXiv.2304.10034)
--   [Neutron capture cross sections from surrogate reaction data and
-    theory: connecting the pieces with a Markov-Chain Monte Carlo
-    approach](https://doi.org/10.1007/978-3-030-58082-7_28)\
-    O. Gorton and J. E. Escher\
-    *Springer Proceedings in Physics, vol 254, pages 229-231 (2021)* \|
-    [arXiv:1905:03055](https://arxiv.org/abs/1905.03055)
 
 
 ## Contributed talks
