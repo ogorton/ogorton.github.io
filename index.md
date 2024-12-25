@@ -3,7 +3,7 @@
 <img src='images/oliver.jpg' width="125" id="profile_pic"/>
 
 Postdoctoral researcher at Lawrence Livermore National Laboratory\
-Nuclear Data and Theory Group, Nuclear and Chemical Science Division
+Nuclear Data and Theory Group // Nuclear and Chemical Science Division
 
 
 <gorton3@llnl.gov> \
@@ -14,11 +14,40 @@ ORC ID: [0000-0003-3643-9640](https://orcid.org/0000-0003-3643-9640)
 
 ## Research interests
 
+
+Theoretical and computational methods of nuclear physics: my work follows the
+needs of nuclear astrophysics and nuclear technology, two fields which probe the
+limits of our understanding of matter in neutron-rich environments.
+
 *Nuclear structure and reactions*: beta-delayed neutron emission,
-integration of nuclear shell-model and Hauser-Feshbach (statistical)
-reactions. *Applications* in related fields: the search for dark matter,
+integration of nuclear shell-model and Hauser-Feshbach reaction theory. 
+
+*Applications* in related fields: the search for dark matter,
 nuclear data and evaluations, uncertainty quantification, machine
 learning, high-performance computing.
+
+
+## Research experience
+
+
+-   Postdoctoral Researcher, Nuclear Data and Theory group (April
+    2024 - present)
+    - Developing shell model methods to improve nuclear structure and reaction
+      theory of fission fragments and r-process nuclei
+
+-   LLNL [ACT
+    Scholar](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research),
+    Strategic Deterrence (2022 -- 2024)
+    -   New predictive capability for reaction and decay properties of
+        fission fragments
+    - Defended PhD at LLNL
+-   Glenn T. Seaborg Institute (GTSI) Summer Intern, [Seaborg
+    Institute](https://seaborg.llnl.gov/) (Summer 2021)
+-   High Energy Density Physics Intern, Strategic Deterrence (Summer 2020)
+-   High Energy Density Physics Intern, Strategic Deterrence (Summer 2019)
+-   High Energy Density Physics Intern, Strategic Deterrence (Summer 2018)
+
+
 
 ## Journal papers
 
@@ -79,6 +108,7 @@ learning, high-performance computing.
 
 ## Education
 
+
 -   Ph.D. Computational Science\
     "Shell Model Methods, Statistical Nuclear Reactions, and Beta-delayed
     Neutron Emission"\
@@ -92,7 +122,9 @@ learning, high-performance computing.
 -   B.A. Physics\
     *University of California, Berkeley*, 2016
 
+
 ## Awards and support
+
 
 -   [LLNL SD Academic Collaboration Team University
     Program](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research) (ACT-UP)
@@ -105,28 +137,6 @@ learning, high-performance computing.
     National Science Foundation Program, awarded by Computational
     Science Research Center, San Diego State University\
     Partial support and professional development training.
-
-## Research experience
-
-**Nuclear reactions, data, and theory at Lawrence Livermore National
-Laboratory (2018 -- Present)**
-
--   Postdoctoral Researcher, Nuclear Data and Theory group (April
-    2024 - present)
-    - Developing shell model methods to improve nuclear structure and reaction
-      theory of fission fragments and r-process nuclei
-
--   LLNL [ACT
-    Scholar](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research),
-    Strategic Deterrence (2022 -- 2024)
-    -   New predictive capability for reaction and decay properties of
-        fission fragments
-    - Defended PhD at LLNL
--   Glenn T. Seaborg Institute (GTSI) Summer Intern, [Seaborg
-    Institute](https://seaborg.llnl.gov/) (Summer 2021)
--   High Energy Density Physics Intern, Strategic Deterrence (Summer 2020)
--   High Energy Density Physics Intern, Strategic Deterrence (Summer 2019)
--   High Energy Density Physics Intern, Strategic Deterrence (Summer 2018)
 
 
 ## Codes
@@ -262,6 +272,9 @@ LLNL](https://hpc.llnl.gov/hardware/compute-platforms) facility
 ## Training and schools
 
 
+-   Attended "[FIESTA
+    2024](https://web.cvent.com/event/598d58fd-f6e7-4ca6-89e9-2f9ea800afb8/summary)"
+\, Fission Experiments and Theoretical Advances (FIESTA) is a fission-focused school and workshop.
 -   Attended "[FRIB-TA Summer School: A practical walk-through formal
     scattering theory](https://fribtascattering.github.io/)", 2021\
     Lectures and hands on exercises in low-energy nuclear scattering
