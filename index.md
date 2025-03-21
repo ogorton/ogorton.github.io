@@ -60,13 +60,13 @@ learning, high-performance computing.
 -   [Weak Entanglement Approximation for Nuclear
     Structure](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.034305)\
     O. C. Gorton and C. W. Johnson\
-    *Phys. Rev. C 110, 034305 (2024)* \| 
+    *Physical Review C 110, 034305 (2024)* \| 
     [arXiv:2406.10120](https://arxiv.org/abs/2406.10120)
 -   [Proton-neutron entanglement in the nuclear shell
     model](https://doi.org/10.1088/1361-6471/acbece)\
     C. W. Johnson and O. C. Gorton\
     *Journal of Physics G: Nuclear and Particle Physics 50 (4)
-    045110 (2023) \|*
+    045110 (2023)* \|
     [arXiv:2210.14338](http://arxiv.org/abs/2210.14338)
 -   [dmscatter: A Fast Program for WIMP-Nucleus
     Scattering](https://doi.org/10.1016/j.cpc.2022.108597)\
@@ -95,6 +95,13 @@ learning, high-performance computing.
     O. Gorton and J. Escher\
     *EPJ Web of Conferences 322, 02004 (2025)* \|
     [arXiv:2410.01074](https://arxiv.org/abs/2410.01074)
+-   [Extending the Dispersive Optical Model to Beta-unstable Systems](https://doi.org/10.1051/epjconf/202532205001)\
+    C. Pruitt, S. S. Perrotta, J. Escher, O. Gorton\
+    *EPJ Web of Conferences 322, 05001 (2025)*
+-   [Towards next-generation optical potentials for nuclear reactions and structure calculations](https://doi.org/10.1016/j.nuclphysa.2025.123037)\
+    S. S. Perrotta, C. Priutt, O. Gorton, and J. Escher\
+    *Nuclear Physics A 1057, 123037 (2025)* \|
+    [arXiv:2410.19269](https://arxiv.org/abs/2410.19269)
 -   [A Problem in the Statistical Description of Beta-Delayed Neutron
     Emission](https://doi.org/10.1051/epjconf/202328403013)\
     O. Gorton, C. Johnson, and J. Escher\
