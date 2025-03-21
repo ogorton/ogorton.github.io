@@ -52,10 +52,14 @@ learning, high-performance computing.
 ## Journal papers
 
 
+-   Towards shell model interactions with credible uncertainties\
+    O. C. Gorton and K. Kravvaris\
+    *To be submitted (2025)* |
+[arXiv:2503.11889](https://arxiv.org/abs/2503.11889)
 -   [Weak Entanglement Approximation for Nuclear
     Structure](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.034305)\
     O. C. Gorton and C. W. Johnson\
-    *Phys. Rev. C 110, 034305 (2024)* | 
+    *Phys. Rev. C 110, 034305 (2024)* \| 
     [arXiv:2406.10120](https://arxiv.org/abs/2406.10120)
 -   [Proton-neutron entanglement in the nuclear shell
     model](https://doi.org/10.1088/1361-6471/acbece)\
@@ -85,6 +89,11 @@ learning, high-performance computing.
 ## Conference proceedings
 
 
+-   [Correcting for neutron width fluctuations in Hauser-Feshbach gamma
+    branching ratios](https://doi.org/10.1051/epjconf/202532202004)\
+    O. Gorton and J. Escher\
+    *EPJ Web of Conferences 322, 02004 (2025)* \|
+    [arXiv:2410.01074](https://arxiv.org/abs/2410.01074)
 -   [A Problem in the Statistical Description of Beta-Delayed Neutron
     Emission](https://doi.org/10.1051/epjconf/202328403013)\
     O. Gorton, C. Johnson, and J. Escher\
@@ -175,6 +184,9 @@ LLNL](https://hpc.llnl.gov/hardware/compute-platforms) facility
 ## Contributed talks
 
 
+-   [Is the USDB interaction unique?]()\
+    O. Gorton\
+    Talk at APS Global Physics Summit (Anaheim, March 2025)\
 -   [Missing gammas: beta-delayed neutron emission of
     Rb-94](https://ogorton.github.io/talks/gorton_apsapril24.pdf)\
     O. Gorton, C. Johnson, J. Escher\
