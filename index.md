@@ -184,9 +184,12 @@ LLNL](https://hpc.llnl.gov/hardware/compute-platforms) facility
 ## Contributed talks
 
 
--   [Is the USDB interaction unique?]()\
+-   [Is the USDB interaction unique?](https://ogorton.github.io/talks/gorton_apsmarch25.pdf)\
     O. Gorton\
     Talk at APS Global Physics Summit (Anaheim, March 2025)\
+-   [A weak entanglement approximation for nuclear structure](https://ogorton.github.io/talks/gorton_sm75.pdf)\
+    O. Gorton and C. Johnson\
+    Talk at Shell Model Symposium: Celebrating 75 Years of the Nuclear Shell Model and Maria Goeppert-Mayer (Argonne National Lab., July 2024)\
 -   [Missing gammas: beta-delayed neutron emission of
     Rb-94](https://ogorton.github.io/talks/gorton_apsapril24.pdf)\
     O. Gorton, C. Johnson, J. Escher\
