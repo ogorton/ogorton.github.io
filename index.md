@@ -39,7 +39,7 @@ learning, high-performance computing.
 ## Research experience
 
 
--   Postdoctoral Researcher, Nuclear Data and Theory group (April
+-   Postdoctoral Research Staff, Lawerence Livermore National Laboratory (April
     2024 - present)
     - Developing shell model methods to improve nuclear structure and reaction
       theory of fission fragments and r-process nuclei
