@@ -2,13 +2,13 @@
 
 <img src='images/oliver.jpg' width="125" id="profile_pic"/>
 
-Postdoctoral researcher at Lawrence Livermore National Laboratory\
+Postdoctoral Research Staff at Lawrence Livermore National Laboratory\
 Nuclear Data and Theory Group // Nuclear and Chemical Science Division
 
 
 <gorton3@llnl.gov> \
 [Github](https://github.com/ogorton) \
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=hSQUrwwAAAAJ) \
+[Google Scholar](https://scholar.google.com/citations?user=jaCfxjgAAAAJ&hl=en&oi=ao) \
 ORC ID: [0000-0003-3643-9640](https://orcid.org/0000-0003-3643-9640)
 
 
@@ -23,9 +23,10 @@ schools](#training-and-schools), [Teaching](#teaching)
 ## Research interests
 
 
-Theoretical and computational methods of nuclear physics: my work follows the
-needs of nuclear astrophysics and nuclear technology, two fields which probe the
-limits of our understanding of matter in neutron-rich environments.
+I work on theoretical and computational methods of nuclear physics. My work
+follows the needs of nuclear astrophysics and nuclear technology, two fields
+which probe the limits of our understanding of matter in neutron-rich
+environments.
 
 *Nuclear structure and reactions*: beta-delayed neutron emission,
 integration of nuclear shell-model and Hauser-Feshbach reaction theory. 
@@ -67,13 +68,13 @@ learning, high-performance computing.
 -   [Weak Entanglement Approximation for Nuclear
     Structure](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.034305)\
     O. C. Gorton and C. W. Johnson\
-    *Phys. Rev. C 110, 034305 (2024)* \| 
+    *Physical Review C 110, 034305 (2024)* \| 
     [arXiv:2406.10120](https://arxiv.org/abs/2406.10120)
 -   [Proton-neutron entanglement in the nuclear shell
     model](https://doi.org/10.1088/1361-6471/acbece)\
     C. W. Johnson and O. C. Gorton\
     *Journal of Physics G: Nuclear and Particle Physics 50 (4)
-    045110 (2023) \|*
+    045110 (2023)* \|
     [arXiv:2210.14338](http://arxiv.org/abs/2210.14338)
 -   [dmscatter: A Fast Program for WIMP-Nucleus
     Scattering](https://doi.org/10.1016/j.cpc.2022.108597)\
@@ -102,6 +103,13 @@ learning, high-performance computing.
     O. Gorton and J. Escher\
     *EPJ Web of Conferences 322, 02004 (2025)* \|
     [arXiv:2410.01074](https://arxiv.org/abs/2410.01074)
+-   [Extending the Dispersive Optical Model to Beta-unstable Systems](https://doi.org/10.1051/epjconf/202532205001)\
+    C. Pruitt, S. S. Perrotta, J. Escher, O. Gorton\
+    *EPJ Web of Conferences 322, 05001 (2025)*
+-   [Towards next-generation optical potentials for nuclear reactions and structure calculations](https://doi.org/10.1016/j.nuclphysa.2025.123037)\
+    S. S. Perrotta, C. Priutt, O. Gorton, and J. Escher\
+    *Nuclear Physics A 1057, 123037 (2025)* \|
+    [arXiv:2410.19269](https://arxiv.org/abs/2410.19269)
 -   [A Problem in the Statistical Description of Beta-Delayed Neutron
     Emission](https://doi.org/10.1051/epjconf/202328403013)\
     O. Gorton, C. Johnson, and J. Escher\
@@ -192,9 +200,12 @@ LLNL](https://hpc.llnl.gov/hardware/compute-platforms) facility
 ## Contributed talks
 
 
--   [Is the USDB interaction unique?]()\
+-   [Is the USDB interaction unique?](https://ogorton.github.io/talks/gorton_apsmarch25.pdf)\
     O. Gorton\
     Talk at APS Global Physics Summit (Anaheim, March 2025)\
+-   [A weak entanglement approximation for nuclear structure](https://ogorton.github.io/talks/gorton_sm75.pdf)\
+    O. Gorton and C. Johnson\
+    Talk at Shell Model Symposium: Celebrating 75 Years of the Nuclear Shell Model and Maria Goeppert-Mayer (Argonne National Lab., July 2024)\
 -   [Missing gammas: beta-delayed neutron emission of
     Rb-94](https://ogorton.github.io/talks/gorton_apsapril24.pdf)\
     O. Gorton, C. Johnson, J. Escher\
