@@ -65,8 +65,8 @@ learning, high-performance computing.
     O. C. Gorton and K. Kravvaris\
     *To be submitted (2025)* |
 [arXiv:2503.11889](https://arxiv.org/abs/2503.11889)
--   [Weak Entanglement Approximation for Nuclear
-    Structure](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.034305)\
+-   [Weak entanglement approximation for nuclear
+    structure](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.034305)\
     O. C. Gorton and C. W. Johnson\
     *Physical Review C 110, 034305 (2024)* \| 
     [arXiv:2406.10120](https://arxiv.org/abs/2406.10120)
@@ -76,8 +76,8 @@ learning, high-performance computing.
     *Journal of Physics G: Nuclear and Particle Physics 50 (4)
     045110 (2023)* \|
     [arXiv:2210.14338](http://arxiv.org/abs/2210.14338)
--   [dmscatter: A Fast Program for WIMP-Nucleus
-    Scattering](https://doi.org/10.1016/j.cpc.2022.108597)\
+-   [dmscatter: A fast program for WIMP-nucleus
+    scattering](https://doi.org/10.1016/j.cpc.2022.108597)\
     O. Gorton, C. Johnson, C. Jiao, J. Nikoleyczik\
     *Computer Physics Communications 284, 108597 (2023)* \|
     [arXiv:2209.09187](https://arxiv.org/abs/2209.09187)
