@@ -98,6 +98,10 @@ learning, high-performance computing.
 ## Conference proceedings
 
 
+-   A weak entanglement approximation for nuclear structure: a progress report\
+    C. Johnson and O. Gorton\
+    Submitted to the proceedings of NTSE (Nuclear Theory in the Supercomputing
+    Era) 2024 | [arXiv:2504.00273](https://doi.org/10.48550/arXiv.2504.00273)
 -   [Correcting for neutron width fluctuations in Hauser-Feshbach gamma
     branching ratios](https://doi.org/10.1051/epjconf/202532202004)\
     O. Gorton and J. Escher\
