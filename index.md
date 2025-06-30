@@ -63,7 +63,7 @@ learning, high-performance computing.
 
 -   Towards shell model interactions with credible uncertainties\
     O. C. Gorton and K. Kravvaris\
-    *To be submitted (2025)* |
+    *Accepted in Physical Review C (2025)* |
 [arXiv:2503.11889](https://arxiv.org/abs/2503.11889)
 -   [Weak entanglement approximation for nuclear
     structure](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.034305)\
@@ -203,6 +203,9 @@ LLNL](https://hpc.llnl.gov/hardware/compute-platforms) facility
 ## Contributed talks
 
 
+-   [Shell model for astrophysics and nuclear technologies](https://ogorton.github.io/talks/gorton_nd2025.pdf)\
+    O. Gorton\
+    Talk at 16th Nuclear Data for Science and Technology Conference (Madrid, June 2025)\
 -   [Is the USDB interaction unique?](https://ogorton.github.io/talks/gorton_apsmarch25.pdf)\
     O. Gorton\
     Talk at APS Global Physics Summit (Anaheim, March 2025)\
