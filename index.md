@@ -61,9 +61,9 @@ learning, high-performance computing.
 ## Journal papers
 
 
--   Towards shell model interactions with credible uncertainties\
+-   [Towards shell model interactions with credible uncertainties](https://doi.org/10.1103/fzxv-4q1r)\
     O. C. Gorton and K. Kravvaris\
-    *Accepted in Physical Review C (2025)* |
+    *Physical Review C 112, 014302 (2025)* |
 [arXiv:2503.11889](https://arxiv.org/abs/2503.11889)
 -   [Weak entanglement approximation for nuclear
     structure](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.034305)\
