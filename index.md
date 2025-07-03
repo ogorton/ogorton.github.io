@@ -22,7 +22,7 @@ schools](#training-and-schools), [Teaching](#teaching)
 ## Research interests
 
 
-I work on theoretical and computational methods of nuclear physics. My work
+I work on the theoretical and computational methods of nuclear physics. My work
 supports the needs of nuclear astrophysics and nuclear technology, two fields
 which probe the limits of our understanding of matter in neutron-rich
 environments.
