@@ -6,7 +6,6 @@ Postdoctoral Research Staff at Lawrence Livermore National Laboratory\
 Nuclear Data and Theory Group // Nuclear and Chemical Sciences Division
 
 
-<gorton3@llnl.gov> \
 [Github](https://github.com/ogorton) \
 [Google Scholar](https://scholar.google.com/citations?user=jaCfxjgAAAAJ&hl=en&oi=ao) \
 ORC ID: [0000-0003-3643-9640](https://orcid.org/0000-0003-3643-9640)
