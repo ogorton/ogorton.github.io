@@ -3,7 +3,7 @@
 <img src='images/oliver.jpg' width="125" id="profile_pic"/>
 
 Postdoctoral Research Staff at Lawrence Livermore National Laboratory\
-Nuclear Data and Theory Group // Nuclear and Chemical Science Division
+Nuclear Data and Theory Group // Nuclear and Chemical Sciences Division
 
 
 <gorton3@llnl.gov> \
@@ -24,7 +24,7 @@ schools](#training-and-schools), [Teaching](#teaching)
 
 
 I work on theoretical and computational methods of nuclear physics. My work
-follows the needs of nuclear astrophysics and nuclear technology, two fields
+supports the needs of nuclear astrophysics and nuclear technology, two fields
 which probe the limits of our understanding of matter in neutron-rich
 environments.
 
@@ -137,17 +137,16 @@ learning, high-performance computing.
 ## Education
 
 
--   Ph.D. Computational Science\
-    "Shell Model Methods, Statistical Nuclear Reactions, and Beta-delayed
-    Neutron Emission"\
+-   Ph.D. Computational Science,
     *University of California, Irvine & San Diego State University
-    [joint doctoral program](https://computationalscience.uci.edu/)*, 2024.\
-    Advisor: Calvin Johnson
--   M.S. Physics\
+    [joint doctoral program](https://computationalscience.uci.edu/)*, 2024\
+    "Shell Model Methods, Statistical Nuclear Reactions, and Beta-delayed
+    Neutron Emission", advised by Calvin Johnson\
+-   M.S. Physics,
+    *San Diego State University*, 2018\
     ["Efficient Modeling of Nuclei Through Coupling of Proton and Neutron
-    Wavefunctions"](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917)\
-    *San Diego State University*, 2018. Advisor: Calvin Johnson
--   B.A. Physics\
+    Wavefunctions"](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917), advised by Calvin Johnson
+-   B.A. Physics,
     *University of California, Berkeley*, 2016
 
 
@@ -158,7 +157,7 @@ learning, high-performance computing.
     Program](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research) (ACT-UP)
     Award (2022, 2023, 2024)\
     Full support, university tuition, travel funds, relocation to LLNL 8
-    mo./yr.
+    mo/yr.
 -   [Graduate "G-STEM"
     Scholarship](https://sites.google.com/sdsu.edu/assics/home) (2018,
     2019)\
@@ -172,11 +171,8 @@ learning, high-performance computing.
 
 Languages: Modern Fortran, Python (numpy, scipy, MPI4py,
 multiprocessing, emcee), Bash, C++\
-Technologies: Experienced: MPI, openMP, git; Novice: CUDA, RAJA\
-Machines: Borax, Quartz in [LC,
-LLNL](https://hpc.llnl.gov/hardware/compute-platforms) facility
 
-**Primary developer of:**
+Primary developer of:
 
 -   **dmscatter** [\[Repository\]](https://github.com/ogorton/dmfortfactor)\
     A fast Fortran code for WIMP-nucleus form factors and differential
