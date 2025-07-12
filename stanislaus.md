@@ -1,6 +1,6 @@
 [Home](index.html)
 
-# Stanislaus national forest
+# Stanislaus National Forest
 
 <img src='images/stairs.jpg' id="decoration"/>
 

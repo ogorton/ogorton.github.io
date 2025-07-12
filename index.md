@@ -334,4 +334,4 @@ Last update: 2025-07-03.
 \
 \
 
-[Stanislaus national forest](stanislaus.html)
+[Stanislaus](stanislaus.html)
