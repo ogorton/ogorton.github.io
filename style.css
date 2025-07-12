@@ -25,6 +25,11 @@ h2 {
  float:right;
  margin:0em 0em 0em 0em;
 }
+#decoration {
+ float:center;
+ margin:0em 0em 0em 0em;
+ max-width: 45em;
+}
 
 a {
   text-decoration: none;
