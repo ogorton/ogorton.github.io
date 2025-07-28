@@ -1,6 +1,6 @@
 # Oliver C. Gorton
 
-<img src='images/oliver.jpg' width="125" id="profile_pic"/>
+<img src='images/oliver.png' width="125" id="profile_pic"/>
 
 Postdoctoral Research Staff at Lawrence Livermore National Laboratory\
 Nuclear Data and Theory Group // Nuclear and Chemical Sciences Division
