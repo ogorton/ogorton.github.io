@@ -10,6 +10,8 @@ Nuclear Data and Theory Group // Nuclear and Chemical Sciences Division
 [Google Scholar](https://scholar.google.com/citations?user=jaCfxjgAAAAJ&hl=en&oi=ao) \
 ORC ID: [0000-0003-3643-9640](https://orcid.org/0000-0003-3643-9640)
 
+[Shell model dimensions](nuclearchart.html)
+
 
 On this page: [Research interests](#research-interests), [Research
 experience](#research-experience), [Journal papers](#journal-papers),

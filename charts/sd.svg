@@ -1,0 +1,1770 @@
+<?xml version="1.0" encoding="utf-8"  standalone="no"?>
+<svg 
+ viewBox="0 0 400 400"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+
+<title>Gnuplot</title>
+<desc>Produced by GNUPLOT 6.0.3 patchlevel 3 </desc>
+
+<g id="gnuplot_canvas">
+
+<rect x="0" y="0" width="400" height="400" fill="#ffffff"/>
+<defs>
+
+	<circle id='gpDot' r='0.5' stroke-width='0.5' stroke='currentColor'/>
+	<path id='gpPt0' stroke-width='0.222' stroke='currentColor' d='M-1,0 h2 M0,-1 v2'/>
+	<path id='gpPt1' stroke-width='0.222' stroke='currentColor' d='M-1,-1 L1,1 M1,-1 L-1,1'/>
+	<path id='gpPt2' stroke-width='0.222' stroke='currentColor' d='M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1'/>
+	<rect id='gpPt3' stroke-width='0.222' stroke='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<rect id='gpPt4' stroke-width='0.222' stroke='currentColor' fill='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<circle id='gpPt5' stroke-width='0.222' stroke='currentColor' cx='0' cy='0' r='1'/>
+	<use xlink:href='#gpPt5' id='gpPt6' fill='currentColor' stroke='none'/>
+	<path id='gpPt7' stroke-width='0.222' stroke='currentColor' d='M0,-1.33 L-1.33,0.67 L1.33,0.67 z'/>
+	<use xlink:href='#gpPt7' id='gpPt8' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt7' id='gpPt9' stroke='currentColor' transform='rotate(180)'/>
+	<use xlink:href='#gpPt9' id='gpPt10' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt3' id='gpPt11' stroke='currentColor' transform='rotate(45)'/>
+	<use xlink:href='#gpPt11' id='gpPt12' fill='currentColor' stroke='none'/>
+	<path id='gpPt13' stroke-width='0.222' stroke='currentColor' d='M0,1.330 L1.265,0.411 L0.782,-1.067 L-0.782,-1.076 L-1.265,0.411 z'/>
+	<use xlink:href='#gpPt13' id='gpPt14' fill='currentColor' stroke='none'/>
+	<filter id='textbox' filterUnits='objectBoundingBox' x='0' y='0' height='1' width='1'>
+	  <feFlood flood-color='#FFFFFF' flood-opacity='1' result='bgnd'/>
+	  <feComposite in='SourceGraphic' in2='bgnd' operator='atop'/>
+	</filter>
+	<filter id='greybox' filterUnits='objectBoundingBox' x='0' y='0' height='1' width='1'>
+	  <feFlood flood-color='lightgrey' flood-opacity='1' result='grey'/>
+	  <feComposite in='SourceGraphic' in2='grey' operator='atop'/>
+	</filter>
+</defs>
+<g fill="none" color="#FFFFFF" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(194, 231, 181)' points = '265.10,370.53 289.31,370.53 289.31,345.54 265.10,345.54 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M265.10,370.53 L265.10,345.54 L289.31,345.54 L289.31,370.53 L265.10,370.53 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(217, 240, 179)' points = '289.51,370.53 313.71,370.53 313.71,345.54 289.51,345.54 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M289.51,370.53 L289.51,345.54 L313.71,345.54 L313.71,370.53 L289.51,370.53 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(145, 212, 185)' points = '213.85,370.53 238.06,370.53 238.06,345.54 213.85,345.54 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M213.85,370.53 L213.85,345.54 L238.06,345.54 L238.06,370.53 L213.85,370.53 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(161, 218, 184)' points = '238.26,370.53 262.47,370.53 262.47,345.54 238.26,345.54 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M238.26,370.53 L238.26,345.54 L262.47,345.54 L262.47,370.53 L238.26,370.53 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(217, 240, 179)' points = '90.03,369.87 112.97,369.87 112.97,346.20 90.03,346.20 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M90.03,369.87 L90.03,346.20 L112.97,346.20 L112.97,369.87 L90.03,369.87 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(145, 212, 185)' points = '162.61,370.53 186.82,370.53 186.82,345.54 162.61,345.54 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M162.61,370.53 L162.61,345.54 L186.82,345.54 L186.82,370.53 L162.61,370.53 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(138, 209, 186)' points = '187.01,370.53 211.22,370.53 211.22,345.54 187.01,345.54 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M187.01,370.53 L187.01,345.54 L211.22,345.54 L211.22,370.53 L187.01,370.53 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(194, 231, 181)' points = '113.80,370.53 138.01,370.53 138.01,345.54 113.80,345.54 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M113.80,370.53 L113.80,345.54 L138.01,345.54 L138.01,370.53 L113.80,370.53 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(161, 218, 184)' points = '138.20,370.53 162.41,370.53 162.41,345.54 138.20,345.54 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M138.20,370.53 L138.20,345.54 L162.41,345.54 L162.41,370.53 L138.20,370.53 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(255, 255, 217)' points = '338.31,370.53 362.52,370.53 362.52,345.54 338.31,345.54 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M338.31,370.53 L338.31,345.54 L362.52,345.54 L362.52,370.53 L338.31,370.53 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(255, 255, 217)' points = '33.90,369.87 56.84,369.87 56.84,346.20 33.90,346.20 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M33.90,369.87 L33.90,346.20 L56.84,346.20 L56.84,369.87 L33.90,369.87 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(244, 251, 192)' points = '65.63,369.87 88.57,369.87 88.57,346.20 65.63,346.20 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M65.63,369.87 L65.63,346.20 L88.57,346.20 L88.57,369.87 L65.63,369.87 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(142, 211, 186)' points = '289.51,337.78 313.71,337.78 313.71,312.80 289.51,312.80 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M289.51,337.78 L289.51,312.80 L313.71,312.80 L313.71,337.78 L289.51,337.78 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(202, 234, 180)' points = '313.91,337.78 338.12,337.78 338.12,312.80 313.91,312.80 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M313.91,337.78 L313.91,312.80 L338.12,312.80 L338.12,337.78 L313.91,337.78 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 74, 185, 195)' points = '238.26,337.78 262.47,337.78 262.47,312.80 238.26,312.80 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M238.26,337.78 L238.26,312.80 L262.47,312.80 L262.47,337.78 L238.26,337.78 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(100, 195, 191)' points = '265.10,337.78 289.31,337.78 289.31,312.80 265.10,312.80 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M265.10,337.78 L265.10,312.80 L289.31,312.80 L289.31,337.78 L265.10,337.78 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(100, 195, 191)' points = '265.10,337.78 289.31,337.78 289.31,312.80 265.10,312.80 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M265.10,337.78 L265.10,312.80 L289.31,312.80 L289.31,337.78 L265.10,337.78 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(142, 211, 186)' points = '90.03,337.13 112.97,337.13 112.97,313.45 90.03,313.45 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M90.03,337.13 L90.03,313.45 L112.97,313.45 L112.97,337.13 L90.03,337.13 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(100, 195, 191)' points = '113.80,337.78 138.01,337.78 138.01,312.80 113.80,312.80 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M113.80,337.78 L113.80,312.80 L138.01,312.80 L138.01,337.78 L113.80,337.78 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 58, 175, 195)' points = '187.01,337.78 211.22,337.78 211.22,312.80 187.01,312.80 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M187.01,337.78 L187.01,312.80 L211.22,312.80 L211.22,337.78 L187.01,337.78 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 61, 178, 196)' points = '213.85,337.78 238.06,337.78 238.06,312.80 213.85,312.80 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M213.85,337.78 L213.85,312.80 L238.06,312.80 L238.06,337.78 L213.85,337.78 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 74, 185, 195)' points = '138.20,337.78 162.41,337.78 162.41,312.80 138.20,312.80 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M138.20,337.78 L138.20,312.80 L162.41,312.80 L162.41,337.78 L138.20,337.78 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 61, 178, 196)' points = '162.61,337.78 186.82,337.78 186.82,312.80 162.61,312.80 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M162.61,337.78 L162.61,312.80 L186.82,312.80 L186.82,337.78 L162.61,337.78 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(244, 251, 192)' points = '338.31,337.78 362.52,337.78 362.52,312.80 338.31,312.80 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M338.31,337.78 L338.31,312.80 L362.52,312.80 L362.52,337.78 L338.31,337.78 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(244, 251, 192)' points = '33.27,337.78 57.48,337.78 57.48,312.80 33.27,312.80 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M33.27,337.78 L33.27,312.80 L57.48,312.80 L57.48,337.78 L33.27,337.78 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(202, 234, 180)' points = '64.99,337.78 89.20,337.78 89.20,312.80 64.99,312.80 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M64.99,337.78 L64.99,312.80 L89.20,312.80 L89.20,337.78 L64.99,337.78 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 83, 189, 193)' points = '90.03,311.94 112.97,311.94 112.97,288.27 90.03,288.27 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M90.03,311.94 L90.03,288.27 L112.97,288.27 L112.97,311.94 L90.03,311.94 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 52, 169, 195)' points = '114.44,311.94 137.37,311.94 137.37,288.27 114.44,288.27 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M114.44,311.94 L114.44,288.27 L137.37,288.27 L137.37,311.94 L114.44,311.94 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 36, 153, 193)' points = '138.84,311.94 161.78,311.94 161.78,288.27 138.84,288.27 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M138.84,311.94 L138.84,288.27 L161.78,288.27 L161.78,311.94 L138.84,311.94 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29, 143, 191)' points = '162.61,312.60 186.82,312.60 186.82,287.61 162.61,287.61 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M162.61,312.60 L162.61,287.61 L186.82,287.61 L186.82,312.60 L162.61,312.60 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 30, 138, 189)' points = '187.01,312.60 211.22,312.60 211.22,287.61 187.01,287.61 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M187.01,312.60 L187.01,287.61 L211.22,287.61 L211.22,312.60 L187.01,312.60 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29, 143, 191)' points = '213.85,312.60 238.06,312.60 238.06,287.61 213.85,287.61 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M213.85,312.60 L213.85,287.61 L238.06,287.61 L238.06,312.60 L213.85,312.60 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 36, 153, 193)' points = '238.26,312.60 262.47,312.60 262.47,287.61 238.26,287.61 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M238.26,312.60 L238.26,287.61 L262.47,287.61 L262.47,312.60 L238.26,312.60 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 52, 169, 195)' points = '265.10,312.60 289.31,312.60 289.31,287.61 265.10,287.61 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M265.10,312.60 L265.10,287.61 L289.31,287.61 L289.31,312.60 L265.10,312.60 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 83, 189, 193)' points = '289.51,312.60 313.71,312.60 313.71,287.61 289.51,287.61 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M289.51,312.60 L289.51,287.61 L313.71,287.61 L313.71,312.60 L289.51,312.60 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(142, 211, 186)' points = '313.91,312.60 338.12,312.60 338.12,287.61 313.91,287.61 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M313.91,312.60 L313.91,287.61 L338.12,287.61 L338.12,312.60 L313.91,312.60 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(217, 240, 179)' points = '338.31,312.60 362.52,312.60 362.52,287.61 338.31,287.61 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M338.31,312.60 L338.31,287.61 L362.52,287.61 L362.52,312.60 L338.31,312.60 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(142, 211, 186)' points = '64.99,312.60 89.20,312.60 89.20,287.61 64.99,287.61 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M64.99,312.60 L64.99,287.61 L89.20,287.61 L89.20,312.60 L64.99,312.60 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(217, 240, 179)' points = '33.27,312.60 57.48,312.60 57.48,287.61 33.27,287.61 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M33.27,312.60 L33.27,287.61 L57.48,287.61 L57.48,312.60 L33.27,312.60 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(100, 195, 191)' points = '64.99,287.41 89.20,287.41 89.20,262.42 64.99,262.42 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M64.99,287.41 L64.99,262.42 L89.20,262.42 L89.20,287.41 L64.99,287.41 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(194, 231, 181)' points = '33.27,287.41 57.48,287.41 57.48,262.42 33.27,262.42 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M33.27,287.41 L33.27,262.42 L57.48,262.42 L57.48,287.41 L33.27,287.41 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(194, 231, 181)' points = '338.31,287.41 362.52,287.41 362.52,262.42 338.31,262.42 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M338.31,287.41 L338.31,262.42 L362.52,262.42 L362.52,287.41 L338.31,287.41 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 52, 169, 195)' points = '89.40,287.41 113.61,287.41 113.61,262.42 89.40,262.42 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M89.40,287.41 L89.40,262.42 L113.61,262.42 L113.61,287.41 L89.40,287.41 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31, 122, 181)' points = '138.84,286.75 161.78,286.75 161.78,263.08 138.84,263.08 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M138.84,286.75 L138.84,263.08 L161.78,263.08 L161.78,286.75 L138.84,286.75 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29, 145, 192)' points = '113.80,287.41 138.01,287.41 138.01,262.42 113.80,262.42 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M113.80,287.41 L113.80,262.42 L138.01,262.42 L138.01,287.41 L113.80,287.41 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33, 105, 173)' points = '187.01,287.41 211.22,287.41 211.22,262.42 187.01,262.42 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M187.01,287.41 L187.01,262.42 L211.22,262.42 L211.22,287.41 L187.01,287.41 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33, 109, 175)' points = '162.61,287.41 186.82,287.41 186.82,262.42 162.61,262.42 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M162.61,287.41 L162.61,262.42 L186.82,262.42 L186.82,287.41 L162.61,287.41 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31, 122, 181)' points = '238.26,287.41 262.47,287.41 262.47,262.42 238.26,262.42 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M238.26,287.41 L238.26,262.42 L262.47,262.42 L262.47,287.41 L238.26,287.41 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33, 109, 175)' points = '213.85,287.41 238.06,287.41 238.06,262.42 213.85,262.42 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M213.85,287.41 L213.85,262.42 L238.06,262.42 L238.06,287.41 L213.85,287.41 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 52, 169, 195)' points = '289.51,287.41 313.71,287.41 313.71,262.42 289.51,262.42 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M289.51,287.41 L289.51,262.42 L313.71,262.42 L313.71,287.41 L289.51,287.41 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29, 145, 192)' points = '265.10,287.41 289.31,287.41 289.31,262.42 265.10,262.42 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M265.10,287.41 L265.10,262.42 L289.31,262.42 L289.31,287.41 L265.10,287.41 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(100, 195, 191)' points = '313.91,287.41 338.12,287.41 338.12,262.42 313.91,262.42 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M313.91,287.41 L313.91,262.42 L338.12,262.42 L338.12,287.41 L313.91,287.41 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31, 122, 181)' points = '113.80,262.22 138.01,262.22 138.01,237.24 113.80,237.24 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M113.80,262.22 L113.80,237.24 L138.01,237.24 L138.01,262.22 L113.80,262.22 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 36, 153, 193)' points = '89.40,262.22 113.61,262.22 113.61,237.24 89.40,237.24 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M89.40,262.22 L89.40,237.24 L113.61,237.24 L113.61,262.22 L89.40,262.22 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31,  87, 163)' points = '163.24,261.57 186.18,261.57 186.18,237.89 163.24,237.89 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M163.24,261.57 L163.24,237.89 L186.18,237.89 L186.18,261.57 L163.24,261.57 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33,  99, 171)' points = '138.84,261.57 161.78,261.57 161.78,237.89 138.84,237.89 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M138.84,261.57 L138.84,237.89 L161.78,237.89 L161.78,261.57 L138.84,261.57 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31,  87, 163)' points = '213.85,262.22 238.06,262.22 238.06,237.24 213.85,237.24 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M213.85,262.22 L213.85,237.24 L238.06,237.24 L238.06,262.22 L213.85,262.22 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29,  82, 160)' points = '187.65,261.57 210.58,261.57 210.58,237.89 187.65,237.89 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M187.65,261.57 L187.65,237.89 L210.58,237.89 L210.58,261.57 L187.65,261.57 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31, 122, 181)' points = '265.10,262.22 289.31,262.22 289.31,237.24 265.10,237.24 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M265.10,262.22 L265.10,237.24 L289.31,237.24 L289.31,262.22 L265.10,262.22 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33,  99, 171)' points = '238.26,262.22 262.47,262.22 262.47,237.24 238.26,237.24 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M238.26,262.22 L238.26,237.24 L262.47,237.24 L262.47,262.22 L238.26,262.22 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 74, 185, 195)' points = '313.91,262.22 338.12,262.22 338.12,237.24 313.91,237.24 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M313.91,262.22 L313.91,237.24 L338.12,237.24 L338.12,262.22 L313.91,262.22 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 36, 153, 193)' points = '289.51,262.22 313.71,262.22 313.71,237.24 289.51,237.24 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M289.51,262.22 L289.51,237.24 L313.71,237.24 L313.71,262.22 L289.51,262.22 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(161, 218, 184)' points = '338.31,262.22 362.52,262.22 362.52,237.24 338.31,237.24 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M338.31,262.22 L338.31,237.24 L362.52,237.24 L362.52,262.22 L338.31,262.22 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 74, 185, 195)' points = '64.99,262.22 89.20,262.22 89.20,237.24 64.99,237.24 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M64.99,262.22 L64.99,237.24 L89.20,237.24 L89.20,262.22 L64.99,262.22 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(161, 218, 184)' points = '33.27,262.22 57.48,262.22 57.48,237.24 33.27,237.24 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M33.27,262.22 L33.27,237.24 L57.48,237.24 L57.48,262.22 L33.27,262.22 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 61, 178, 196)' points = '64.99,237.04 89.20,237.04 89.20,212.05 64.99,212.05 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M64.99,237.04 L64.99,212.05 L89.20,212.05 L89.20,237.04 L64.99,237.04 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(145, 212, 185)' points = '33.27,237.04 57.48,237.04 57.48,212.05 33.27,212.05 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M33.27,237.04 L33.27,212.05 L57.48,212.05 L57.48,237.04 L33.27,237.04 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(145, 212, 185)' points = '338.31,237.04 362.52,237.04 362.52,212.05 338.31,212.05 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M338.31,237.04 L338.31,212.05 L362.52,212.05 L362.52,237.04 L338.31,237.04 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33, 109, 175)' points = '113.80,237.04 138.01,237.04 138.01,212.05 113.80,212.05 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M113.80,237.04 L113.80,212.05 L138.01,212.05 L138.01,237.04 L113.80,237.04 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33, 109, 175)' points = '113.80,237.04 138.01,237.04 138.01,212.05 113.80,212.05 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M113.80,237.04 L113.80,212.05 L138.01,212.05 L138.01,237.04 L113.80,237.04 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31,  87, 163)' points = '138.20,237.04 162.41,237.04 162.41,212.05 138.20,212.05 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M138.20,237.04 L138.20,212.05 L162.41,212.05 L162.41,237.04 L138.20,237.04 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29, 143, 191)' points = '89.40,237.04 113.61,237.04 113.61,212.05 89.40,212.05 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M89.40,237.04 L89.40,212.05 L113.61,212.05 L113.61,237.04 L89.40,237.04 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 25,  74, 153)' points = '213.85,237.04 238.06,237.04 238.06,212.05 213.85,212.05 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M213.85,237.04 L213.85,212.05 L238.06,212.05 L238.06,237.04 L213.85,237.04 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31,  87, 163)' points = '238.26,237.04 262.47,237.04 262.47,212.05 238.26,212.05 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M238.26,237.04 L238.26,212.05 L262.47,212.05 L262.47,237.04 L238.26,237.04 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 25,  74, 153)' points = '162.61,237.04 186.82,237.04 186.82,212.05 162.61,212.05 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M162.61,237.04 L162.61,212.05 L186.82,212.05 L186.82,237.04 L162.61,237.04 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 25,  74, 153)' points = '162.61,237.04 186.82,237.04 186.82,212.05 162.61,212.05 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M162.61,237.04 L162.61,212.05 L186.82,212.05 L186.82,237.04 L162.61,237.04 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 23,  70, 151)' points = '187.65,236.38 210.58,236.38 210.58,212.70 187.65,212.70 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M187.65,236.38 L187.65,212.70 L210.58,212.70 L210.58,236.38 L187.65,236.38 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 61, 178, 196)' points = '313.91,237.04 338.12,237.04 338.12,212.05 313.91,212.05 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M313.91,237.04 L313.91,212.05 L338.12,212.05 L338.12,237.04 L313.91,237.04 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33, 109, 175)' points = '265.10,237.04 289.31,237.04 289.31,212.05 265.10,212.05 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M265.10,237.04 L265.10,212.05 L289.31,212.05 L289.31,237.04 L265.10,237.04 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29, 143, 191)' points = '289.51,237.04 313.71,237.04 313.71,212.05 289.51,212.05 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M289.51,237.04 L289.51,212.05 L313.71,212.05 L313.71,237.04 L289.51,237.04 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29,  82, 160)' points = '138.20,211.85 162.41,211.85 162.41,186.86 138.20,186.86 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M138.20,211.85 L138.20,186.86 L162.41,186.86 L162.41,211.85 L138.20,211.85 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 23,  70, 151)' points = '162.61,211.85 186.82,211.85 186.82,186.86 162.61,186.86 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M162.61,211.85 L162.61,186.86 L186.82,186.86 L186.82,211.85 L162.61,211.85 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 30, 138, 189)' points = '89.40,211.85 113.61,211.85 113.61,186.86 89.40,186.86 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M89.40,211.85 L89.40,186.86 L113.61,186.86 L113.61,211.85 L89.40,211.85 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33, 105, 173)' points = '113.80,211.85 138.01,211.85 138.01,186.86 113.80,186.86 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M113.80,211.85 L113.80,186.86 L138.01,186.86 L138.01,211.85 L113.80,211.85 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29,  82, 160)' points = '238.89,211.19 261.83,211.19 261.83,187.52 238.89,187.52 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M238.89,211.19 L238.89,187.52 L261.83,187.52 L261.83,211.19 L238.89,211.19 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33, 105, 173)' points = '265.10,211.85 289.31,211.85 289.31,186.86 265.10,186.86 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M265.10,211.85 L265.10,186.86 L289.31,186.86 L289.31,211.85 L265.10,211.85 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 21,  65, 147)' points = '187.65,211.19 210.58,211.19 210.58,187.52 187.65,187.52 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M187.65,211.19 L187.65,187.52 L210.58,187.52 L210.58,211.19 L187.65,211.19 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 23,  70, 151)' points = '214.49,211.19 237.43,211.19 237.43,187.52 214.49,187.52 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M214.49,211.19 L214.49,187.52 L237.43,187.52 L237.43,211.19 L214.49,211.19 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 30, 138, 189)' points = '289.51,211.85 313.71,211.85 313.71,186.86 289.51,186.86 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M289.51,211.85 L289.51,186.86 L313.71,186.86 L313.71,211.85 L289.51,211.85 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 58, 175, 195)' points = '313.91,211.85 338.12,211.85 338.12,186.86 313.91,186.86 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M313.91,211.85 L313.91,186.86 L338.12,186.86 L338.12,211.85 L313.91,211.85 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(138, 209, 186)' points = '338.31,211.85 362.52,211.85 362.52,186.86 338.31,186.86 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M338.31,211.85 L338.31,186.86 L362.52,186.86 L362.52,211.85 L338.31,211.85 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 58, 175, 195)' points = '64.99,211.85 89.20,211.85 89.20,186.86 64.99,186.86 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M64.99,211.85 L64.99,186.86 L89.20,186.86 L89.20,211.85 L64.99,211.85 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(138, 209, 186)' points = '33.27,211.85 57.48,211.85 57.48,186.86 33.27,186.86 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M33.27,211.85 L33.27,186.86 L57.48,186.86 L57.48,211.85 L33.27,211.85 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(145, 212, 185)' points = '338.31,184.14 362.52,184.14 362.52,159.16 338.31,159.16 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M338.31,184.14 L338.31,159.16 L362.52,159.16 L362.52,184.14 L338.31,184.14 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 23,  70, 151)' points = '187.01,184.14 211.22,184.14 211.22,159.16 187.01,159.16 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M187.01,184.14 L187.01,159.16 L211.22,159.16 L211.22,184.14 L187.01,184.14 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 25,  74, 153)' points = '162.61,184.14 186.82,184.14 186.82,159.16 162.61,159.16 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M162.61,184.14 L162.61,159.16 L186.82,159.16 L186.82,184.14 L162.61,184.14 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31,  87, 163)' points = '138.20,184.14 162.41,184.14 162.41,159.16 138.20,159.16 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M138.20,184.14 L138.20,159.16 L162.41,159.16 L162.41,184.14 L138.20,184.14 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33, 109, 175)' points = '113.80,184.14 138.01,184.14 138.01,159.16 113.80,159.16 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M113.80,184.14 L113.80,159.16 L138.01,159.16 L138.01,184.14 L113.80,184.14 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29, 143, 191)' points = '289.51,184.14 313.71,184.14 313.71,159.16 289.51,159.16 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M289.51,184.14 L289.51,159.16 L313.71,159.16 L313.71,184.14 L289.51,184.14 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33, 109, 175)' points = '265.10,184.14 289.31,184.14 289.31,159.16 265.10,159.16 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M265.10,184.14 L265.10,159.16 L289.31,159.16 L289.31,184.14 L265.10,184.14 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31,  87, 163)' points = '238.89,183.49 261.83,183.49 261.83,159.81 238.89,159.81 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M238.89,183.49 L238.89,159.81 L261.83,159.81 L261.83,183.49 L238.89,183.49 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 25,  74, 153)' points = '213.85,184.14 238.06,184.14 238.06,159.16 213.85,159.16 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M213.85,184.14 L213.85,159.16 L238.06,159.16 L238.06,184.14 L213.85,184.14 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29, 143, 191)' points = '89.40,184.14 113.61,184.14 113.61,159.16 89.40,159.16 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M89.40,184.14 L89.40,159.16 L113.61,159.16 L113.61,184.14 L89.40,184.14 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 61, 178, 196)' points = '313.91,184.14 338.12,184.14 338.12,159.16 313.91,159.16 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M313.91,184.14 L313.91,159.16 L338.12,159.16 L338.12,184.14 L313.91,184.14 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31,  87, 163)' points = '213.85,158.96 238.06,158.96 238.06,133.97 213.85,133.97 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M213.85,158.96 L213.85,133.97 L238.06,133.97 L238.06,158.96 L213.85,158.96 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29,  82, 160)' points = '187.01,158.96 211.22,158.96 211.22,133.97 187.01,133.97 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M187.01,158.96 L187.01,133.97 L211.22,133.97 L211.22,158.96 L187.01,158.96 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31,  87, 163)' points = '162.61,158.96 186.82,158.96 186.82,133.97 162.61,133.97 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M162.61,158.96 L162.61,133.97 L186.82,133.97 L186.82,158.96 L162.61,158.96 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33,  99, 171)' points = '138.20,158.96 162.41,158.96 162.41,133.97 138.20,133.97 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M138.20,158.96 L138.20,133.97 L162.41,133.97 L162.41,158.96 L138.20,158.96 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 74, 185, 195)' points = '313.91,158.96 338.12,158.96 338.12,133.97 313.91,133.97 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M313.91,158.96 L313.91,133.97 L338.12,133.97 L338.12,158.96 L313.91,158.96 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 36, 153, 193)' points = '290.14,158.30 313.08,158.30 313.08,134.63 290.14,134.63 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M290.14,158.30 L290.14,134.63 L313.08,134.63 L313.08,158.30 L290.14,158.30 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31, 122, 181)' points = '265.74,158.30 288.68,158.30 288.68,134.63 265.74,134.63 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M265.74,158.30 L265.74,134.63 L288.68,134.63 L288.68,158.30 L265.74,158.30 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33,  99, 171)' points = '238.89,158.30 261.83,158.30 261.83,134.63 238.89,134.63 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M238.89,158.30 L238.89,134.63 L261.83,134.63 L261.83,158.30 L238.89,158.30 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31, 122, 181)' points = '113.80,158.96 138.01,158.96 138.01,133.97 113.80,133.97 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M113.80,158.96 L113.80,133.97 L138.01,133.97 L138.01,158.96 L113.80,158.96 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 36, 153, 193)' points = '89.40,158.96 113.61,158.96 113.61,133.97 89.40,133.97 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M89.40,158.96 L89.40,133.97 L113.61,133.97 L113.61,158.96 L89.40,158.96 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(161, 218, 184)' points = '338.95,158.30 361.89,158.30 361.89,134.63 338.95,134.63 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M338.95,158.30 L338.95,134.63 L361.89,134.63 L361.89,158.30 L338.95,158.30 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(194, 231, 181)' points = '338.95,130.60 361.89,130.60 361.89,106.92 338.95,106.92 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M338.95,130.60 L338.95,106.92 L361.89,106.92 L361.89,130.60 L338.95,130.60 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29, 145, 192)' points = '265.10,131.25 289.31,131.25 289.31,106.26 265.10,106.26 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M265.10,131.25 L265.10,106.26 L289.31,106.26 L289.31,131.25 L265.10,131.25 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29, 145, 192)' points = '265.10,131.25 289.31,131.25 289.31,106.26 265.10,106.26 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M265.10,131.25 L265.10,106.26 L289.31,106.26 L289.31,131.25 L265.10,131.25 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 52, 169, 195)' points = '290.14,130.60 313.08,130.60 313.08,106.92 290.14,106.92 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M290.14,130.60 L290.14,106.92 L313.08,106.92 L313.08,130.60 L290.14,130.60 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(100, 195, 191)' points = '313.91,131.25 338.12,131.25 338.12,106.26 313.91,106.26 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M313.91,131.25 L313.91,106.26 L338.12,106.26 L338.12,131.25 L313.91,131.25 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33, 109, 175)' points = '162.61,131.25 186.82,131.25 186.82,106.26 162.61,106.26 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M162.61,131.25 L162.61,106.26 L186.82,106.26 L186.82,131.25 L162.61,131.25 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33, 105, 173)' points = '187.01,131.25 211.22,131.25 211.22,106.26 187.01,106.26 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M187.01,131.25 L187.01,106.26 L211.22,106.26 L211.22,131.25 L187.01,131.25 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 33, 109, 175)' points = '213.85,131.25 238.06,131.25 238.06,106.26 213.85,106.26 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M213.85,131.25 L213.85,106.26 L238.06,106.26 L238.06,131.25 L213.85,131.25 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31, 122, 181)' points = '238.26,131.25 262.47,131.25 262.47,106.26 238.26,106.26 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M238.26,131.25 L238.26,106.26 L262.47,106.26 L262.47,131.25 L238.26,131.25 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29, 145, 192)' points = '113.80,131.25 138.01,131.25 138.01,106.26 113.80,106.26 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M113.80,131.25 L113.80,106.26 L138.01,106.26 L138.01,131.25 L113.80,131.25 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 31, 122, 181)' points = '138.20,131.25 162.41,131.25 162.41,106.26 138.20,106.26 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M138.20,131.25 L138.20,106.26 L162.41,106.26 L162.41,131.25 L138.20,131.25 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 83, 189, 193)' points = '290.14,105.41 313.08,105.41 313.08,81.73 290.14,81.73 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M290.14,105.41 L290.14,81.73 L313.08,81.73 L313.08,105.41 L290.14,105.41 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(142, 211, 186)' points = '313.91,106.06 338.12,106.06 338.12,81.08 313.91,81.08 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M313.91,106.06 L313.91,81.08 L338.12,81.08 L338.12,106.06 L313.91,106.06 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 30, 138, 189)' points = '187.01,106.06 211.22,106.06 211.22,81.08 187.01,81.08 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M187.01,106.06 L187.01,81.08 L211.22,81.08 L211.22,106.06 L187.01,106.06 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29, 143, 191)' points = '213.85,106.06 238.06,106.06 238.06,81.08 213.85,81.08 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M213.85,106.06 L213.85,81.08 L238.06,81.08 L238.06,106.06 L213.85,106.06 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 36, 153, 193)' points = '238.26,106.06 262.47,106.06 262.47,81.08 238.26,81.08 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M238.26,106.06 L238.26,81.08 L262.47,81.08 L262.47,106.06 L238.26,106.06 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 52, 169, 195)' points = '265.10,106.06 289.31,106.06 289.31,81.08 265.10,81.08 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M265.10,106.06 L265.10,81.08 L289.31,81.08 L289.31,106.06 L265.10,106.06 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 52, 169, 195)' points = '113.80,106.06 138.01,106.06 138.01,81.08 113.80,81.08 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M113.80,106.06 L113.80,81.08 L138.01,81.08 L138.01,106.06 L113.80,106.06 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 36, 153, 193)' points = '138.20,106.06 162.41,106.06 162.41,81.08 138.20,81.08 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M138.20,106.06 L138.20,81.08 L162.41,81.08 L162.41,106.06 L138.20,106.06 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 29, 143, 191)' points = '162.61,106.06 186.82,106.06 186.82,81.08 162.61,81.08 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M162.61,106.06 L162.61,81.08 L186.82,81.08 L186.82,106.06 L162.61,106.06 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(217, 240, 179)' points = '338.95,105.41 361.89,105.41 361.89,81.73 338.95,81.73 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M338.95,105.41 L338.95,81.73 L361.89,81.73 L361.89,105.41 L338.95,105.41 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(244, 251, 192)' points = '338.95,80.22 361.89,80.22 361.89,56.55 338.95,56.55 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M338.95,80.22 L338.95,56.55 L361.89,56.55 L361.89,80.22 L338.95,80.22 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(202, 234, 180)' points = '313.91,80.88 338.12,80.88 338.12,55.89 313.91,55.89 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M313.91,80.88 L313.91,55.89 L338.12,55.89 L338.12,80.88 L313.91,80.88 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(202, 234, 180)' points = '313.91,80.88 338.12,80.88 338.12,55.89 313.91,55.89 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M313.91,80.88 L313.91,55.89 L338.12,55.89 L338.12,80.88 L313.91,80.88 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 74, 185, 195)' points = '238.26,80.88 262.47,80.88 262.47,55.89 238.26,55.89 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M238.26,80.88 L238.26,55.89 L262.47,55.89 L262.47,80.88 L238.26,80.88 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(142, 211, 186)' points = '289.51,80.88 313.71,80.88 313.71,55.89 289.51,55.89 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M289.51,80.88 L289.51,55.89 L313.71,55.89 L313.71,80.88 L289.51,80.88 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(100, 195, 191)' points = '265.10,80.88 289.31,80.88 289.31,55.89 265.10,55.89 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M265.10,80.88 L265.10,55.89 L289.31,55.89 L289.31,80.88 L265.10,80.88 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb( 74, 185, 195)' points = '138.20,80.88 162.41,80.88 162.41,55.89 138.20,55.89 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M138.20,80.88 L138.20,55.89 L162.41,55.89 L162.41,80.88 L138.20,80.88 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(244, 251, 192)' points = '313.91,55.69 338.12,55.69 338.12,30.70 313.91,30.70 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M313.91,55.69 L313.91,30.70 L338.12,30.70 L338.12,55.69 L313.91,55.69 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(217, 240, 179)' points = '289.51,55.69 313.71,55.69 313.71,30.70 289.51,30.70 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M289.51,55.69 L289.51,30.70 L313.71,30.70 L313.71,55.69 L289.51,55.69 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(194, 231, 181)' points = '265.10,55.69 289.31,55.69 289.31,30.70 265.10,30.70 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M265.10,55.69 L265.10,30.70 L289.31,30.70 L289.31,55.69 L265.10,55.69 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(161, 218, 184)' points = '238.26,55.69 262.47,55.69 262.47,30.70 238.26,30.70 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M238.26,55.69 L238.26,30.70 L262.47,30.70 L262.47,55.69 L238.26,55.69 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="0.20" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(145, 212, 185)' points = '213.85,55.69 238.06,55.69 238.06,30.70 213.85,30.70 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M213.85,55.69 L213.85,30.70 L238.06,30.70 L238.06,55.69 L213.85,55.69 Z  '/></g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.50" stroke-linecap="butt" stroke-linejoin="miter">
+	<g stroke='none' shape-rendering='crispEdges'>
+		<polygon fill = 'rgb(255, 255, 217)' points = '338.95,55.03 361.89,55.03 361.89,31.36 338.95,31.36 '/>
+	</g>
+	<path stroke='rgb(  0,   0,   0)'  d='M338.95,55.03 L338.95,31.36 L361.89,31.36 L361.89,55.03 L338.95,55.03 Z  '/>	<g transform="translate(277.21,368.80)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.7•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(277.21,360.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">25</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">O</tspan></text>
+	</g>
+	<g transform="translate(301.61,368.80)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(301.61,360.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">26</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">O</tspan></text>
+	</g>
+	<g transform="translate(225.96,368.80)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(225.96,360.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">23</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">O</tspan></text>
+	</g>
+	<g transform="translate(250.36,368.80)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(250.36,360.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">24</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">O</tspan></text>
+	</g>
+	<g transform="translate(101.50,368.80)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(101.50,360.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">18</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">O</tspan></text>
+	</g>
+	<g transform="translate(174.71,368.80)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(174.71,360.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">21</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">O</tspan></text>
+	</g>
+	<g transform="translate(199.12,368.80)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(199.12,360.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">22</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">O</tspan></text>
+	</g>
+	<g transform="translate(125.90,368.80)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.7•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(125.90,360.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">19</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">O</tspan></text>
+	</g>
+	<g transform="translate(150.31,368.80)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(150.31,360.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">20</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">O</tspan></text>
+	</g>
+	<g transform="translate(350.42,368.80)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">0</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(350.42,360.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">28</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">O</tspan></text>
+	</g>
+	<g transform="translate(45.37,368.80)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">0</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(45.37,360.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">16</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">O</tspan></text>
+	</g>
+	<g transform="translate(77.10,368.80)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">0</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(77.10,360.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">17</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">O</tspan></text>
+	</g>
+	<g transform="translate(301.61,336.06)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(301.61,328.22)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">27</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">F</tspan></text>
+	</g>
+	<g transform="translate(326.01,336.06)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.8•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(326.01,328.22)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">28</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">F</tspan></text>
+	</g>
+	<g transform="translate(250.36,336.06)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(250.36,328.22)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">25</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">F</tspan></text>
+	</g>
+	<g transform="translate(277.21,336.06)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(277.21,328.22)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">26</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">F</tspan></text>
+	</g>
+	<g transform="translate(277.21,336.06)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(277.21,328.22)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">26</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">F</tspan></text>
+	</g>
+	<g transform="translate(101.50,336.06)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(101.50,328.22)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">19</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">F</tspan></text>
+	</g>
+	<g transform="translate(125.90,336.06)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(125.90,328.22)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">20</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">F</tspan></text>
+	</g>
+	<g transform="translate(199.12,336.06)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.5•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(199.12,328.22)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">23</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">F</tspan></text>
+	</g>
+	<g transform="translate(225.96,336.06)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(225.96,328.22)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">24</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">F</tspan></text>
+	</g>
+	<g transform="translate(150.31,336.06)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(150.31,328.22)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">21</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">F</tspan></text>
+	</g>
+	<g transform="translate(174.71,336.06)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(174.71,328.22)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">22</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">F</tspan></text>
+	</g>
+	<g transform="translate(350.42,336.06)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">0</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(350.42,328.22)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">29</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">F</tspan></text>
+	</g>
+	<g transform="translate(45.37,336.06)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">0</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(45.37,328.22)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">17</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">F</tspan></text>
+	</g>
+	<g transform="translate(77.10,336.06)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.8•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(77.10,328.22)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">18</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">F</tspan></text>
+	</g>
+	<g transform="translate(101.50,310.87)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(101.50,303.03)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">20</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ne</tspan></text>
+	</g>
+	<g transform="translate(125.90,310.87)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(125.90,303.03)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">21</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ne</tspan></text>
+	</g>
+	<g transform="translate(150.31,310.87)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(150.31,303.03)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">22</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ne</tspan></text>
+	</g>
+	<g transform="translate(174.71,310.87)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.5•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(174.71,303.03)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">23</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ne</tspan></text>
+	</g>
+	<g transform="translate(199.12,310.87)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >7.6•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(199.12,303.03)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">24</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ne</tspan></text>
+	</g>
+	<g transform="translate(225.96,310.87)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.5•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(225.96,303.03)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">25</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ne</tspan></text>
+	</g>
+	<g transform="translate(250.36,310.87)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(250.36,303.03)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">26</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ne</tspan></text>
+	</g>
+	<g transform="translate(277.21,310.87)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(277.21,303.03)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">27</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ne</tspan></text>
+	</g>
+	<g transform="translate(301.61,310.87)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(301.61,303.03)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">28</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ne</tspan></text>
+	</g>
+	<g transform="translate(326.01,310.87)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(326.01,303.03)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">29</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ne</tspan></text>
+	</g>
+	<g transform="translate(350.42,310.87)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(350.42,303.03)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">30</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ne</tspan></text>
+	</g>
+	<g transform="translate(77.10,310.87)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(77.10,303.03)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">19</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ne</tspan></text>
+	</g>
+	<g transform="translate(45.37,310.87)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(45.37,303.03)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">18</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ne</tspan></text>
+	</g>
+	<g transform="translate(77.10,285.68)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(77.10,277.85)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">20</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Na</tspan></text>
+	</g>
+	<g transform="translate(45.37,285.68)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.7•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(45.37,277.85)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">19</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Na</tspan></text>
+	</g>
+	<g transform="translate(350.42,285.68)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.7•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(350.42,277.85)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">31</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Na</tspan></text>
+	</g>
+	<g transform="translate(101.50,285.68)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(101.50,277.85)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">21</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Na</tspan></text>
+	</g>
+	<g transform="translate(150.31,285.68)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(150.31,277.85)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">23</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Na</tspan></text>
+	</g>
+	<g transform="translate(125.90,285.68)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(125.90,277.85)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">22</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Na</tspan></text>
+	</g>
+	<g transform="translate(199.12,285.68)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(199.12,277.85)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">25</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Na</tspan></text>
+	</g>
+	<g transform="translate(174.71,285.68)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(174.71,277.85)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">24</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Na</tspan></text>
+	</g>
+	<g transform="translate(250.36,285.68)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(250.36,277.85)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">27</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Na</tspan></text>
+	</g>
+	<g transform="translate(225.96,285.68)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(225.96,277.85)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">26</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Na</tspan></text>
+	</g>
+	<g transform="translate(301.61,285.68)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(301.61,277.85)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">29</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Na</tspan></text>
+	</g>
+	<g transform="translate(277.21,285.68)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(277.21,277.85)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">28</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Na</tspan></text>
+	</g>
+	<g transform="translate(326.01,285.68)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(326.01,277.85)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">30</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Na</tspan></text>
+	</g>
+	<g transform="translate(125.90,260.49)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(125.90,252.66)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">23</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Mg</tspan></text>
+	</g>
+	<g transform="translate(101.50,260.49)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(101.50,252.66)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">22</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Mg</tspan></text>
+	</g>
+	<g transform="translate(174.71,260.49)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(174.71,252.66)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">25</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Mg</tspan></text>
+	</g>
+	<g transform="translate(150.31,260.49)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(150.31,252.66)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">24</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Mg</tspan></text>
+	</g>
+	<g transform="translate(225.96,260.49)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(225.96,252.66)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">27</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Mg</tspan></text>
+	</g>
+	<g transform="translate(199.12,260.49)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >5.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(199.12,252.66)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">26</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Mg</tspan></text>
+	</g>
+	<g transform="translate(277.21,260.49)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(277.21,252.66)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">29</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Mg</tspan></text>
+	</g>
+	<g transform="translate(250.36,260.49)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(250.36,252.66)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">28</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Mg</tspan></text>
+	</g>
+	<g transform="translate(326.01,260.49)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(326.01,252.66)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">31</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Mg</tspan></text>
+	</g>
+	<g transform="translate(301.61,260.49)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(301.61,252.66)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">30</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Mg</tspan></text>
+	</g>
+	<g transform="translate(350.42,260.49)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(350.42,252.66)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">32</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Mg</tspan></text>
+	</g>
+	<g transform="translate(77.10,260.49)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(77.10,252.66)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">21</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Mg</tspan></text>
+	</g>
+	<g transform="translate(45.37,260.49)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(45.37,252.66)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">20</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Mg</tspan></text>
+	</g>
+	<g transform="translate(77.10,235.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(77.10,227.47)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">22</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Al</tspan></text>
+	</g>
+	<g transform="translate(45.37,235.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(45.37,227.47)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">21</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Al</tspan></text>
+	</g>
+	<g transform="translate(350.42,235.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(350.42,227.47)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">33</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Al</tspan></text>
+	</g>
+	<g transform="translate(125.90,235.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(125.90,227.47)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">24</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Al</tspan></text>
+	</g>
+	<g transform="translate(125.90,235.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(125.90,227.47)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">24</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Al</tspan></text>
+	</g>
+	<g transform="translate(150.31,235.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(150.31,227.47)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">25</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Al</tspan></text>
+	</g>
+	<g transform="translate(101.50,235.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.5•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(101.50,227.47)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">23</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Al</tspan></text>
+	</g>
+	<g transform="translate(225.96,235.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >7.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(225.96,227.47)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">28</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Al</tspan></text>
+	</g>
+	<g transform="translate(250.36,235.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(250.36,227.47)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">29</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Al</tspan></text>
+	</g>
+	<g transform="translate(174.71,235.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >7.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(174.71,227.47)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">26</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Al</tspan></text>
+	</g>
+	<g transform="translate(174.71,235.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >7.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(174.71,227.47)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">26</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Al</tspan></text>
+	</g>
+	<g transform="translate(199.12,235.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(199.12,227.47)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">27</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Al</tspan></text>
+	</g>
+	<g transform="translate(326.01,235.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(326.01,227.47)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">32</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Al</tspan></text>
+	</g>
+	<g transform="translate(277.21,235.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(277.21,227.47)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">30</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Al</tspan></text>
+	</g>
+	<g transform="translate(301.61,235.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.5•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(301.61,227.47)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">31</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Al</tspan></text>
+	</g>
+	<g transform="translate(150.31,210.12)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >5.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(150.31,202.29)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">26</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Si</tspan></text>
+	</g>
+	<g transform="translate(174.71,210.12)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(174.71,202.29)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">27</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Si</tspan></text>
+	</g>
+	<g transform="translate(101.50,210.12)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >7.6•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(101.50,202.29)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">24</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Si</tspan></text>
+	</g>
+	<g transform="translate(125.90,210.12)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(125.90,202.29)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">25</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Si</tspan></text>
+	</g>
+	<g transform="translate(250.36,210.12)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >5.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(250.36,202.29)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">30</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Si</tspan></text>
+	</g>
+	<g transform="translate(277.21,210.12)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(277.21,202.29)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">31</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Si</tspan></text>
+	</g>
+	<g transform="translate(199.12,210.12)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >9.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(199.12,202.29)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">28</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Si</tspan></text>
+	</g>
+	<g transform="translate(225.96,210.12)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(225.96,202.29)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">29</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Si</tspan></text>
+	</g>
+	<g transform="translate(301.61,210.12)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >7.6•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(301.61,202.29)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">32</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Si</tspan></text>
+	</g>
+	<g transform="translate(326.01,210.12)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.5•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(326.01,202.29)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">33</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Si</tspan></text>
+	</g>
+	<g transform="translate(350.42,210.12)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(350.42,202.29)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">34</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Si</tspan></text>
+	</g>
+	<g transform="translate(77.10,210.12)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.5•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(77.10,202.29)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">23</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Si</tspan></text>
+	</g>
+	<g transform="translate(45.37,210.12)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(45.37,202.29)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">22</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Si</tspan></text>
+	</g>
+	<g transform="translate(350.42,182.42)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(350.42,174.58)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">35</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">P</tspan></text>
+	</g>
+	<g transform="translate(199.12,182.42)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(199.12,174.58)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">29</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">P</tspan></text>
+	</g>
+	<g transform="translate(174.71,182.42)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >7.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(174.71,174.58)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">28</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">P</tspan></text>
+	</g>
+	<g transform="translate(150.31,182.42)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(150.31,174.58)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">27</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">P</tspan></text>
+	</g>
+	<g transform="translate(125.90,182.42)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(125.90,174.58)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">26</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">P</tspan></text>
+	</g>
+	<g transform="translate(301.61,182.42)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.5•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(301.61,174.58)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">33</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">P</tspan></text>
+	</g>
+	<g transform="translate(277.21,182.42)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(277.21,174.58)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">32</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">P</tspan></text>
+	</g>
+	<g transform="translate(250.36,182.42)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(250.36,174.58)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">31</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">P</tspan></text>
+	</g>
+	<g transform="translate(225.96,182.42)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >7.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(225.96,174.58)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">30</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">P</tspan></text>
+	</g>
+	<g transform="translate(101.50,182.42)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.5•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(101.50,174.58)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">25</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">P</tspan></text>
+	</g>
+	<g transform="translate(326.01,182.42)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(326.01,174.58)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">34</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">P</tspan></text>
+	</g>
+	<g transform="translate(225.96,157.23)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(225.96,149.39)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">31</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">S</tspan></text>
+	</g>
+	<g transform="translate(199.12,157.23)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >5.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(199.12,149.39)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">30</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">S</tspan></text>
+	</g>
+	<g transform="translate(174.71,157.23)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(174.71,149.39)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">29</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">S</tspan></text>
+	</g>
+	<g transform="translate(150.31,157.23)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(150.31,149.39)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">28</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">S</tspan></text>
+	</g>
+	<g transform="translate(326.01,157.23)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(326.01,149.39)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">35</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">S</tspan></text>
+	</g>
+	<g transform="translate(301.61,157.23)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(301.61,149.39)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">34</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">S</tspan></text>
+	</g>
+	<g transform="translate(277.21,157.23)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(277.21,149.39)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">33</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">S</tspan></text>
+	</g>
+	<g transform="translate(250.36,157.23)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(250.36,149.39)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">32</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">S</tspan></text>
+	</g>
+	<g transform="translate(125.90,157.23)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(125.90,149.39)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">27</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">S</tspan></text>
+	</g>
+	<g transform="translate(101.50,157.23)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(101.50,149.39)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">26</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">S</tspan></text>
+	</g>
+	<g transform="translate(350.42,157.23)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(350.42,149.39)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">36</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">S</tspan></text>
+	</g>
+	<g transform="translate(350.42,129.52)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.7•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(350.42,121.69)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">37</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Cl</tspan></text>
+	</g>
+	<g transform="translate(277.21,129.52)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(277.21,121.69)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">34</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Cl</tspan></text>
+	</g>
+	<g transform="translate(277.21,129.52)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(277.21,121.69)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">34</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Cl</tspan></text>
+	</g>
+	<g transform="translate(301.61,129.52)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(301.61,121.69)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">35</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Cl</tspan></text>
+	</g>
+	<g transform="translate(326.01,129.52)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(326.01,121.69)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">36</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Cl</tspan></text>
+	</g>
+	<g transform="translate(174.71,129.52)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(174.71,121.69)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">30</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Cl</tspan></text>
+	</g>
+	<g transform="translate(199.12,129.52)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(199.12,121.69)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">31</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Cl</tspan></text>
+	</g>
+	<g transform="translate(225.96,129.52)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(225.96,121.69)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">32</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Cl</tspan></text>
+	</g>
+	<g transform="translate(250.36,129.52)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(250.36,121.69)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">33</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Cl</tspan></text>
+	</g>
+	<g transform="translate(125.90,129.52)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(125.90,121.69)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">28</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Cl</tspan></text>
+	</g>
+	<g transform="translate(150.31,129.52)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">4</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(150.31,121.69)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">29</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Cl</tspan></text>
+	</g>
+	<g transform="translate(301.61,104.34)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(301.61,96.50)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">36</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ar</tspan></text>
+	</g>
+	<g transform="translate(326.01,104.34)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(326.01,96.50)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">37</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ar</tspan></text>
+	</g>
+	<g transform="translate(199.12,104.34)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >7.6•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(199.12,96.50)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">32</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ar</tspan></text>
+	</g>
+	<g transform="translate(225.96,104.34)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.5•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(225.96,96.50)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">33</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ar</tspan></text>
+	</g>
+	<g transform="translate(250.36,104.34)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(250.36,96.50)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">34</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ar</tspan></text>
+	</g>
+	<g transform="translate(277.21,104.34)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(277.21,96.50)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">35</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ar</tspan></text>
+	</g>
+	<g transform="translate(125.90,104.34)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(125.90,96.50)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">29</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ar</tspan></text>
+	</g>
+	<g transform="translate(150.31,104.34)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >4.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(150.31,96.50)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">30</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ar</tspan></text>
+	</g>
+	<g transform="translate(174.71,104.34)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >6.5•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">3</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(174.71,96.50)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">31</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ar</tspan></text>
+	</g>
+	<g transform="translate(350.42,104.34)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(350.42,96.50)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">38</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ar</tspan></text>
+	</g>
+	<g transform="translate(350.42,79.15)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">0</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(350.42,71.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">39</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">K</tspan></text>
+	</g>
+	<g transform="translate(326.01,79.15)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.8•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(326.01,71.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">38</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">K</tspan></text>
+	</g>
+	<g transform="translate(326.01,79.15)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >2.8•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(326.01,71.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">38</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">K</tspan></text>
+	</g>
+	<g transform="translate(250.36,79.15)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(250.36,71.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">35</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">K</tspan></text>
+	</g>
+	<g transform="translate(301.61,79.15)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.3•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(301.61,71.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">37</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">K</tspan></text>
+	</g>
+	<g transform="translate(277.21,79.15)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.9•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(277.21,71.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">36</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">K</tspan></text>
+	</g>
+	<g transform="translate(150.31,79.15)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(150.31,71.31)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">31</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">K</tspan></text>
+	</g>
+	<g transform="translate(326.01,53.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">0</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(326.01,46.13)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">39</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ca</tspan></text>
+	</g>
+	<g transform="translate(301.61,53.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.4•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(301.61,46.13)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">38</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ca</tspan></text>
+	</g>
+	<g transform="translate(277.21,53.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >3.7•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(277.21,46.13)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">37</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ca</tspan></text>
+	</g>
+	<g transform="translate(250.36,53.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >8.1•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">1</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(250.36,46.13)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">36</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ca</tspan></text>
+	</g>
+	<g transform="translate(225.96,53.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.2•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">2</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(225.96,46.13)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">35</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ca</tspan></text>
+	</g>
+	<g transform="translate(350.42,53.96)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="6.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica" >1.0•10</tspan><tspan font-family="Helvetica"  font-size="4.8" dy="-3.00px">0</tspan><tspan font-size="6.0" dy="3.00"></tspan></text>
+	</g>
+	<g transform="translate(350.42,46.13)" stroke="none" fill="rgb(0,0,0)" font-family="Helvetica" font-size="9.00"  text-anchor="middle">
+		<text><tspan font-family="Helvetica"  font-size="7.2" dy="-4.50px">40</tspan><tspan font-family="Helvetica"  font-size="9.0" dy="4.50px">Ca</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="rgb(  0,   0,   0)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1"  fill="none"><title>gnuplot_plot_1</title>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	</g>
+<g fill="none" color="#FFFFFF" stroke="rgb(148,   0, 211)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+</g>
+</svg>
+

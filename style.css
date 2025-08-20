@@ -30,6 +30,10 @@ h2 {
  margin:0em 0em 0em 0em;
  max-width: 45em;
 }
+#chart {
+ float:center;
+ margin:0em 0em 0em 0em;
+}
 
 a {
   text-decoration: none;
