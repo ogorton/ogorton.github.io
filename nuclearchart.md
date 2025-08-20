@@ -10,7 +10,7 @@ various valence spaces. Dimensions were computed with the
 Figures were generated with a Python script that writes gnuplot code.  In
 spaces with both parities, dimenions include both.
 
-Jump to: [sd](#sd), [pf](#pf), [pfg](#pfg)
+Jump to: [sd](#sd), [pf](#pf), [pfg](#pfg), [gcn](#gcn), [glepn](#glepn)
 
 Gaps in the chart indicate magic numbers according to the conventional shell model:
 
@@ -53,3 +53,11 @@ Core: Ni-56 (28, 28)
 Core: Sn-100 (50,50)
 
 <img src='charts/gcn.svg' id="chart"/>
+
+## glepn
+
+*fp-sd* shell model (2p3/2, 1f5/2, 2p1/2, 1g9/2, 2d5/2, 3s1/2, 2d3/2)
+
+Core: Ni-56 (28,28)
+
+<img src='charts/glepn.svg' id="chart"/>
