@@ -1,4 +1,6 @@
-# Oliver C. Gorton
+# Research profile
+
+Oliver C. Gorton
 
 <img src='images/oliver.png' width="125" id="profile_pic"/>
 
