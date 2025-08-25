@@ -1,8 +1,6 @@
-[Home](index.html)
-
 # Shell model dimensions
 
-by Oliver Gorton
+by [Oliver Gorton](index.html)
 
 These figures show the dimensions of M-scheme shell model calculations in
 various valence spaces. Dimensions were computed with the
