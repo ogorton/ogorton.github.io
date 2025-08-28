@@ -8,7 +8,7 @@ various valence spaces. Dimensions were computed with the
 Figures were generated with a Python script that writes gnuplot code.  In
 spaces with both parities, dimenions include both.
 
-Jump to: [sd](#sd), [pf](#pf), [pfg](#pfg), [gcn](#gcn), [glepn](#glepn)
+Jump to: [sd](#sd), [pf](#pf), [sdpf](#sdpf), [pfg](#pfg), [gcn](#gcn), [glepn](#glepn)
 
 Gaps in the chart indicate magic numbers according to the conventional shell model:
 
@@ -35,6 +35,14 @@ Core: O-16 (8, 8)
 Core: Ca-40 (20, 20)
 
 <img src='charts/pf.svg' id="chart"/>
+
+## sdpf
+
+*sd-pf* shell model (1d5/2, 2s1/2, 1d3/2, 1f7/2, 2p3/2, 1f5.2, 2p1/2)
+
+Core: O-16 (8, 8)
+
+<img src='charts/sdpf.svg' id="chart"/>
 
 ## pfg
 
