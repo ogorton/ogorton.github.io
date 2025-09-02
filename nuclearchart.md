@@ -18,7 +18,8 @@ The edges of the chart are given by the intersection of the model space (a
 rectangular region) and the drip line according to the NNDC. The squares with a
 thicker border are the stable isotopes.
 
-Your browser probably allows you to open these images in a new tab, window, or to download the (.svg) file for better viewing.
+Your browser probably allows you to open these images in a new tab, window, or
+to download the (.svg) file for better viewing.
 
 
 ## sd
@@ -67,3 +68,6 @@ Core: Sn-100 (50,50)
 Core: Ni-56 (28,28)
 
 <img src='charts/glepn.svg' id="chart"/>
+
+Prepared by Lawrence Livermore National Laboratory (LLNL) under Contract
+DE-AC52-07NA27344.
