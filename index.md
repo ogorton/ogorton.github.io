@@ -44,15 +44,15 @@ learning, high-performance computing.
 ## Education
 
 
--   Ph.D. Computational Science, 2024
-    *University of California, Irvine*
+-   Ph.D. Computational Science, 2024\
+    *University of California, Irvine*\
     *San Diego State University [joint doctoral program](https://computationalscience.uci.edu/)*\
-    "Shell Model Methods, Statistical Nuclear Reactions, and Beta-delayed
-    Neutron Emission", advised by Calvin Johnson\
--   M.S. Physics, 2018
+    ["Shell Model Methods, Statistical Nuclear Reactions, and Beta-delayed
+    Neutron Emission"](https://escholarship.org/uc/item/3ns8f1r8)\
+-   M.S. Physics, 2018\
     *San Diego State University*\
     ["Efficient Modeling of Nuclei Through Coupling of Proton and Neutron
-    Wavefunctions"](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917), advised by Calvin Johnson
+    Wavefunctions"](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917)\
 -   B.A. Physics, 2016
     *University of California, Berkeley*
 
