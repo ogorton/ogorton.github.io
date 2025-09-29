@@ -2,8 +2,9 @@
 
 <img src='images/oliver.png' width="125" id="profile_pic"/>
 
-Postdoctoral Research Staff at Lawrence Livermore National Laboratory\
-Nuclear Data and Theory Group // Nuclear and Chemical Sciences Division
+Postdoctoral Research Staff\
+Nuclear Data and Theory Group\
+Lawrence Livermore National Laboratory
 
 
 [Github](https://github.com/ogorton) \
@@ -13,15 +14,22 @@ ORC ID: [0000-0003-3643-9640](https://orcid.org/0000-0003-3643-9640)
 [Shell model dimensions](nuclearchart.html)
 
 
-On this page: [Research interests](#research-interests), [Research
-experience](#research-experience), [Journal papers](#journal-papers),
-[Conference proceedings](#conference-proceedings), [Education](#education),
-[Awards](#awards-and-support), [Codes](#codes), [Contributed
-talks](#contributed-talks), [Posters](#posters), [Training and
-schools](#training-and-schools), [Teaching](#teaching)
+On this page: \
+[Interests](#interests) • 
+[Education](#education) •
+[Experience](#experience)\
+[Journal papers](#journal-papers) •
+[Conference proceedings](#conference-proceedings) •
+[Technical reports](#technical-reports) \
+[Contributed talks](#contributed-talks) •
+[Posters](#posters) \
+[Codes](#codes) \
+[Awards](#awards-and-support) • 
+[Training and schools](#training-and-schools) •
+[Teaching](#teaching)
 
 
-## Research interests
+## Interests
 
 
 I work on the theoretical and computational methods of nuclear physics. My work
@@ -37,7 +45,23 @@ nuclear data and evaluations, uncertainty quantification, machine
 learning, high-performance computing.
 
 
-## Research experience
+## Education
+
+
+-   Ph.D. Computational Science, 2024
+    *University of California, Irvine*
+    *San Diego State University [joint doctoral program](https://computationalscience.uci.edu/)*\
+    "Shell Model Methods, Statistical Nuclear Reactions, and Beta-delayed
+    Neutron Emission", advised by Calvin Johnson\
+-   M.S. Physics, 2018
+    *San Diego State University*\
+    ["Efficient Modeling of Nuclei Through Coupling of Proton and Neutron
+    Wavefunctions"](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917), advised by Calvin Johnson
+-   B.A. Physics, 2016
+    *University of California, Berkeley*
+
+
+## Experience
 
 
 -   Postdoctoral Research Staff, Lawerence Livermore National Laboratory (April
@@ -135,66 +159,21 @@ learning, high-performance computing.
     [arXiv:1905:03055](https://arxiv.org/abs/1905.03055)
 
 
-## Education
+## Technical reports
 
 
--   Ph.D. Computational Science,
-    *University of California, Irvine & San Diego State University
-    [joint doctoral program](https://computationalscience.uci.edu/)*, 2024\
-    "Shell Model Methods, Statistical Nuclear Reactions, and Beta-delayed
-    Neutron Emission", advised by Calvin Johnson\
--   M.S. Physics,
-    *San Diego State University*, 2018\
-    ["Efficient Modeling of Nuclei Through Coupling of Proton and Neutron
-    Wavefunctions"](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917), advised by Calvin Johnson
--   B.A. Physics,
-    *University of California, Berkeley*, 2016
+-   COMMCAS: Computational Model Monte Carlo Sampler\
+    O.C. Gorton and J.E. Escher\
+    LLNL-TR-2011377
+-   Evaluations for neutron-induced activation cross sections for Y and Zr
+    isotopes\
+    A. Sieverding, R.D. Hoffman, O.C. Gorton, and W.E. Ormand\
+    LLNL-TR-2011750
+-   Computational Workflows for Uncertainty-Quantified Nuclear Reactions\
+    J.M. Berryman, C.D. Pruitt, J.E. Escher, O.C. Gorton, E.M. Holmbeck, 
+    K. Kravvaris, A. Sieverding, J.A. Cabrera Garcia, R. Surman, A. Kedia, 
+    G.C. McLaughlin\
 
-
-## Awards and support
-
-
--   [LLNL SD Academic Collaboration Team University
-    Program](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research) (ACT-UP)
-    Award (2022, 2023, 2024)\
-    Full support, university tuition, travel funds, relocation to LLNL 8
-    mo/yr.
--   [Graduate "G-STEM"
-    Scholarship](https://sites.google.com/sdsu.edu/assics/home) (2018,
-    2019)\
-    National Science Foundation Program, awarded by Computational
-    Science Research Center, San Diego State University\
-    Partial support and professional development training.
-
-
-## Codes
-
-
-Languages: Modern Fortran, Python (numpy, scipy, MPI4py,
-multiprocessing, emcee), Bash, C++\
-
-Primary developer of:
-
--   **dmscatter** [\[Repository\]](https://github.com/ogorton/dmfortfactor)\
-    A fast Fortran code for WIMP-nucleus form factors and differential
-    event rate spectra. Modern Fortran with Python interface. OpenMP
-    parallel.
-
--   **PANASh** \[Not yet released\]\
-    Proton and neutron approximate shell model code providing advanced
-    basis truncation scheme for nuclei away from stability. MPI and
-    openMP hybrid parallel.
-
--   **COMMCAS** \[Not yet released\]\
-    Computational Model Monte Carlo Sampler: Uncertainty quantification
-    framework originally designed for Hauser-Feshbach statistical decay
-    codes, now provides generic data-fitting, uncertainty
-    quantification, and neural-network-emulation tools for physics
-    codes. MPI and multiprocessing parallel.
-
--   **Wigner** [\[Repository\]](https://github.com/ogorton/wigner)\
-    A library of functions for computation of Wigner 3-j, 6-j and 9-j
-    symbols, written in modern Fortran.
 
 
 ## Contributed talks
@@ -202,13 +181,15 @@ Primary developer of:
 
 -   [Shell model for astrophysics and nuclear technologies](https://ogorton.github.io/talks/gorton_nd2025.pdf)\
     O. Gorton\
-    Talk at 16th Nuclear Data for Science and Technology Conference (Madrid, June 2025)\
+    Talk at 16th Nuclear Data for Science and Technology Conference (Madrid,
+    June 2025)\
 -   [Is the USDB interaction unique?](https://ogorton.github.io/talks/gorton_apsmarch25.pdf)\
     O. Gorton\
     Talk at APS Global Physics Summit (Anaheim, March 2025)\
 -   [A weak entanglement approximation for nuclear structure](https://ogorton.github.io/talks/gorton_sm75.pdf)\
     O. Gorton and C. Johnson\
-    Talk at Shell Model Symposium: Celebrating 75 Years of the Nuclear Shell Model and Maria Goeppert-Mayer (Argonne National Lab., July 2024)\
+    Talk at Shell Model Symposium: Celebrating 75 Years of the Nuclear Shell
+    Model and Maria Goeppert-Mayer (Argonne National Lab., July 2024)\
 -   [Missing gammas: beta-delayed neutron emission of
     Rb-94](https://ogorton.github.io/talks/gorton_apsapril24.pdf)\
     O. Gorton, C. Johnson, J. Escher\
@@ -303,6 +284,52 @@ Primary developer of:
     September 2018)
 
 
+## Codes
+
+
+Languages: Modern Fortran, Python (numpy, scipy, MPI4py,
+multiprocessing, emcee), Bash, C++\
+
+Primary developer of:
+
+-   **dmscatter** [\[Repository\]](https://github.com/ogorton/dmfortfactor)\
+    A fast Fortran code for WIMP-nucleus form factors and differential
+    event rate spectra. Modern Fortran with Python interface. OpenMP
+    parallel.
+
+-   **PANASh** \[Not yet released\]\
+    Proton and neutron approximate shell model code providing advanced
+    basis truncation scheme for nuclei away from stability. MPI and
+    openMP hybrid parallel.
+
+-   **COMMCAS** \[Not yet released\]\
+    Computational Model Monte Carlo Sampler: Uncertainty quantification
+    framework originally designed for Hauser-Feshbach statistical decay
+    codes, now provides generic data-fitting, uncertainty
+    quantification, and neural-network-emulation tools for physics
+    codes. MPI and multiprocessing parallel.
+
+-   **Wigner** [\[Repository\]](https://github.com/ogorton/wigner)\
+    A library of functions for computation of Wigner 3-j, 6-j and 9-j
+    symbols, written in modern Fortran.
+
+
+## Awards and support
+
+
+-   [LLNL SD Academic Collaboration Team University
+    Program](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research) (ACT-UP)
+    Award (2022, 2023, 2024)\
+    Full support, university tuition, travel funds, relocation to LLNL 8
+    mo/yr.
+-   [Graduate "G-STEM"
+    Scholarship](https://sites.google.com/sdsu.edu/assics/home) (2018,
+    2019)\
+    National Science Foundation Program, awarded by Computational
+    Science Research Center, San Diego State University\
+    Partial support and professional development training.
+
+
 ## Training and schools
 
 
@@ -332,7 +359,7 @@ Primary developer of:
 
 \
 \
-Last update: 2025-07-03.
+Last update: 2025-09-29.
 \
 \
 
