@@ -10,7 +10,6 @@ Lawrence Livermore National Laboratory
 [Google Scholar](https://scholar.google.com/citations?user=jaCfxjgAAAAJ&hl=en&oi=ao) \
 ORC ID: [0000-0003-3643-9640](https://orcid.org/0000-0003-3643-9640)
 
-On this page: \
 [Interests](#interests) • 
 [Education](#education) •
 [Experience](#experience)\
@@ -45,15 +44,15 @@ learning, high-performance computing.
 
 
 -   Ph.D. Computational Science, 2024\
-    *University of California, Irvine*\
-    *San Diego State University [joint doctoral program](https://computationalscience.uci.edu/)*\
     ["Shell Model Methods, Statistical Nuclear Reactions, and Beta-delayed
     Neutron Emission"](https://escholarship.org/uc/item/3ns8f1r8)\
+    *University of California, Irvine*\
+    *San Diego State University [joint doctoral program](https://computationalscience.uci.edu/)*\
 -   M.S. Physics, 2018\
-    *San Diego State University*\
     ["Efficient Modeling of Nuclei Through Coupling of Proton and Neutron
     Wavefunctions"](https://csu-sdsu.primo.exlibrisgroup.com/permalink/01CALS_SDL/r45sar/alma991023475280402917)\
--   B.A. Physics, 2016
+    *San Diego State University*\
+-   B.A. Physics, 2016\
     *University of California, Berkeley*
 
 
