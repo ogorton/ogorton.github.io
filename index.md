@@ -21,7 +21,8 @@ ORC ID: [0000-0003-3643-9640](https://orcid.org/0000-0003-3643-9640)
 [Codes](#codes) \
 [Awards](#awards-and-support) • 
 [Training and schools](#training-and-schools) •
-[Teaching](#teaching)
+[Teaching](#teaching)\
+[Shell model chart of nuclei](nuclearchart.html)
 
 
 ## Interests
@@ -351,28 +352,3 @@ Primary developer of:
     -   Co-authored [the department-wide
         manual](https://docs.google.com/document/d/1pejqikoYhlaIMhSzBzUzrnh2hDrC_q-bEcJCeflpX7w/edit?usp=sharing) for
         Physics 182A/195L Laboratory
-
-\
-\
-Last update: 2025-09-29.
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-
-[Shell model dimensions](nuclearchart.html)
-[Stanislaus](stanislaus.html)
