@@ -165,11 +165,6 @@ learning, high-performance computing.
     isotopes\
     A. Sieverding, R.D. Hoffman, O.C. Gorton, and W.E. Ormand\
     LLNL-TR-2011750
--   Computational Workflows for Uncertainty-Quantified Nuclear Reactions\
-    J.M. Berryman, C.D. Pruitt, J.E. Escher, O.C. Gorton, E.M. Holmbeck, 
-    K. Kravvaris, A. Sieverding, J.A. Cabrera Garcia, R. Surman, A. Kedia, 
-    G.C. McLaughlin\
-
 
 
 ## Contributed talks
