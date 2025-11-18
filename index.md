@@ -81,7 +81,12 @@ learning, high-performance computing.
 
 ## Journal papers
 
-
+-   Constraining capture cross sections using proton inelastic scattering as a surrogate
+reaction\
+    A. Thapa, J. Escher, E. Chimanski, O. Gorton, M. Dupuis, E.J. In, S. Ota, S.
+Peru, W. Younes\
+    *Submitted to Physics Letters B* | 
+    [arXiv:2511.03071](https://arxiv.org/abs/2511.03071)
 -   [Towards shell model interactions with credible uncertainties](https://doi.org/10.1103/fzxv-4q1r)\
     O. C. Gorton and K. Kravvaris\
     *Physical Review C 112, 014302 (2025)* |
