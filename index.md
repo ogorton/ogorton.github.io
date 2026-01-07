@@ -175,6 +175,11 @@ Peru, W. Younes\
 ## Contributed talks
 
 
+-   [Radiative strength functions from the energy-localized Brink-Axel
+    hypothesis](https://ogorton.github.io/talks/gorton_comex8.pdf)\
+    O. Gorton, K. Kravvaris, J. Escher, C. Johnson\
+    Talk at the 8th International Conference on Collective Motion in Nuclei
+under Extreme Conditions (Tallahassee, December 2025)\
 -   [Shell model for astrophysics and nuclear technologies](https://ogorton.github.io/talks/gorton_nd2025.pdf)\
     O. Gorton\
     Talk at 16th Nuclear Data for Science and Technology Conference (Madrid,
@@ -342,9 +347,12 @@ Primary developer of:
 -   Attended "Technical Writing Workshop" at LLNL, 2019
 
 
-## Teaching
+## Teaching and service
 
 
+-   Mentor for Coding with LLNL (Spring 2026)
+    Christensen Middle School, Livermore, CA
+    -  Led lessons and activities to teach middle-school children how to code 
 -   Graduate Teaching Associate for intro physics lab courses (2016 -
     2020)\
     San Diego State University, Department of Physics
