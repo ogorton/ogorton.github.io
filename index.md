@@ -81,16 +81,21 @@ learning, high-performance computing.
 
 ## Journal papers
 
--   Constraining capture cross sections using proton inelastic scattering as a surrogate
-reaction\
+-   Radiative strength functions from the energy-localized Brink-Axel
+    hypothesis\
+    O. Gorton, K. Kravvaris, J. Escher, C. Johnson\
+    *To be submitted to Physical Review C* |
+    [arXiv:2601.12225](https://arxiv.org/abs/2601.12225)
+-   Constraining capture cross sections using proton inelastic scattering as a
+    surrogate reaction\ 
     A. Thapa, J. Escher, E. Chimanski, O. Gorton, M. Dupuis, E.J. In, S. Ota, S.
-Peru, W. Younes\
+    Peru, W. Younes\
     *Submitted to Physics Letters B* | 
     [arXiv:2511.03071](https://arxiv.org/abs/2511.03071)
 -   [Towards shell model interactions with credible uncertainties](https://doi.org/10.1103/fzxv-4q1r)\
     O. C. Gorton and K. Kravvaris\
     *Physical Review C 112, 014302 (2025)* |
-[arXiv:2503.11889](https://arxiv.org/abs/2503.11889)
+    [arXiv:2503.11889](https://arxiv.org/abs/2503.11889)
 -   [Weak entanglement approximation for nuclear
     structure](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.110.034305)\
     O. C. Gorton and C. W. Johnson\
