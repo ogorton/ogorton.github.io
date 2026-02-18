@@ -81,10 +81,17 @@ learning, high-performance computing.
 
 ## Journal papers
 
+
+-   Correlated and uncorrelated Monte Carlo neutron capture rate variations in
+    weak r-process simulations\
+    A. Kedia, J. Berryman, J. Garcia, J. Escher, O. Gorton, E. Holmbeck, 
+    G. McLaughlin, C. Pruitt, A. Sieverding, R. Surman\
+    *Submitted to Physical Review C* |
+    [arXiv:2602.12428](https://arxiv.org/abs/2602.12428)
 -   Radiative strength functions from the energy-localized Brink-Axel
     hypothesis\
     O. Gorton, K. Kravvaris, J. Escher, C. Johnson\
-    *To be submitted to Physical Review C* |
+    *Submitted to Physical Review C* |
     [arXiv:2601.12225](https://arxiv.org/abs/2601.12225)
 -   Constraining capture cross sections using proton inelastic scattering as a
     surrogate reaction\ 
