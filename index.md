@@ -185,6 +185,10 @@ learning, high-performance computing.
 ## Contributed talks
 
 
+-   [Nuclear theory for astrophysics and nuclear
+    technologies]((https://ogorton.github.io/talks/gorton_plsseminar26.pdf)\
+    O. Gorton\
+    PLS Directorate Postdoctoral Seminar (LLNL, February 2026)\
 -   [Radiative strength functions from the energy-localized Brink-Axel
     hypothesis](https://ogorton.github.io/talks/gorton_comex8.pdf)\
     O. Gorton, K. Kravvaris, J. Escher, C. Johnson\
