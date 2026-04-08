@@ -60,15 +60,9 @@ learning, high-performance computing.
 
 -   Postdoctoral Research Staff, Lawerence Livermore National Laboratory (April
     2024 - present)
-    - Developing shell model methods to improve nuclear structure and reaction
-      theory of fission fragments and r-process nuclei
-
 -   LLNL [ACT
     Scholar](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research),
     Strategic Deterrence (2022 -- 2024)
-    -   New predictive capability for reaction and decay properties of
-        fission fragments
-    - Defended PhD at LLNL
 -   Glenn T. Seaborg Institute (GTSI) Summer Intern, [Seaborg
     Institute](https://seaborg.llnl.gov/) (Summer 2021)
 -   High Energy Density Physics Intern, Strategic Deterrence (Summer 2020)
@@ -92,7 +86,7 @@ learning, high-performance computing.
     *Accepted to Physical Review C* |
     [arXiv:2601.12225](https://arxiv.org/abs/2601.12225)
 -   [Constraining capture cross sections using proton inelastic scattering as a
-    surrogate reaction](https://doi.org/10.1016/j.physletb.2026.140433)\ 
+    surrogate reaction](https://doi.org/10.1016/j.physletb.2026.140433)\
     A. Thapa, J. Escher, E. Chimanski, O. Gorton, M. Dupuis, E.J. In, S. Ota, S.
     Peru, W. Younes\
     *Accepted to Physics Letters B* | 
