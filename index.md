@@ -12,7 +12,7 @@ ORC ID: [0000-0003-3643-9640](https://orcid.org/0000-0003-3643-9640)
 [Education](#education) •
 [Experience](#experience)\
 [Journal papers](#journal-papers) •
-[Conference proceedings](#conference-proceedings) •
+[Conference papers](#conference-papers) •
 [Technical reports](#technical-reports) \
 [Contributed talks](#contributed-talks) •
 [Posters](#posters) \
@@ -86,16 +86,16 @@ learning, high-performance computing.
     G. McLaughlin, C. Pruitt, A. Sieverding, R. Surman\
     *Submitted to Physical Review C* |
     [arXiv:2602.12428](https://arxiv.org/abs/2602.12428)
--   Radiative strength functions from the energy-localized Brink-Axel
-    hypothesis\
+-   [Radiative strength functions from the energy-localized Brink-Axel
+    hypothesis](https://doi.org/10.1103/kg6r-t5d1)\
     O. Gorton, K. Kravvaris, J. Escher, C. Johnson\
-    *Submitted to Physical Review C* |
+    *Accepted to Physical Review C* |
     [arXiv:2601.12225](https://arxiv.org/abs/2601.12225)
--   Constraining capture cross sections using proton inelastic scattering as a
-    surrogate reaction\ 
+-   [Constraining capture cross sections using proton inelastic scattering as a
+    surrogate reaction](https://doi.org/10.1016/j.physletb.2026.140433)\ 
     A. Thapa, J. Escher, E. Chimanski, O. Gorton, M. Dupuis, E.J. In, S. Ota, S.
     Peru, W. Younes\
-    *Submitted to Physics Letters B* | 
+    *Accepted to Physics Letters B* | 
     [arXiv:2511.03071](https://arxiv.org/abs/2511.03071)
 -   [Towards shell model interactions with credible uncertainties](https://doi.org/10.1103/fzxv-4q1r)\
     O. C. Gorton and K. Kravvaris\
@@ -131,7 +131,7 @@ learning, high-performance computing.
     *Physical Review C: Nuclear Physics 102 (5), 055806 (2020)*
 
 
-## Conference proceedings
+## Conference papers
 
 
 -   [A weak entanglement approximation for nuclear structure: a progress report](https://doi.org/10.1016/j.jspc.2025.100061)\
