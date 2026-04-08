@@ -1,4 +1,4 @@
-# Oliver C. Gorton
+# Oliver Gorton
 
 Postdoctoral Research Staff\
 Nuclear Data and Theory Group\
