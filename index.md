@@ -10,16 +10,17 @@ ORC ID: [0000-0003-3643-9640](https://orcid.org/0000-0003-3643-9640)
 
 [Interests](#interests) • 
 [Education](#education) •
-[Experience](#experience)\
+[Experience](#experience)•
 [Journal papers](#journal-papers) •
 [Conference papers](#conference-papers) •
 [Technical reports](#technical-reports) \
 [Contributed talks](#contributed-talks) •
-[Posters](#posters) \
-[Codes](#codes) \
+[Posters](#posters) • 
+[Codes](#codes) •
 [Awards](#awards-and-support) • 
 [Training and schools](#training-and-schools) •
-[Teaching](#teaching)\
+[Teaching](#teaching)
+
 [Shell model chart of nuclei](nuclearchart.html)
 
 
