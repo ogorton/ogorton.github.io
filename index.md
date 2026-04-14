@@ -90,7 +90,7 @@ learning, high-performance computing.
     surrogate reaction](https://doi.org/10.1016/j.physletb.2026.140433)\
     A. Thapa, J. Escher, E. Chimanski, O. Gorton, M. Dupuis, E.J. In, S. Ota, S.
     Peru, W. Younes\
-    *Accepted to Physics Letters B* | 
+    *Physics Letters B 876, 140322 (2026)* | 
     [arXiv:2511.03071](https://arxiv.org/abs/2511.03071)
 -   [Towards shell model interactions with credible uncertainties](https://doi.org/10.1103/fzxv-4q1r)\
     O. C. Gorton and K. Kravvaris\
@@ -128,7 +128,10 @@ learning, high-performance computing.
 
 ## Conference papers
 
-
+-   From credible shell model interactions to neutron-capture uncertainties\
+    O. Gorton and K. Kravvaris\
+    *To be submitted European Physical Journal, Web of Conferences (2026)* |
+    [arXiv:2604:09935](https://doi.org/10.48550/arXiv.2604.09935)
 -   [A weak entanglement approximation for nuclear structure: a progress report](https://doi.org/10.1016/j.jspc.2025.100061)\
     C. Johnson and O. Gorton\
     *Journal of Subatomic Particles and Cosmology, 100061 (2025)* | [arXiv:2504.00273](https://doi.org/10.48550/arXiv.2504.00273)

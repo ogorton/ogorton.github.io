@@ -8,7 +8,7 @@ various valence spaces. Dimensions were computed with the
 Figures were generated with a Python script that writes gnuplot code.  In
 spaces with both parities, dimenions include both.
 
-Jump to: [sd](#sd), [pf](#pf), [sdpf](#sdpf), [pfg](#pfg), [gcn](#gcn), [glepn](#glepn)
+Jump to: [sd](#sd), [pf](#pf), [sdpf](#sdpf), [pfg](#pfg), [gcn](#gcn), [glepn](#glepn), [jj45](#jj45)
 
 Gaps in the chart indicate magic numbers according to the conventional shell model:
 
@@ -68,6 +68,14 @@ Core: Sn-100 (50,50)
 Core: Ni-56 (28,28)
 
 <img src='charts/glepn.svg' id="chart"/>
+
+## jj45
+
+*fp-ghsd* shell model p (2p3/2, 1f5/2, 2p1/2, 1g9/2) n (2d5/2, 1g7/2, h11/2, 3s1/2, 2d3/2)
+
+Core: Ni-78 (28,50)
+
+<img src='charts/jj45.svg' id="chart"/>
 
 Prepared by Lawrence Livermore National Laboratory (LLNL) under Contract
 DE-AC52-07NA27344.
