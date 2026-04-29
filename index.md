@@ -27,17 +27,20 @@ ORC ID: [0000-0003-3643-9640](https://orcid.org/0000-0003-3643-9640)
 ## Interests
 
 
-I work on the theoretical and computational methods of nuclear physics. My work
-supports the needs of nuclear astrophysics and nuclear technology, two fields
-which probe the limits of our understanding of matter in neutron-rich
-environments.
+I develop theory and codes to improve our understanding of nuclear physics as it
+relates to astrophysics and nuclear technologies, two fields which test our
+understanding of matter in neutron-rich environments.
 
-*Nuclear structure and reactions*: beta-delayed neutron emission,
-integration of nuclear shell-model and Hauser-Feshbach reaction theory. 
+*Fundamental nuclear physics*: advancing the nuclear structure and reaction
+theory which gov- erns the interaction of neutrons and radiation with matter.
 
-*Applications* in related fields: the search for dark matter,
-nuclear data and evaluations, uncertainty quantification, machine
-learning, high-performance computing.
+*Nuclear data*: strengthening nuclear data libraries with physics models and
+robust uncertainty quantification to empower inference from multi-physics
+simulations.
+
+*High energy-density (HED) science*: learning to run HYDRA simulations of NIF
+implosions to investigate utility of future HED facilities for national
+security.
 
 
 ## Education
@@ -75,16 +78,10 @@ learning, high-performance computing.
 ## Journal papers
 
 
--   Correlated and uncorrelated Monte Carlo neutron capture rate variations in
-    weak r-process simulations\
-    A. Kedia, J. Berryman, J. Garcia, J. Escher, O. Gorton, E. Holmbeck, 
-    G. McLaughlin, C. Pruitt, A. Sieverding, R. Surman\
-    *Submitted to Physical Review C* |
-    [arXiv:2602.12428](https://arxiv.org/abs/2602.12428)
 -   [Radiative strength functions from the energy-localized Brink-Axel
     hypothesis](https://doi.org/10.1103/kg6r-t5d1)\
     O. Gorton, K. Kravvaris, J. Escher, C. Johnson\
-    *Accepted to Physical Review C* |
+    [Editor's Suggestion] -- *Physical Review C 113, 044327 (2026)* |
     [arXiv:2601.12225](https://arxiv.org/abs/2601.12225)
 -   [Constraining capture cross sections using proton inelastic scattering as a
     surrogate reaction](https://doi.org/10.1016/j.physletb.2026.140433)\
@@ -92,6 +89,12 @@ learning, high-performance computing.
     Peru, W. Younes\
     *Physics Letters B 876, 140322 (2026)* | 
     [arXiv:2511.03071](https://arxiv.org/abs/2511.03071)
+-   Correlated and uncorrelated Monte Carlo neutron capture rate variations in
+    weak r-process simulations\
+    A. Kedia, J. Berryman, J. Garcia, J. Escher, O. Gorton, E. Holmbeck, 
+    G. McLaughlin, C. Pruitt, A. Sieverding, R. Surman\
+    *Submitted to Physical Review C* |
+    [arXiv:2602.12428](https://arxiv.org/abs/2602.12428)
 -   [Towards shell model interactions with credible uncertainties](https://doi.org/10.1103/fzxv-4q1r)\
     O. C. Gorton and K. Kravvaris\
     *Physical Review C 112, 014302 (2025)* |
