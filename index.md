@@ -62,20 +62,99 @@ security.
 ## Experience
 
 
--   Postdoctoral Research Staff, Lawerence Livermore National Laboratory (April
-    2024 - present)
--   LLNL [ACT
-    Scholar](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research),
-    Strategic Deterrence (2022 -- 2024)
--   Glenn T. Seaborg Institute (GTSI) Summer Intern, [Seaborg
-    Institute](https://seaborg.llnl.gov/) (Summer 2021)
--   High Energy Density Physics Intern, Strategic Deterrence (Summer 2020)
--   High Energy Density Physics Intern, Strategic Deterrence (Summer 2019)
--   High Energy Density Physics Intern, Strategic Deterrence (Summer 2018)
+-   Postdoctoral Research Staff, 2024 -- present\
+    Nuclear Data and Theory Group, Lawrence Livermore National Laboratory (LLNL)
+    - Investigating the effects of fundamental nuclear physics uncertainty
+      on neutron-capture rates, and the resulting impact on astrophysical
+      formation of heavy elements
+    - Developing theory and codes to model radiative decay of highly-excited
+      nuclei
+    - Developing and applying robust statistical inference tools to bolster
+      LLNL nuclear data libraries
+- [Weapon Physics and Design ACT Scholar](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research), 2022 -- 2024\
+Nuclear Data and Theory Group, LLNL\
+New predictive capability for reaction and decay properties of fission
+fragments:
+    - Proposed solution for under-prediction of beta-delayed photons from
+      fission fragments
+    - Combined shell model and Hauser-Feshbach calculations to model
+      beta-delayed reactions
+    - Wrote shell model code PANASh (weak-entanglement approximation) to
+      reduced compute costs
+    - Devised approximation of Porter-Thomas fluctuations for modeling
+      beta-delayed processes
+    - 5 publications, 5 conference talks, defended Ph.D. dissertation at
+      LLNL
+- Glenn T. Seaborg Institute (GTSI) Graduate Intern, Summer 2021\
+Nuclear Data and Theory Group, LLNL
+    - Applied statistical inference code to analyze reaction experiment,
+      resulting in
+      [publication](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.102.055806)
+    - Supported machine learning effort for surrogate reaction analysis,
+      resulting in
+      [proceedings](https://doi.org/10.1051/epjconf/202328403012)
+- High Energy Density Physics Graduate Intern, Summer 2018, 2019, and
+2020\
+Nuclear Data and Theory Group, LLNL
+    - Developed statistical inference code COMMCAS for nuclear data,
+      resulting in
+      [proceedings](https://doi.org/10.1007/978-3-030-58082-7_28)
+    - Demonstrated theoretical limitations of experimental technique,
+      resulting in
+      [publication](https://doi.org/10.1103/PhysRevC.107.044612)
+    - Identified bugs and performance improvements for LLNL nuclear reaction
+      code, YAHFC
+- Graduate Teaching Associate, 2016 -- 2020\
+Department of Physics, San Diego State University
+    - Independently taught undergraduate physics lab-courses
+    - Co-authored the department [manual for Physics 182A/195L laboratory
+      courses](https://docs.google.com/document/d/1pejqikoYhlaIMhSzBzUzrnh2hDrC_q-bEcJCeflpX7w/edit?usp=sharing)
+
+## Codes 
+
+I am the primary developer of these codes:
+
+- **COMMCAS** *Python* [LLNL-TR-2011377] [Not yet public]\
+Uncertainty quantification and statistical inference framework for nuclear physics models
+    - Monte-Carlo, Importance Sampling, MCMC, forward propagation methods
+    - Provides generic model wrapper with user-friendly abstractions of model
+      inputs/outputs, experimental data, unknown sources of uncertainty, and
+      more
+- **PANASh** *Fortran* [[Publication]](https://doi.org/10.1103/PhysRevC.110.034305) [Not yet public]\
+Shell model code with advanced basis-reduction scheme to compute nuclear wave functions
+    - Custom Krylov-subspace algorithms (block Lanczos with on-the-fly matrix elements)
+    - MPI and openMP hybrid parallelization
+- **dmscatter** *Fortran and Python* [[Publication]](https://doi.org/10.1016/j.cpc.2022.108597) [[Repository]](https://github.com/ogorton/dmfortfactor)\
+A fast Fortran code for WIMP-nucleus form factors and differential event rate spectra. Modern Fortran with Python interface. OpenMP parallel.
+- **Wigner** *Fortran* [Repository](https://github.com/ogorton/wigner)\
+A library of functions for computing vector-coupling coefficients, written in modern Fortran.
 
 
+## Service 
 
-## Journal papers
+Service and outreach activities:
+
+- Coding Mentor for “Coding with LLNL” at Christensen Middle School, 2025-26
+- Co-organizer for CENTAUR 2026 meeting at LLNL
+- LLNL Institutional Computing Grand Challenge Committee Fall 2025
+- Referee for Physical Review C
+
+## Training 
+
+Selected workshops and formal training attendance:
+
+- “Making the most of your presentation” training by Jean-Luc Doumont (2025)
+- “FIESTA 2024”, Fission Experiments and Theoretical Advances (FIESTA), a fission-focused
+school and workshop at LANL
+- “Technical Writing Workshop” at LLNL (2019)
+
+
+## Publications
+
+21 publications (9 journal papers, 8 conference proceedings, 4 technical
+reports)
+
+### Journal papers
 
 
 -   [Radiative strength functions from the energy-localized Brink-Axel
@@ -129,7 +208,7 @@ security.
     *Physical Review C: Nuclear Physics 102 (5), 055806 (2020)*
 
 
-## Conference papers
+### Conference papers
 
 -   From credible shell model interactions to neutron-capture uncertainties\
     O. Gorton and K. Kravvaris\
@@ -171,20 +250,46 @@ security.
     [arXiv:1905:03055](https://arxiv.org/abs/1905.03055)
 
 
-## Technical reports
+### Technical reports
+
+- From new measurements to new data libraries: The LLNL nuclear data pipeline at work
+  M. Anastasiou, B. Beck, R. Casperson, M.-A. Descalle, J. Escher, O. Gorton, K. Kravvaris, C.
+  Mattoon, M. Mendenhall, W. Ormand, G. Potel Aguilar, S. Quaglioni, A. Sieverding, L. Snyder, I.
+  Thompson, and K. Wendt\
+  Internal working document
+- COMMCAS: Computational Model Monte Carlo Sampler\
+  O. Gorton, J. Escher, S. Perrotta, C. Pruitt, A. Thapa, V. Kruse, E. Shinkle, M. Paik, and H. Frye\
+  LLNL-TR-2011377-DRAFT
+- [Evaluations for neutron-induced activation cross sections for Y and Zr isotopes](https://doi.org/10.2172/2997578)\
+  A. Sieverding, R. Hoffman, O. Gorton, and W. Ormand\
+  LLNL-TR-2011750
+- [Computational Workflows for Uncertainty-Quantified Nuclear
+  Reactions](https://doi.org/10.2172/3022089)\
+  J. Berryman, C. Pruitt, J. Escher, O. Gorton, E. M. Holmbeck, K. Kravvaris, A. Sieverding, et al.\
+  LLNL-TR-2015691
+- Final Technical Report: New predictive capability for reaction and decay properties of fission
+  fragments (ACT University Program)\
+  O. Gorton, H. Frye, C. Johnson, and J. Escher\
+  LLNL-MI-2003179 (Internal report avilable upon request)
 
 
--   COMMCAS: Computational Model Monte Carlo Sampler\
-    O.C. Gorton and J.E. Escher\
-    LLNL-TR-2011377
--   Evaluations for neutron-induced activation cross sections for Y and Zr
-    isotopes\
-    A. Sieverding, R.D. Hoffman, O.C. Gorton, and W.E. Ormand\
-    LLNL-TR-2011750
+## Presentation
 
+2 invited talks, 17 contributed talks, 6 posters
 
-## Contributed talks
+### Invited talks
 
+-   Reduced-order models to accelerate uncertainty quantification: from shell
+    model to neutron capture\
+    O. Gorton\
+    FRIB-TA Topical Program: Statistical Nuclear Properties in the AI/ML Era: Advances, Chal-
+    lenges, and Synergies for FRIB Science – East Lancing, Michigan, Scheduled July 2026
+-   Radiative strength functions from the energy-localized Brink-Axel
+    hypothesis\
+    O. Gorton\
+    10th Workshop on Level Densities and Gamma Strengths – Oslo, Norway, Scheduled May 2026
+
+### Contributed talks
 
 -   [Nuclear theory for astrophysics and nuclear
     technologies](https://ogorton.github.io/talks/gorton_plsseminar26.pdf)\
@@ -195,14 +300,16 @@ security.
     O. Gorton, K. Kravvaris, J. Escher, C. Johnson\
     Talk at the 8th International Conference on Collective Motion in Nuclei
 under Extreme Conditions (Tallahassee, December 2025)\
--   [Shell model for astrophysics and nuclear technologies](https://ogorton.github.io/talks/gorton_nd2025.pdf)\
+-   [Shell model for astrophysics and nuclear 
+    technologies](https://ogorton.github.io/talks/gorton_nd2025.pdf)\
     O. Gorton\
     Talk at 16th Nuclear Data for Science and Technology Conference (Madrid,
     June 2025)\
 -   [Is the USDB interaction unique?](https://ogorton.github.io/talks/gorton_apsmarch25.pdf)\
     O. Gorton\
     Talk at APS Global Physics Summit (Anaheim, March 2025)\
--   [A weak entanglement approximation for nuclear structure](https://ogorton.github.io/talks/gorton_sm75.pdf)\
+-   [A weak entanglement approximation for nuclear 
+    structure](https://ogorton.github.io/talks/gorton_sm75.pdf)\
     O. Gorton and C. Johnson\
     Talk at Shell Model Symposium: Celebrating 75 Years of the Nuclear Shell
     Model and Maria Goeppert-Mayer (Argonne National Lab., July 2024)\
@@ -265,7 +372,7 @@ under Extreme Conditions (Tallahassee, December 2025)\
     Seminar for HEDP Intern Exit Talk (Livermore, August 2018)
 
 
-## Posters
+### Posters
 
 
 -   [Width Fluctuation Correction Factor for Beta-delayed Neutron
@@ -298,80 +405,3 @@ under Extreme Conditions (Tallahassee, December 2025)\
     Poster at Compound Nuclear Reactions
     conference [CNR18](https://indico.bnl.gov/event/4158) (Berkeley,
     September 2018)
-
-
-## Codes
-
-
-Languages: Modern Fortran, Python (numpy, scipy, MPI4py,
-multiprocessing, emcee), Bash, C++\
-
-Primary developer of:
-
--   **dmscatter** [\[Repository\]](https://github.com/ogorton/dmfortfactor)\
-    A fast Fortran code for WIMP-nucleus form factors and differential
-    event rate spectra. Modern Fortran with Python interface. OpenMP
-    parallel.
-
--   **PANASh** \[Not yet released\]\
-    Proton and neutron approximate shell model code providing advanced
-    basis truncation scheme for nuclei away from stability. MPI and
-    openMP hybrid parallel.
-
--   **COMMCAS** \[Not yet released\]\
-    Computational Model Monte Carlo Sampler: Uncertainty quantification
-    framework originally designed for Hauser-Feshbach statistical decay
-    codes, now provides generic data-fitting, uncertainty
-    quantification, and neural-network-emulation tools for physics
-    codes. MPI and multiprocessing parallel.
-
--   **Wigner** [\[Repository\]](https://github.com/ogorton/wigner)\
-    A library of functions for computation of Wigner 3-j, 6-j and 9-j
-    symbols, written in modern Fortran.
-
-
-## Awards and support
-
-
--   [LLNL SD Academic Collaboration Team University
-    Program](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research) (ACT-UP)
-    Award (2022, 2023, 2024)\
-    Full support, university tuition, travel funds, relocation to LLNL 8
-    mo/yr.
--   [Graduate "G-STEM"
-    Scholarship](https://sites.google.com/sdsu.edu/assics/home) (2018,
-    2019)\
-    National Science Foundation Program, awarded by Computational
-    Science Research Center, San Diego State University\
-    Partial support and professional development training.
-
-
-## Training and schools
-
-
--   Attended "[FIESTA
-    2024](https://web.cvent.com/event/598d58fd-f6e7-4ca6-89e9-2f9ea800afb8/summary)"
-\, Fission Experiments and Theoretical Advances (FIESTA) is a fission-focused school and workshop.
--   Attended "[FRIB-TA Summer School: A practical walk-through formal
-    scattering theory](https://fribtascattering.github.io/)", 2021\
-    Lectures and hands on exercises in low-energy nuclear scattering
-    theory
--   Attended "Agile Development Practices and Tools: A Guided Tour",
-    2020\
-    Collaborative source control using git, GitHub, and git workflows.
--   Attended "Technical Writing Workshop" at LLNL, 2019
-
-
-## Teaching and service
-
-
--   Mentor for Coding with LLNL (Spring 2026)
-    Christensen Middle School, Livermore, CA
-    -  Led lessons and activities to teach middle-school children how to code 
--   Graduate Teaching Associate for intro physics lab courses (2016 -
-    2020)\
-    San Diego State University, Department of Physics
-    -   Independently lead lectures and exams
-    -   Co-authored [the department-wide
-        manual](https://docs.google.com/document/d/1pejqikoYhlaIMhSzBzUzrnh2hDrC_q-bEcJCeflpX7w/edit?usp=sharing) for
-        Physics 182A/195L Laboratory
