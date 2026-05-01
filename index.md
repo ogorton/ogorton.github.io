@@ -10,21 +10,17 @@ ORC ID: [0000-0003-3643-9640](https://orcid.org/0000-0003-3643-9640)
 
 [Interests](#interests) • 
 [Education](#education) •
-[Experience](#experience)•
-[Journal papers](#journal-papers) •
-[Conference papers](#conference-papers) •
-[Technical reports](#technical-reports) \
-[Contributed talks](#contributed-talks) •
-[Posters](#posters) • 
+[Experience](#experience)\
+[Service](#service) •
+[Training](#training)\
 [Codes](#codes) •
-[Awards](#awards-and-support) • 
-[Training and schools](#training-and-schools) •
-[Teaching](#teaching)
+[Publications](#publications) •
+[Presentations](#presentations) \
 
-[Shell model chart of nuclei](nuclearchart.html)
+[Shell model dimensions](nuclearchart.html)
 
 
-## Interests
+## Research
 
 
 I develop theory and codes to improve our understanding of nuclear physics as it
@@ -110,25 +106,7 @@ Department of Physics, San Diego State University
     - Co-authored the department [manual for Physics 182A/195L laboratory
       courses](https://docs.google.com/document/d/1pejqikoYhlaIMhSzBzUzrnh2hDrC_q-bEcJCeflpX7w/edit?usp=sharing)
 
-## Codes 
-
-I am the primary developer of these codes:
-
-- **COMMCAS** *Python* [LLNL-TR-2011377] [Not yet public]\
-Uncertainty quantification and statistical inference framework for nuclear physics models
-    - Monte-Carlo, Importance Sampling, MCMC, forward propagation methods
-    - Provides generic model wrapper with user-friendly abstractions of model
-      inputs/outputs, experimental data, unknown sources of uncertainty, and
-      more
-- **PANASh** *Fortran* [[Publication]](https://doi.org/10.1103/PhysRevC.110.034305) [Not yet public]\
-Shell model code with advanced basis-reduction scheme to compute nuclear wave functions
-    - Custom Krylov-subspace algorithms (block Lanczos with on-the-fly matrix elements)
-    - MPI and openMP hybrid parallelization
-- **dmscatter** *Fortran and Python* [[Publication]](https://doi.org/10.1016/j.cpc.2022.108597) [[Repository]](https://github.com/ogorton/dmfortfactor)\
-A fast Fortran code for WIMP-nucleus form factors and differential event rate spectra. Modern Fortran with Python interface. OpenMP parallel.
-- **Wigner** *Fortran* [Repository](https://github.com/ogorton/wigner)\
-A library of functions for computing vector-coupling coefficients, written in modern Fortran.
-
+[back to top](#oliver-gorton)
 
 ## Service 
 
@@ -148,6 +126,26 @@ Selected workshops and formal training attendance:
 school and workshop at LANL
 - “Technical Writing Workshop” at LLNL (2019)
 
+## Codes 
+
+I am the primary developer of these codes:
+
+- **COMMCAS** *Python* [LLNL-TR-2011377] [Not yet public]\
+Uncertainty quantification and statistical inference framework for nuclear physics models
+    - Monte-Carlo, Importance Sampling, MCMC, forward propagation methods
+    - Provides generic model wrapper with user-friendly abstractions of model
+      inputs/outputs, experimental data, unknown sources of uncertainty, and
+      more
+- **PANASh** *Fortran* [[Publication]](https://doi.org/10.1103/PhysRevC.110.034305) [Not yet public]\
+Shell model code with advanced basis-reduction scheme to compute nuclear wave functions
+    - Custom Krylov-subspace algorithms (block Lanczos with on-the-fly matrix elements)
+    - MPI and openMP hybrid parallelization
+- **dmscatter** *Fortran and Python* [[Publication]](https://doi.org/10.1016/j.cpc.2022.108597) [[Repository]](https://github.com/ogorton/dmfortfactor)\
+A fast Fortran code for WIMP-nucleus form factors and differential event rate spectra. Modern Fortran with Python interface. OpenMP parallel.
+- **Wigner** *Fortran* [Repository](https://github.com/ogorton/wigner)\
+A library of functions for computing vector-coupling coefficients, written in modern Fortran.
+
+[back to top](#oliver-gorton)
 
 ## Publications
 
@@ -272,8 +270,9 @@ reports)
   O. Gorton, H. Frye, C. Johnson, and J. Escher\
   LLNL-MI-2003179 (Internal report avilable upon request)
 
+[back to top](#oliver-gorton)
 
-## Presentation
+## Presentations
 
 2 invited talks, 17 contributed talks, 6 posters
 
@@ -405,3 +404,5 @@ under Extreme Conditions (Tallahassee, December 2025)\
     Poster at Compound Nuclear Reactions
     conference [CNR18](https://indico.bnl.gov/event/4158) (Berkeley,
     September 2018)
+
+[back to top](#oliver-gorton)
