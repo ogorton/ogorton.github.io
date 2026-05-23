@@ -283,10 +283,10 @@ reports)
     O. Gorton\
     FRIB-TA Topical Program: Statistical Nuclear Properties in the AI/ML Era: Advances, Chal-
     lenges, and Synergies for FRIB Science – East Lancing, Michigan, Scheduled July 2026
--   Radiative strength functions from the energy-localized Brink-Axel
-    hypothesis\
+-   [Radiative strength functions from the energy-localized Brink-Axel
+    hypothesis](https://ogorton.github.io/talks/gorton_oslo2026.pdf)\
     O. Gorton\
-    10th Workshop on Level Densities and Gamma Strengths – Oslo, Norway, Scheduled May 2026
+    10th Workshop on Level Densities and Gamma Strengths (Oslo, Norway, May 2026)
 
 ### Contributed talks
 
@@ -297,63 +297,63 @@ reports)
 -   [Radiative strength functions from the energy-localized Brink-Axel
     hypothesis](https://ogorton.github.io/talks/gorton_comex8.pdf)\
     O. Gorton, K. Kravvaris, J. Escher, C. Johnson\
-    Talk at the 8th International Conference on Collective Motion in Nuclei
-under Extreme Conditions (Tallahassee, December 2025)\
+    8th International Conference on Collective Motion in Nuclei
+    under Extreme Conditions (Tallahassee, December 2025)\
 -   [Shell model for astrophysics and nuclear 
     technologies](https://ogorton.github.io/talks/gorton_nd2025.pdf)\
     O. Gorton\
-    Talk at 16th Nuclear Data for Science and Technology Conference (Madrid,
+    16th Nuclear Data for Science and Technology Conference (Madrid,
     June 2025)\
 -   [Is the USDB interaction unique?](https://ogorton.github.io/talks/gorton_apsmarch25.pdf)\
     O. Gorton\
-    Talk at APS Global Physics Summit (Anaheim, March 2025)\
+    APS Global Physics Summit (Anaheim, March 2025)\
 -   [A weak entanglement approximation for nuclear 
     structure](https://ogorton.github.io/talks/gorton_sm75.pdf)\
     O. Gorton and C. Johnson\
-    Talk at Shell Model Symposium: Celebrating 75 Years of the Nuclear Shell
+    Shell Model Symposium: Celebrating 75 Years of the Nuclear Shell
     Model and Maria Goeppert-Mayer (Argonne National Lab., July 2024)\
 -   [Missing gammas: beta-delayed neutron emission of
     Rb-94](https://ogorton.github.io/talks/gorton_apsapril24.pdf)\
     O. Gorton, C. Johnson, J. Escher\
-    Talk at APS April 2024 Meeting (Sacramento, April 2024)\
+    APS April 2024 Meeting (Sacramento, April 2024)\
 -   [Gamma-ray strength functions using approximate shell model
     calculations](https://ogorton.github.io/talks/gorton_t3_2023_LLNL-PRES-853425.pdf)\
     O. Gorton, C. Johnson, J. Escher\
-    Talk at T3 "Taking the Temperature" Workshop on Statistical Nuclear Physics
+    T3 "Taking the Temperature" Workshop on Statistical Nuclear Physics
     for Astrophysics and Applications (Ohio University, August 2023)
 -   [Nuclear Shell Model to the Rescue: Efforts to Resolve a Mystery in
     Beta Delayed Neutron
     Emission](https://ogorton.github.io/talks/gorton_dnp22.pdf)\
     O. Gorton, C. Johnson, J. Escher\
-    Talk at APS Division of Nuclear Physics Fall 2022 Meeting (New
+    APS Division of Nuclear Physics Fall 2022 Meeting (New
     Orleans, October 2022)
 -   [Crisis in Beta-Delayed Neutron Emission: Shell Model to the
     Rescue](https://ogorton.github.io/talks/gorton_nd22.pdf)\
     O. Gorton, C. Johnson, J. Escher\
-    Talk at Nuclear Data Conference (Sacramento -- virtual, July 2022)
+    Nuclear Data Conference (Sacramento -- virtual, July 2022)
 -   [DMFortFactor: A Fast and Accessible for Computing
     WIMP-Nucleus-Scattering
     Event-Rates](https://ogorton.github.io/talks/gorton_dnp21.pdf)\
     O. Gorton, C. Johnson, C. Jiao\
-    Talk at DNP21 APS Conference (Boston -- virtual, October 2021)
+    DNP21 APS Conference (Boston -- virtual, October 2021)
 -   [Better MCMC for Nuclear Data using emcee and
     B-DJINN](https://ogorton.github.io/talks/gorton_llnl21.pdf)\
     O. C. Gorton, J. E. Escher, K. O. Bergstrom, M. K. Kruse\
-    Talk at LLNL Summer Slam (Livermore, August 2021)
+    LLNL Summer Slam (Livermore, August 2021)
 -   [Nuclear Physics for
     WIMPs](https://ogorton.github.io/talks/gorton_csrc21.pdf)\
     O. Gorton and C. W. Johnson\
-    Talk at SDSU SIAM Student Chapter Summer Colloquium Series, (San
+    SDSU SIAM Student Chapter Summer Colloquium Series, (San
     Diego, July 2021)
 -   [Cross subsections for neutron reactions from surrogate
     measurements: Revisiting the Weisskopf-Ewing
     approximation](https://ogorton.github.io/talks/gorton_dnp20.pdf)\
     O. Gorton and J. E. Escher\
-    Talk at DNP20 APS Conference (New Orleans -- virtual, October 2020)
+    DNP20 APS Conference (New Orleans -- virtual, October 2020)
 -   [Can we get rid of the
     theorists?](https://ogorton.github.io/talks/gorton_llnl20.pdf)\
     O. Gorton and J. E. Escher\
-    Talk at LLNL Summer Slam (Livermore, August 2020)
+    LLNL Summer Slam (Livermore, August 2020)
 -   [Big Picture and Background for Nuclear-Electronic Orbital (NEO)
     Approach: Calculating Mixed Nucleon-Electron Wave
     Functions](https://ogorton.github.io/talks/gorton_uci20.pdf)\
