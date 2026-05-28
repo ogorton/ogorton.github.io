@@ -280,94 +280,75 @@ reports)
 
 -   Reduced-order models to accelerate uncertainty quantification: from shell
     model to neutron capture\
-    O. Gorton\
     FRIB-TA Topical Program: Statistical Nuclear Properties in the AI/ML Era: Advances, Chal-
     lenges, and Synergies for FRIB Science – East Lancing, Michigan, Scheduled July 2026
 -   [Radiative strength functions from the energy-localized Brink-Axel
     hypothesis](https://ogorton.github.io/talks/gorton_oslo2026.pdf)\
-    O. Gorton\
     10th Workshop on Level Densities and Gamma Strengths (Oslo, Norway, May 2026)
 
 ### Contributed talks
 
 -   [Nuclear theory for astrophysics and nuclear
     technologies](https://ogorton.github.io/talks/gorton_plsseminar26.pdf)\
-    O. Gorton\
     PLS Directorate Postdoctoral Seminar (LLNL, February 2026)\
 -   [Radiative strength functions from the energy-localized Brink-Axel
     hypothesis](https://ogorton.github.io/talks/gorton_comex8.pdf)\
-    O. Gorton, K. Kravvaris, J. Escher, C. Johnson\
     8th International Conference on Collective Motion in Nuclei
     under Extreme Conditions (Tallahassee, December 2025)\
 -   [Shell model for astrophysics and nuclear 
     technologies](https://ogorton.github.io/talks/gorton_nd2025.pdf)\
-    O. Gorton\
     16th Nuclear Data for Science and Technology Conference (Madrid,
     June 2025)\
 -   [Is the USDB interaction unique?](https://ogorton.github.io/talks/gorton_apsmarch25.pdf)\
-    O. Gorton\
     APS Global Physics Summit (Anaheim, March 2025)\
 -   [A weak entanglement approximation for nuclear 
     structure](https://ogorton.github.io/talks/gorton_sm75.pdf)\
-    O. Gorton and C. Johnson\
     Shell Model Symposium: Celebrating 75 Years of the Nuclear Shell
     Model and Maria Goeppert-Mayer (Argonne National Lab., July 2024)\
 -   [Missing gammas: beta-delayed neutron emission of
     Rb-94](https://ogorton.github.io/talks/gorton_apsapril24.pdf)\
-    O. Gorton, C. Johnson, J. Escher\
     APS April 2024 Meeting (Sacramento, April 2024)\
 -   [Gamma-ray strength functions using approximate shell model
     calculations](https://ogorton.github.io/talks/gorton_t3_2023_LLNL-PRES-853425.pdf)\
-    O. Gorton, C. Johnson, J. Escher\
     T3 "Taking the Temperature" Workshop on Statistical Nuclear Physics
     for Astrophysics and Applications (Ohio University, August 2023)
 -   [Nuclear Shell Model to the Rescue: Efforts to Resolve a Mystery in
     Beta Delayed Neutron
     Emission](https://ogorton.github.io/talks/gorton_dnp22.pdf)\
-    O. Gorton, C. Johnson, J. Escher\
     APS Division of Nuclear Physics Fall 2022 Meeting (New
     Orleans, October 2022)
 -   [Crisis in Beta-Delayed Neutron Emission: Shell Model to the
     Rescue](https://ogorton.github.io/talks/gorton_nd22.pdf)\
-    O. Gorton, C. Johnson, J. Escher\
     Nuclear Data Conference (Sacramento -- virtual, July 2022)
 -   [DMFortFactor: A Fast and Accessible for Computing
     WIMP-Nucleus-Scattering
     Event-Rates](https://ogorton.github.io/talks/gorton_dnp21.pdf)\
-    O. Gorton, C. Johnson, C. Jiao\
     DNP21 APS Conference (Boston -- virtual, October 2021)
 -   [Better MCMC for Nuclear Data using emcee and
     B-DJINN](https://ogorton.github.io/talks/gorton_llnl21.pdf)\
-    O. C. Gorton, J. E. Escher, K. O. Bergstrom, M. K. Kruse\
     LLNL Summer Slam (Livermore, August 2021)
 -   [Nuclear Physics for
     WIMPs](https://ogorton.github.io/talks/gorton_csrc21.pdf)\
-    O. Gorton and C. W. Johnson\
     SDSU SIAM Student Chapter Summer Colloquium Series, (San
     Diego, July 2021)
 -   [Cross subsections for neutron reactions from surrogate
     measurements: Revisiting the Weisskopf-Ewing
     approximation](https://ogorton.github.io/talks/gorton_dnp20.pdf)\
-    O. Gorton and J. E. Escher\
     DNP20 APS Conference (New Orleans -- virtual, October 2020)
 -   [Can we get rid of the
     theorists?](https://ogorton.github.io/talks/gorton_llnl20.pdf)\
-    O. Gorton and J. E. Escher\
     LLNL Summer Slam (Livermore, August 2020)
 -   [Big Picture and Background for Nuclear-Electronic Orbital (NEO)
     Approach: Calculating Mixed Nucleon-Electron Wave
     Functions](https://ogorton.github.io/talks/gorton_uci20.pdf)\
-    O. Gorton\
     Seminar for the Furche Group, Chemistry Department, UC Irvine
     (Irvine, March 2020)
 -   [Indirect measurements of nuclear cross subsections: tempering
     experimental results with
     theory](https://ogorton.github.io/talks/gorton_llnl19b.pdf)\
-    O. Gorton and J. E. Escher\
     Seminar for HEDP Intern Exit Talk (Livermore, September 2019)
 -   [A Markov Chain Monte Carlo Tool for Hauser-Feshbach
-    Codes](https://ogorton.github.io/talks/gorton_llnl18.pdf)**\
-    **O. Gorton and J.E. Escher\
+    Codes](https://ogorton.github.io/talks/gorton_llnl18.pdf)\
     Seminar for HEDP Intern Exit Talk (Livermore, August 2018)
 
 
@@ -376,31 +357,25 @@ reports)
 
 -   [Width Fluctuation Correction Factor for Beta-delayed Neutron
     Emission](https://ogorton.github.io/posters/gorton_cnr24.pdf)\
-    O. Gorton, J. Escher\
     Poster at the 7th international workshop on Compound-Nuclear Reactions and
     Related Topics (Vienna, July 2024)
 -   [Proton and Neutron Approximate Shell Model: Factorization-based
     Importance
     Truncation](https://ogorton.github.io/posters/gorton_ns22.pdf)\
-    O. Gorton, C. Johnson, J. Escher\
     Poster at Nuclear Structure Conference (Berkeley, June 2022)
 -   [Sensitivity Study of the Surrogate
     Method](https://ogorton.github.io/posters/gorton_llnl19a.pdf)\
-    O. Gorton and J. E. Escher\
     Poster at LLNL Student Poster Symposium (Livermore, August 2019)
 -   [Temperature and Entropy in the Nuclear Shell
     Model](https://ogorton.github.io/posters/gorton_csrc19.pdf)\
-    O. Gorton and C. W. Johnson\
     Poster at SDSU ACCESS event (San Diego, April 2019)
 -   [Proton Neutron Interacting Shell Model: Order of Magnitude
     Reduction for Medium Mass
     Nuclei](https://ogorton.github.io/posters/gorton_sdsu19.pdf)\
-    O. Gorton and C. Johnson\
     Poster at SDSU annual research symposium (San Diego, March 2019)
 -   [Neutron capture cross subsections from surrogate reaction data and
     theory: connecting the pieces with a Markov-Chain Monte Carlo
     approach](https://ogorton.github.io/posters/gorton_cnr18.pdf)\
-    O. Gorton and J. E. Escher\
     Poster at Compound Nuclear Reactions
     conference [CNR18](https://indico.bnl.gov/event/4158) (Berkeley,
     September 2018)
