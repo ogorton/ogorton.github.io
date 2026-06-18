@@ -274,7 +274,7 @@ reports)
 
 ## Presentations
 
-2 invited talks, 17 contributed talks, 6 posters
+2 invited talks, 17 contributed talks, 7 posters
 
 ### Invited talks
 
@@ -355,6 +355,10 @@ reports)
 ### Posters
 
 
+-   [Nuclear theory for astrophysics and nuclear
+    technologies](https://ogorton.github.io/posters/gorton_llnl26.pdf)\
+    Poster at LLNL 2026 Institutional Postdoc Poster Symposium (Livermore, 
+    June 2026)
 -   [Width Fluctuation Correction Factor for Beta-delayed Neutron
     Emission](https://ogorton.github.io/posters/gorton_cnr24.pdf)\
     Poster at the 7th international workshop on Compound-Nuclear Reactions and
