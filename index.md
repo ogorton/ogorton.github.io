@@ -360,6 +360,8 @@ reports)
 
 -   [Nuclear theory for astrophysics and nuclear
     technologies](https://ogorton.github.io/posters/gorton_llnl26.pdf)\
+    [Received Nuclear and Chemical Sciences Division Spot Award for an excellent
+    poster presentation]\
     Poster at LLNL 2026 Institutional Postdoc Poster Symposium (Livermore, 
     June 2026)
 -   [Width Fluctuation Correction Factor for Beta-delayed Neutron
