@@ -280,8 +280,8 @@ reports)
 
 ### Invited talks
 
--   [Reduced-order models to accelerate uncertainty quantification: from shell
-    model to neutron capture](https://ogorton.github.io/talks/gorton_fribta2026.pdf)\
+-   [Statistical properties from the shell model and reduced-order fitting 
+    schemes](https://ogorton.github.io/talks/gorton_fribta2026.pdf)\
     FRIB-TA Topical Program: Statistical Nuclear Properties in the AI/ML Era: 
     Advances, Challenges, and Synergies for FRIB Science (East Lansing, 
     Michigan, July 2026)
