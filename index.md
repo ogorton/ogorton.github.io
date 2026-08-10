@@ -166,8 +166,8 @@ reports)
     Peru, W. Younes\
     *Physics Letters B 876, 140322 (2026)* | 
     [arXiv:2511.03071](https://arxiv.org/abs/2511.03071)
--   Correlated and uncorrelated Monte Carlo neutron capture rate variations in
-    weak r-process simulations\
+-   [Correlated and uncorrelated Monte Carlo neutron capture rate variations in
+    weak r-process simulations](https://doi.org/10.1103/32jv-8965)\
     A. Kedia, J. Berryman, J. Garcia, J. Escher, O. Gorton, E. Holmbeck, 
     G. McLaughlin, C. Pruitt, A. Sieverding, R. Surman\
     *Submitted to Physical Review C* |
@@ -278,10 +278,11 @@ reports)
 
 ### Invited talks
 
--   Reduced-order models to accelerate uncertainty quantification: from shell
-    model to neutron capture\
-    FRIB-TA Topical Program: Statistical Nuclear Properties in the AI/ML Era: Advances, Chal-
-    lenges, and Synergies for FRIB Science – East Lancing, Michigan, Scheduled July 2026
+-   [Reduced-order models to accelerate uncertainty quantification: from shell
+    model to neutron capture](https://ogorton.github.io/talks/gorton_fribta2026.pdf)\
+    FRIB-TA Topical Program: Statistical Nuclear Properties in the AI/ML Era: 
+    Advances, Challenges, and Synergies for FRIB Science (East Lansing, 
+    Michigan, July 2026)
 -   [Radiative strength functions from the energy-localized Brink-Axel
     hypothesis](https://ogorton.github.io/talks/gorton_oslo2026.pdf)\
     10th Workshop on Level Densities and Gamma Strengths (Oslo, Norway, May 2026)
