@@ -170,7 +170,7 @@ reports)
     weak r-process simulations](https://doi.org/10.1103/32jv-8965)\
     A. Kedia, J. Berryman, J. Garcia, J. Escher, O. Gorton, E. Holmbeck, 
     G. McLaughlin, C. Pruitt, A. Sieverding, R. Surman\
-    *Submitted to Physical Review C* |
+    *Accepted to Physical Review C* |
     [arXiv:2602.12428](https://arxiv.org/abs/2602.12428)
 -   [Towards shell model interactions with credible uncertainties](https://doi.org/10.1103/fzxv-4q1r)\
     O. C. Gorton and K. Kravvaris\
