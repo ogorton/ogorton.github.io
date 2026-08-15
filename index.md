@@ -30,7 +30,7 @@ relates to astrophysics and nuclear technologies, two fields which test our
 understanding of matter in neutron-rich environments.
 
 *Fundamental nuclear physics*: advancing the nuclear structure and reaction
-theory which gov- erns the interaction of neutrons and radiation with matter.
+theory which governs the interaction of neutrons and radiation with matter.
 
 *Nuclear data*: strengthening nuclear data libraries with physics models and
 robust uncertainty quantification to empower inference from multi-physics
