@@ -36,7 +36,7 @@ theory which governs the interaction of neutrons and radiation with matter.
 robust uncertainty quantification to empower inference from multi-physics
 simulations.
 
-*High energy-density (HED) science*: learning to run HYDRA simulations of NIF
+*High energy-density (HED) science*: using HYDRA simulations of NIF
 implosions to investigate utility of future HED facilities for national
 security.
 
