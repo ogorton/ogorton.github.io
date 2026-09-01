@@ -1,11 +1,10 @@
 body {
-  margin: 40px auto;
-  max-width: 45em;
+  margin: 5ch auto;
+  max-width: 80ch;
   font-size: large;
   line-height: 1.2;
   color: #121212;
   background-color: #FFFFFF;
-  padding: 0 10px;
   text-rendering: optimizeLegibility;
   font-kerning: normal;
 }
