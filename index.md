@@ -1,5 +1,6 @@
 # Oliver Gorton
 
+
 Postdoctoral Research Staff\
 Nuclear Data and Theory Group\
 Lawrence Livermore National Laboratory
@@ -110,49 +111,13 @@ Department of Physics, San Diego State University
 
 [back to top](#oliver-gorton)
 
-## Service 
-
-Service and outreach activities:
-
-- Coding Mentor for “Coding with LLNL” at Christensen Middle School, 2025-26
-- Co-organizer for CENTAUR 2026 meeting at LLNL
-- LLNL Institutional Computing Grand Challenge Committee Fall 2025
-- Referee for Physical Review C
-
-## Training 
-
-Selected workshops and formal training attendance:
-
-- “Making the most of your presentation” training by Jean-Luc Doumont (2025)
-- “FIESTA 2024”, Fission Experiments and Theoretical Advances (FIESTA), a fission-focused
-school and workshop at LANL
-- “Technical Writing Workshop” at LLNL (2019)
-
-## Codes 
-
-I am the primary developer of these codes:
-
-- **COMMCAS** *Python* [LLNL-TR-2011377] [Not yet public]\
-Uncertainty quantification and statistical inference framework for nuclear physics models
-    - Monte-Carlo, Importance Sampling, MCMC, forward propagation methods
-    - Provides generic model wrapper with user-friendly abstractions of model
-      inputs/outputs, experimental data, unknown sources of uncertainty, and
-      more
-- **PANASh** *Fortran* [[Publication]](https://doi.org/10.1103/PhysRevC.110.034305) [Not yet public]\
-Shell model code with advanced basis-reduction scheme to compute nuclear wave functions
-    - Custom Krylov-subspace algorithms (block Lanczos with on-the-fly matrix elements)
-    - MPI and openMP hybrid parallelization
-- **dmscatter** *Fortran and Python* [[Publication]](https://doi.org/10.1016/j.cpc.2022.108597) [[Repository]](https://github.com/ogorton/dmfortfactor)\
-A fast Fortran code for WIMP-nucleus form factors and differential event rate spectra. Modern Fortran with Python interface. OpenMP parallel.
-- **Wigner** *Fortran* [Repository](https://github.com/ogorton/wigner)\
-A library of functions for computing vector-coupling coefficients, written in modern Fortran.
-
-[back to top](#oliver-gorton)
 
 ## Publications
 
+
 21 publications (9 journal papers, 8 conference proceedings, 4 technical
 reports)
+
 
 ### Journal papers
 
@@ -209,6 +174,7 @@ reports)
 
 
 ### Conference papers
+
 
 -   From credible shell model interactions to neutron-capture uncertainties\
     O. Gorton and K. Kravvaris\
@@ -388,5 +354,45 @@ reports)
     Poster at Compound Nuclear Reactions
     conference [CNR18](https://indico.bnl.gov/event/4158) (Berkeley,
     September 2018)
+
+[back to top](#oliver-gorton)
+
+
+## Service 
+
+Service and outreach activities:
+
+- Coding Mentor for “Coding with LLNL” at Christensen Middle School, 2025-26
+- Co-organizer for CENTAUR 2026 meeting at LLNL
+- LLNL Institutional Computing Grand Challenge Committee Fall 2025
+- Referee for Physical Review C
+
+## Training 
+
+Selected workshops and formal training attendance:
+
+- “Making the most of your presentation” training by Jean-Luc Doumont (2025)
+- “FIESTA 2024”, Fission Experiments and Theoretical Advances (FIESTA), a fission-focused
+school and workshop at LANL
+- “Technical Writing Workshop” at LLNL (2019)
+
+## Codes 
+
+I am the primary developer of these codes:
+
+- **COMMCAS** *Python* [LLNL-TR-2011377] [Not yet public]\
+Uncertainty quantification and statistical inference framework for nuclear physics models
+    - Monte-Carlo, Importance Sampling, MCMC, forward propagation methods
+    - Provides generic model wrapper with user-friendly abstractions of model
+      inputs/outputs, experimental data, unknown sources of uncertainty, and
+      more
+- **PANASh** *Fortran* [[Publication]](https://doi.org/10.1103/PhysRevC.110.034305) [Not yet public]\
+Shell model code with advanced basis-reduction scheme to compute nuclear wave functions
+    - Custom Krylov-subspace algorithms (block Lanczos with on-the-fly matrix elements)
+    - MPI and openMP hybrid parallelization
+- **dmscatter** *Fortran and Python* [[Publication]](https://doi.org/10.1016/j.cpc.2022.108597) [[Repository]](https://github.com/ogorton/dmfortfactor)\
+A fast Fortran code for WIMP-nucleus form factors and differential event rate spectra. Modern Fortran with Python interface. OpenMP parallel.
+- **Wigner** *Fortran* [Repository](https://github.com/ogorton/wigner)\
+A library of functions for computing vector-coupling coefficients, written in modern Fortran.
 
 [back to top](#oliver-gorton)
