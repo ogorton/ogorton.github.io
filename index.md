@@ -1,5 +1,6 @@
 # Oliver Gorton
 
+
 Postdoctoral Research Staff\
 Nuclear Data and Theory Group\
 Lawrence Livermore National Laboratory
@@ -15,8 +16,6 @@ Jump to:
 - [Research](#research)\
 - [Education](#education)\
 - [Experience](#experience)\
-- [Service](#service)\
-- [Training](#training)\
 - [Codes](#codes)\
 - [Publications](#publications)\
 - [Presentations](#presentations)\
@@ -29,16 +28,14 @@ I develop theory and codes to improve our understanding of nuclear physics as it
 relates to astrophysics and nuclear technologies, two fields which test our
 understanding of matter in neutron-rich environments.
 
-*Fundamental nuclear physics*: advancing the nuclear structure and reaction
-theory which governs the interaction of neutrons and radiation with matter.
-
-*Nuclear data*: strengthening nuclear data libraries with physics models and
-robust uncertainty quantification to empower inference from multi-physics
-simulations.
-
-*High energy-density (HED) science*: using HYDRA simulations of NIF
-implosions to investigate utility of future HED facilities for national
-security.
+-   *Fundamental nuclear physics*: advancing the nuclear structure and reaction
+    theory which governs the interaction of neutrons and radiation with matter.
+-   *Nuclear data*: strengthening nuclear data libraries with physics models and
+    robust uncertainty quantification to empower inference from multi-physics
+    simulations.
+-   *High energy-density (HED) science*: using HYDRA simulations of NIF
+    implosions to investigate utility of future HED facilities for national
+    security.
 
 
 ## Education
@@ -69,6 +66,10 @@ security.
       nuclei
     - Developing and applying robust statistical inference tools to bolster
       LLNL nuclear data libraries
+    - Initial analysis of charged-particle reactions as a mix diagnostic for
+      high-yield inertial-confinement fusion implosions
+    - Investigating feasibility of measuring second-order reactions in future
+      HED facilities
 - [Weapon Physics and Design ACT Scholar](https://www.llnl.gov/news/labs-act-awards-focus-collaborative-university-research), 2022 -- 2024\
 Nuclear Data and Theory Group, LLNL\
 New predictive capability for reaction and decay properties of fission
@@ -110,25 +111,9 @@ Department of Physics, San Diego State University
 
 [back to top](#oliver-gorton)
 
-## Service 
-
-Service and outreach activities:
-
-- Coding Mentor for “Coding with LLNL” at Christensen Middle School, 2025-26
-- Co-organizer for CENTAUR 2026 meeting at LLNL
-- LLNL Institutional Computing Grand Challenge Committee Fall 2025
-- Referee for Physical Review C
-
-## Training 
-
-Selected workshops and formal training attendance:
-
-- “Making the most of your presentation” training by Jean-Luc Doumont (2025)
-- “FIESTA 2024”, Fission Experiments and Theoretical Advances (FIESTA), a fission-focused
-school and workshop at LANL
-- “Technical Writing Workshop” at LLNL (2019)
 
 ## Codes 
+
 
 I am the primary developer of these codes:
 
@@ -149,10 +134,13 @@ A library of functions for computing vector-coupling coefficients, written in mo
 
 [back to top](#oliver-gorton)
 
+
 ## Publications
+
 
 21 publications (9 journal papers, 8 conference proceedings, 4 technical
 reports)
+
 
 ### Journal papers
 
@@ -160,7 +148,7 @@ reports)
 -   [Radiative strength functions from the energy-localized Brink-Axel
     hypothesis](https://doi.org/10.1103/kg6r-t5d1)\
     O. Gorton, K. Kravvaris, J. Escher, C. Johnson\
-    [Editor's Suggestion] -- *Physical Review C 113, 044327 (2026)* |
+    [[Editor's Suggestion]](https://journals.aps.org/prc/issues/113/4) -- *Physical Review C 113, 044327 (2026)* |
     [arXiv:2601.12225](https://arxiv.org/abs/2601.12225)
 -   [Constraining capture cross sections using proton inelastic scattering as a
     surrogate reaction](https://doi.org/10.1016/j.physletb.2026.140433)\
@@ -172,7 +160,7 @@ reports)
     weak r-process simulations](https://doi.org/10.1103/32jv-8965)\
     A. Kedia, J. Berryman, J. Garcia, J. Escher, O. Gorton, E. Holmbeck, 
     G. McLaughlin, C. Pruitt, A. Sieverding, R. Surman\
-    *Accepted to Physical Review C* |
+    [[Editor's Suggestion]](https://journals.aps.org/prc/issues/114/3) -- *Physical Review C 114, 035805 (2026)* |
     [arXiv:2602.12428](https://arxiv.org/abs/2602.12428)
 -   [Towards shell model interactions with credible uncertainties](https://doi.org/10.1103/fzxv-4q1r)\
     O. C. Gorton and K. Kravvaris\
@@ -210,9 +198,10 @@ reports)
 
 ### Conference papers
 
+
 -   From credible shell model interactions to neutron-capture uncertainties\
     O. Gorton and K. Kravvaris\
-    *To be submitted European Physical Journal, Web of Conferences (2026)* |
+    *Submitted to European Physical Journal, Web of Conferences (2026)* |
     [arXiv:2604:09935](https://doi.org/10.48550/arXiv.2604.09935)
 -   [A weak entanglement approximation for nuclear structure: a progress report](https://doi.org/10.1016/j.jspc.2025.100061)\
     C. Johnson and O. Gorton\
@@ -252,6 +241,7 @@ reports)
 
 ### Technical reports
 
+
 - From new measurements to new data libraries: The LLNL nuclear data pipeline at work
   M. Anastasiou, B. Beck, R. Casperson, M.-A. Descalle, J. Escher, O. Gorton, K. Kravvaris, C.
   Mattoon, M. Mendenhall, W. Ormand, G. Potel Aguilar, S. Quaglioni, A. Sieverding, L. Snyder, I.
@@ -274,11 +264,15 @@ reports)
 
 [back to top](#oliver-gorton)
 
+
 ## Presentations
+
 
 2 invited talks, 17 contributed talks, 7 posters
 
+
 ### Invited talks
+
 
 -   [Statistical properties from the shell model and reduced-order fitting 
     schemes](https://ogorton.github.io/talks/gorton_fribta2026.pdf)\
@@ -289,7 +283,9 @@ reports)
     hypothesis](https://ogorton.github.io/talks/gorton_oslo2026.pdf)\
     10th Workshop on Level Densities and Gamma Strengths (Oslo, Norway, May 2026)
 
+
 ### Contributed talks
+
 
 -   [Nuclear theory for astrophysics and nuclear
     technologies](https://ogorton.github.io/talks/gorton_plsseminar26.pdf)\
