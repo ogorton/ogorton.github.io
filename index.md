@@ -288,7 +288,7 @@ reports)
 
 -   [Initial analysis of charged-particle reactions as a mix diagnostic for
     high-yield NIF
-    implosions](https://ogorton/github.io/talks/gorton_jheds2026.pdf)\
+    implosions](https://ogorton.github.io/talks/gorton_jheds2026.pdf)\
     Joint high-energy-density seminar work-in-progress presentation (LLNL,
     October 2026)
 -   [Nuclear theory for astrophysics and nuclear
