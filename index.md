@@ -211,13 +211,16 @@ O. Gorton and J. E. Escher\
 ### Technical reports
 
 
-From new measurements to new data libraries: The LLNL nuclear data pipeline at work
-M. Anastasiou, B. Beck, R. Casperson, M.-A. Descalle, J. Escher, O. Gorton, K. Kravvaris, C.
-Mattoon, M. Mendenhall, W. Ormand, G. Potel Aguilar, S. Quaglioni, A. Sieverding, L. Snyder, I.
-Thompson, and K. Wendt\
+From new measurements to new data libraries: The LLNL nuclear data pipeline at
+work\
+M. Anastasiou, B. Beck, R. Casperson, M.-A. Descalle, J. Escher, O. Gorton, K.
+Kravvaris, C.  Mattoon, M. Mendenhall, W. Ormand, G. Potel Aguilar, S.
+Quaglioni, A. Sieverding, L. Snyder, I.  Thompson, and K. Wendt\
 Internal working document
+
 COMMCAS: Computational Model Monte Carlo Sampler\
-O. Gorton, J. Escher, S. Perrotta, C. Pruitt, A. Thapa, V. Kruse, E. Shinkle, M. Paik, and H. Frye\
+O. Gorton, J. Escher, S. Perrotta, C. Pruitt, A. Thapa, V. Kruse, E. Shinkle, M.
+Paik, and H. Frye\
 LLNL-TR-2011377-DRAFT
 
 [Evaluations for neutron-induced activation cross sections for Y and Zr isotopes](https://doi.org/10.2172/2997578)\
