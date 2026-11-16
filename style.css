@@ -1,6 +1,6 @@
 body {
   margin: 40px auto;
-  padding: 1ch;
+  padding: 4ch;
   max-width: 80ch;
   font-size: large;
   line-height: 1.2;
@@ -19,7 +19,7 @@ h2 {
     border-bottom: 1px solid black;
     line-height : 1.1em;
     font-size:x-large;
-    margin-bottom: .31px;
+    margin-bottom: .31em;
 }
 #profile_pic {
  float:right;
